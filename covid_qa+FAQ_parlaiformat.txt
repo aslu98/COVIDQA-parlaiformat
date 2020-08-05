@@ -231,8 +231,7 @@ text: What past research has been done on severe, single-wave pandemics?	labels:
 text: What is a clinical attack rate?	labels: the proportion of individuals who become ill with or die from a disease in a population initially uninfected	episode_done:True
 text: What was the clinical attack rate in the 2009 H1N1 pandemic?	labels: 20%	episode_done:True
 text: What is the estimated R0 of COVID-19?	labels: 2.2	episode_done:True
-text: How many ventilators have past studies projected will be required for a pandemic in the United States?
-	labels: 35 000 to 60 000	episode_done:True
+text: How many ventilators have past studies projected will be required for a pandemic in the United States?	labels: 35 000 to 60 000	episode_done:True
 text: How is exhaled breath condensate used in viral research?	labels: the isolation of respiratory viruses	episode_done:True
 text: How many patients were i this study?	labels: 102	episode_done:True
 text: What was the conclusion of this study?	labels: EBC collection using the RTube™ is not reliable for diagnosis of respiratory infections	episode_done:True
@@ -890,9 +889,7 @@ text: What are methods to avoid the effect vector immunity on the efficacy of va
 text: What are methods to  avoid the effect of vector immune response on the efficacy of vaccination?	labels: The inhibitory effect of pre-existing immunity can also be avoided by masking the Ad vector inside dendritic cells (DCs) (Steffensen et al., 2012) . In addition, mucosal vaccination or administration of higher vaccine doses can overcome pre-existing immunity problems (Alexander et al., 2012; Belyakov et al., 1999; Priddy et al., 2008; Xiang et al., 2003) .
 	episode_done:True
 text: How does cell-mediated immunity to viral delivery vector, reduce the immune response to vaccine?	labels:  this is because viruses will induce neutralizing antibody on the first dose, and in subsequent doses this antibody will limit the number of transduced cells, therefore limiting the responses. This is particularly a problem with a common viral vector such as Ad, where a large proportion of the population will have immunological memory against common serotypes	episode_done:True
-text: How can vectors for which host has immunity, be used differently to increase the efficacy of vaccination?	labels:  it will be possible to utilize such vectors only by developing vaccines from alternative serotypes. It may be that a vector such as Pre-existing immunity against vaccine vectors attenuated influenza virus, with the ability to easily develop reassortants, will be useful in this context.
-
-In addition, immunological memory in the form of opsonizing antibody certainly plays an important role in the early uptake of Salmonella by macrophages and DC. This may be beneficial, as the live bacterial vector used for delivery purposes harbours mutations in genes encoding proteins responsible for their survival in the animal host. This not only encumbers their ability to cause disease, making them safe live vectors, but also limits the number of replications. The presence of opsonizing antibodies should mean a higher level of bacterial uptake, leading to higher presentation to the immune system and therefore a better immune response.	episode_done:True
+text: How can vectors for which host has immunity, be used differently to increase the efficacy of vaccination?	labels:  it will be possible to utilize such vectors only by developing vaccines from alternative serotypes. It may be that a vector such as Pre-existing immunity against vaccine vectors attenuated influenza virus, with the ability to easily develop reassortants, will be useful in this context. In addition, immunological memory in the form of opsonizing antibody certainly plays an important role in the early uptake of Salmonella by macrophages and DC. This may be beneficial, as the live bacterial vector used for delivery purposes harbours mutations in genes encoding proteins responsible for their survival in the animal host. This not only encumbers their ability to cause disease, making them safe live vectors, but also limits the number of replications. The presence of opsonizing antibodies should mean a higher level of bacterial uptake, leading to higher presentation to the immune system and therefore a better immune response.	episode_done:True
 text: How does the PED virus transmit between animals?	labels: fecal–oral contact	episode_done:True
 text: How can Bacilius subtilis be used as an oral vaccine?	labels: recombinant vaccine carrier	episode_done:True
 text: What cells are infected by the PED virus?	labels: intestine epithelial cells	episode_done:True
@@ -1452,10 +1449,7 @@ text: What type of virus is SARS-CoV-2?	labels: betacoronavirus	episode_done:Tru
 text: What viruses are similar to the COVID-19 coronavirus?	labels: MERS-CoV and SARS-CoV.	episode_done:True
 text: What are the phases of a pandemic?	labels: investigation phase, followed by recognition, initiation, and acceleration phases	episode_done:True
 text: At which phase does the peak of the pandemic occur?	labels: at the end of the acceleration phase	episode_done:True
-text: People with which medical conditions have a higher rate of severe illness?	labels: People who have serious chronic medical conditions like:
-Heart disease
-Diabetes
-Lung disease	episode_done:True
+text: People with which medical conditions have a higher rate of severe illness?	labels: People who have serious chronic medical conditions like: Heart disease, Diabetes, Lung disease	episode_done:True
 text: What kind of test can diagnose COVID-19?	labels: rRT-PCR test	episode_done:True
 text: In what species did the COVID-19 virus likely originate?	labels: bats	episode_done:True
 text: What risk factors should be considered in addition to clinical symptoms?	labels: Does the patient have recent travel from an affected area?
@@ -1590,66 +1584,31 @@ text: How did the first WHO case definition  define probable cases of MERS?	labe
 text: What is PHEIC?	labels: Public Health Emergency of International Concern'	episode_done:True
 text: How is PHEIC defined?	labels: an extraordinary event which is determined to constitute a public health risk to other States through the international spread of disease and to potentially require a coordinated international response	episode_done:True
 text: What platform was instrumental in rapid sharing of COVID-19 information?	labels: Global Initiative on Sharing All Influenza Data (GISAID)	episode_done:True
-text: What's the recommended procedure to disinfect at CT scanner after a COVID-19 exposure?	labels: The equipment in the contaminated area are wiped with
-2000mg/L chlorine-containing disinfectant. The DR and CT gantry in the contaminated
-area are wiped with 75% ethanol. The equipment in the buffer area is wiped with
-500-1000mg/L chlorine-containing disinfectant or alcohol-containing disposable
-disinfectant wipes twice a day.	episode_done:True
+text: What's the recommended procedure to disinfect at CT scanner after a COVID-19 exposure?	labels: The equipment in the contaminated area are wiped with 2000mg/L chlorine-containing disinfectant. The DR and CT gantry in the contaminated area are wiped with 75% ethanol. The equipment in the buffer area is wiped with 500-1000mg/L chlorine-containing disinfectant or alcohol-containing disposable disinfectant wipes twice a day.	episode_done:True
 text: What's the recommended method to disinfect floors for COVID-19?	labels: The ground is wiped with 1000mg/L chlorine-containing
 disinfectant, once /4 hours.	episode_done:True
 text: What is the role of computed tomography (CT) in COVID-19?	labels: diagnosing and categorizing
 COVID-19 on the basis of case definitions issued by the WHO	episode_done:True
 text: What kind of masks are recommended to protect healthcare workers from COVID-19 exposure?	labels: N95 mask	episode_done:True
 text: What thickness of layers is recommended for CT image reconstruction in COVID-19 assessment?	labels: 1 mm-thick layers	episode_done:True
-text: What must the data gathering include?	labels: up-to-date case definitions and information about
-confirmatory tests to all staff with direct patient contact to allow appropriate barrier precautions
-to be taken.	episode_done:True
-text: What must be done to assist in recognition of the disease on images and to allow accurate reporting
-of these findings?
-	labels: All typical and atypical imaging features of the disease should be made known to
-all radiologists	episode_done:True
-text: What is the major role of chest CT?	labels: to understand the
-extent and dynamic evolution of lung lesions induced by COVID-19	episode_done:True
-text: What is the reason to adopt low-dose CT?	labels:  low-dose chest CT has been
-widely used in the screening of early lung cancer. It is well known that many early lung cancers
-are ground-glass opacities (GGO), so we believe that low-dose screening is also applicable for
-COVID-19. In addition, considering the rapid development of COVID-19, many CT
-14
-examinations may be conducted in the same individual to monitor disease progress. Low-dose
-scanning can reduce the radiation damage to patients.	episode_done:True
-text: What did the EMICT responsibilities include?	labels:  (1) coordination between the
-hospital’s management and planning of infection control and radiology departments; (2)
-collection of the most up-to-date protection-related information to educate and train staff in the
-department; (3) reallocation of staff according to the actual situation; (4) establishment of the
-CT procedures for patients with COVID-19; and (5) establishment of an emergency
-management plan for the radiology department to ensure that the department would run
-normally.	episode_done:True
-text: How were the radiology department areas divided?	labels: contaminated, semicontaminated,
-buffer, and clean areas	episode_done:True
-text: How was the contaminated area connected to the CT room and other facilities?	labels: connected to the fever clinic and
-includes the fever accessway, the CT examination room, and the DR examination room for
-6
-confirmed and suspected cases. One CT scanner and one DR system closest to the emergency
-department are designated the fever-CT and fever-DR to examine patients with suspected and
-confirmed COVID-19. There is a separate dedicated access between the contaminated area and
-the fever screening tents. 	episode_done:True
-text: What does the clean area include?	labels: he clean area
-includes the administrative office and the diagnostic room.	episode_done:True
-text: What does the semicontaminated area include?	labels:  the fever-CT control room,
-fever-DR control room, and other patient examination access areas. 	episode_done:True
+text: What must the data gathering include?	labels: up-to-date case definitions and information about confirmatory tests to all staff with direct patient contact to allow appropriate barrier precautions to be taken.	episode_done:True
+text: What must be done to assist in recognition of the disease on images and to allow accurate reporting of these findings?	labels: All typical and atypical imaging features of the disease should be made known to all radiologists	episode_done:True
+text: What is the major role of chest CT?	labels: to understand the extent and dynamic evolution of lung lesions induced by COVID-19	episode_done:True
+text: What is the reason to adopt low-dose CT?	labels:  low-dose chest CT has been widely used in the screening of early lung cancer. It is well known that many early lung cancers are ground-glass opacities (GGO), so we believe that low-dose screening is also applicable for COVID-19. In addition, considering the rapid development of COVID-19, many CT 14 examinations may be conducted in the same individual to monitor disease progress. Low-dose scanning can reduce the radiation damage to patients.	episode_done:True
+text: What did the EMICT responsibilities include?	labels:  (1) coordination between the hospital’s management and planning of infection control and radiology departments; (2) collection of the most up-to-date protection-related information to educate and train staff in the department; (3) reallocation of staff according to the actual situation; (4) establishment of the CT procedures for patients with COVID-19; and (5) establishment of an emergency management plan for the radiology department to ensure that the department would run normally.	episode_done:True
+text: How were the radiology department areas divided?	labels: contaminated, semicontaminated, buffer, and clean areas	episode_done:True
+text: How was the contaminated area connected to the CT room and other facilities?	labels: connected to the fever clinic and includes the fever accessway, the CT examination room, and the DR examination room for 6 confirmed and suspected cases. One CT scanner and one DR system closest to the emergency department are designated the fever-CT and fever-DR to examine patients with suspected and confirmed COVID-19. There is a separate dedicated access between the contaminated area and the fever screening tents. 	episode_done:True
+text: What does the clean area include?	labels: he clean area includes the administrative office and the diagnostic room.	episode_done:True
+text: What does the semicontaminated area include?	labels:  the fever-CT control room, fever-DR control room, and other patient examination access areas. 	episode_done:True
 text: What does the buffer area include?	labels: access areas for medical personnel and a dressing area for technologists. 	episode_done:True
-text: How was the wearing and removing of the equipment performed?	labels: under the supervision of
-the infection control nurse.	episode_done:True
+text: How was the wearing and removing of the equipment performed?	labels: under the supervision of the infection control nurse.	episode_done:True
 text: What can lower the physical and mental stress levels of staff members?	labels:  periodically taking time off 	episode_done:True
 text: Who must be assigned to the clean area?	labels: Pregnant staff 	episode_done:True
 text: What responses must EMICT consider once a disease has been identified?	labels: data gathering, collaboration, needs assessment, and expert advice 	episode_done:True
-text: What is the conclusion of the report?	labels: Strategic planning and adequate protections can help protect patients and staff
-against a highly infectious disease while maintaining function at a high volume capacity.
-Keywords: Coronavirus, COVID-19, novel coronavirus pneumonia, infection control	episode_done:True
+text: What is the conclusion of the report?	labels: Strategic planning and adequate protections can help protect patients and staff against a highly infectious disease while maintaining function at a high volume capacity.
 text: What were the number of cases in mainland china as of March 11th?	labels: 80,793 	episode_done:True
 text: How many COVID deaths occurred in Chinese mainland as of March 11th?	labels: 3,169 	episode_done:True
-text: How many people have come in contact and how many of these are in observation?	labels: 677,243 people have been identified as having had close contact with
-infected patients of whom13,701 	episode_done:True
+text: How many people have come in contact and how many of these are in observation?	labels: 677,243 people have been identified as having had close contact with infected patients of whom13,701 	episode_done:True
 text: When was the novel Coronavirus first reported?	labels: December 2019	episode_done:True
 text: When did China detect the first human case of H7N9 infection?	labels: February 2013	episode_done:True
 text: How many deaths were associated with MERS-CoV as of July 2014?	labels: 288	episode_done:True
@@ -1677,9 +1636,7 @@ text: What were the model assumptions?	labels: the virus transmitted among the b
 text: What  compartments were the bats divided into?	labels: susceptible bats (S B ), exposed bats (E B ), infected bats (I B ), and removed bats (R B ).	episode_done:True
 text: What compartments were the host animals divided into?	labels: The hosts were also divided into four compartments: susceptible hosts (S H ), exposed hosts (E H ), infected hosts (I H ), and removed hosts (R H )	episode_done:True
 text: What was the SARS-COV-2 reservoir?	labels: the seafood market	episode_done:True
-text: What were the people divided into?	labels:  into five compartments:
-
-susceptible people (S P ), exposed people (E P ), symptomatic infected people (I P ), asymptomatic infected people (A P ), and removed people (R P ) including recovered and death people.	episode_done:True
+text: What were the people divided into?	labels:  into five compartments: susceptible people (S P ), exposed people (E P ), symptomatic infected people (I P ), asymptomatic infected people (A P ), and removed people (R P ) including recovered and death people.	episode_done:True
 text: What was the mean incubation period?	labels: 5.2 days (95% confidence interval [CI]: 4.1-7.0) 	episode_done:True
 text: What was the mean delay from symptom onset to detection/hospitalization of a case?	labels:  5-day	episode_done:True
 text: How long after onset, the cases detected in Thailand and Japan were hospitalized?	labels:  from 3 to 7 days	episode_done:True
@@ -1876,33 +1833,22 @@ text: What genotypes are associated with the severity of HFRS?	labels: rs12252 C
 text: Which IFITM proteins have been shown to possess antiviral activity?	labels: IFITM1, 2, and 3	episode_done:True
 text: What is the hypothesized mechanism by which IFITMs work?	labels: restrict viral infection at the stage of cellular entry	episode_done:True
 text: What genotype causes truncation of the IFITM3 protein?	labels: rs12252 C allele	episode_done:True
-text: What can cause a slowing growth in daily reported deaths?	labels: significant impact
-of interventions implemented several weeks earlier.	episode_done:True
+text: What can cause a slowing growth in daily reported deaths?	labels: significant impact of interventions implemented several weeks earlier.	episode_done:True
 text: When did Italy go into Iockdown?	labels: 11th March	episode_done:True
 text: Approximately how many deaths have been averted in Western Europe with current non-pharmaceutical interventions remaining in place until the end of March?	labels: 59,000 deaths	episode_done:True
-text: What are some non-pharmaceutical interventions?	labels: case isolation, the closure of schools and
-universities, banning of mass gatherings and/or public events, and most recently, widescale social
-distancing including local and national Iockdowns	episode_done:True
+text: What are some non-pharmaceutical interventions?	labels: case isolation, the closure of schools and universities, banning of mass gatherings and/or public events, and most recently, widescale social distancing including local and national Iockdowns	episode_done:True
 text: Type of model used to infer the impact non-pharmaceutical interventions?	labels: semi-mechanistic Bayesian hierarchical model	episode_done:True
-text: How can a semi-mechanistic Bayesian hierarchical model estimate changes to the reproductive number?	labels: calculating backwards from the deaths observed over time to estimate transmission that
-occurred several weeks prior, allowing for the time lag between infection and death.	episode_done:True
-text: What is a key assumption of a semi-mechanistic Bayesian hierarchical model used for coronavirus?	labels: each intervention has the same effect on the
-reproduction number across countries and over time	episode_done:True
-text: What is the time lag between when transmission changes occur and when their impact can be
-observed in trends in mortality?	labels: 2-3 weeks	episode_done:True
+text: How can a semi-mechanistic Bayesian hierarchical model estimate changes to the reproductive number?	labels: calculating backwards from the deaths observed over time to estimate transmission that occurred several weeks prior, allowing for the time lag between infection and death.	episode_done:True
+text: What is a key assumption of a semi-mechanistic Bayesian hierarchical model used for coronavirus?	labels: each intervention has the same effect on the reproduction number across countries and over time	episode_done:True
+text: What is the time lag between when transmission changes occur and when their impact can be observed in trends in mortality?	labels: 2-3 weeks	episode_done:True
 text: What is the key aim of non-pharmaceutical interventions?	labels: reduce the effective reproduction number	episode_done:True
 text: What happens if the reproduction number is greater then 1?	labels: infections will increase (dependent on how much greater than 1 the reproduction number is)	episode_done:True
 text: When did China introduce strict movement restrictions and other measures including case isolation and quarantine?	labels: 23rd January	episode_done:True
-text: What was the result of China's interventions introduced in January?	labels: downward trend in the number of
-confirmed new cases during February	episode_done:True
-text: What are examples of social distancing?	labels: banning large gatherings and advising individuals not to socialize outside
-their households	episode_done:True
-text: What was the estimated effect on China's reproduction number in March based on the intervention introduced in January?	labels: from
-around 2-4 during the uncontrolled epidemic down to below 1	episode_done:True
-text: Why is it challenging to estimate the reproduction number?	labels: high proportion of
-infections not detected by health systems”7 and regular changes in testing policies,	episode_done:True
-text: What is an alternative way to estimate the course of an epidemic?	labels: back-calculate infections from
-observed deaths	episode_done:True
+text: What was the result of China's interventions introduced in January?	labels: downward trend in the number of confirmed new cases during February	episode_done:True
+text: What are examples of social distancing?	labels: banning large gatherings and advising individuals not to socialize outside their households	episode_done:True
+text: What was the estimated effect on China's reproduction number in March based on the intervention introduced in January?	labels: from around 2-4 during the uncontrolled epidemic down to below 1	episode_done:True
+text: Why is it challenging to estimate the reproduction number?	labels: high proportion of infections not detected by health systems”7 and regular changes in testing policies,	episode_done:True
+text: What is an alternative way to estimate the course of an epidemic?	labels: back-calculate infections from observed deaths	episode_done:True
 text: What is the estimated attack rate in Italy?	labels: 9.8% [3.2%-25%] of the population	episode_done:True
 text: As of the end of March what is the proportion of Spain's population to be infected?	labels: 15.0% (7.0 [18-19] million people)	episode_done:True
 text: Which Western European country is estimated to have the lowest attack rate?	labels: Germany	episode_done:True
@@ -1918,12 +1864,10 @@ text: What is Spain's estimated mean percentage [95% credible interval] of total
 text: What is Switzerland's estimated mean percentage [95% credible interval] of total population infected as of 28th March?	labels: 3.2% [1.3%-7.6%]	episode_done:True
 text: What is United Kingdom's estimated mean percentage [95% credible interval] of total population infected as of 28th March?	labels: 2.7% [1.2%-5.4%]	episode_done:True
 text: What is the estimated averaged initial reproduction number [95% credible interval] for Western Europe as of 28th March?	labels: 3.87 [3.01-4.66]	episode_done:True
-text: Why is there high uncertainty in estimating the impact of interventions against the coronavirus?	labels: too early to detect substantial
-intervention impact in many countries at earlier stages of their epidemic	episode_done:True
+text: Why is there high uncertainty in estimating the impact of interventions against the coronavirus?	labels: too early to detect substantial intervention impact in many countries at earlier stages of their epidemic	episode_done:True
 text: Why is it statistically impossible to determine which individual intervention had the greatest effect on reducing the coronavirus reproduction number?	labels: close spacing of interventions in time	episode_done:True
 text: What is estimated to drop immediately after an introduction of a non-pharmaceutical intervention?	labels:  number of daily infections	episode_done:True
-text: One way to understand the impact of interventions?	labels: fit a counterfactual model without the interventions
-and compare this to the actual model	episode_done:True
+text: One way to understand the impact of interventions?	labels: fit a counterfactual model without the interventions and compare this to the actual model	episode_done:True
 text: What is a lockdown?	labels: banned gatherings of more than 2 people	episode_done:True
 text: Why is it hard to know the true incidence of infections number?	labels: underreporting as well as systematic and country-specific changes in testing	episode_done:True
 text: What is an example of a case-based measure against coronavirus?	labels: strong recommendations or laws to the general
@@ -1933,26 +1877,20 @@ text: What does a public events ban intervention mean?	labels: banning all publi
 text: An example of social distancing	labels: work from home wherever possible	episode_done:True
 text: Example of social distancing	labels: reducing use ofpublictransport	episode_done:True
 text: What is a lockdown?	labels: regulations/legislations regarding strict face-to-face social interaction	episode_done:True
-text: What is an infection-to-onset-distribution?	labels: time from infection to the onset
-of symptoms	episode_done:True
+text: What is an infection-to-onset-distribution?	labels: time from infection to the onset of symptoms	episode_done:True
 text: What is an onset-to-death distribution?	labels: time from the onset of symptoms to death	episode_done:True
-text: What is the population-averaged infection fatality ratio?	labels: adjusted for the age structure and contact patterns of
-each country	episode_done:True
+text: What is the population-averaged infection fatality ratio?	labels: adjusted for the age structure and contact patterns of each country	episode_done:True
 text: What is the time-varying reproduction number a function of?	labels:  initial reproduction number before interventions and the effect sizes from
 interventions	episode_done:True
 text: What is an incubation period?	labels: infection to onset of symptoms	episode_done:True
-text: What is an incubation period?	labels: infection-
-to-onset	episode_done:True
-text: What are the descriptive statistics for the onset-to-death for coronavirus?	labels: Gamma distributed with a mean of 18.8 days and a
-coefficient of va riation 0.45	episode_done:True
-text: What are the descriptive statistics for the incubation period for coronavirus?	labels: distribution is Gamma distributed with mean 5.1 days and coefficient of variation
-0.86	episode_done:True
+text: What is an incubation period?	labels: infection-to-onset	episode_done:True
+text: What are the descriptive statistics for the onset-to-death for coronavirus?	labels: Gamma distributed with a mean of 18.8 days and a coefficient of va riation 0.45	episode_done:True
+text: What are the descriptive statistics for the incubation period for coronavirus?	labels: distribution is Gamma distributed with mean 5.1 days and coefficient of variation 0.86	episode_done:True
 text: What is the estimated infection-to-death distribution's mean for coronavirus?	labels: 23.9 days	episode_done:True
 text: What is a well known approach to model the true number of infected individuals?	labels: discrete renewal process	episode_done:True
 text: What is a way to measure virus transmission?	labels: reproductive number	episode_done:True
 text: What term describes when a majority of the population has built an immunity to a virus?	labels: herd immunity	episode_done:True
-text: What is the estimated number of people in Italy infected with coronavirus by March 28th?	labels: cumulatively, 5.9 [1.9-15.2] million people have been
-infected as of March 28th	episode_done:True
+text: What is the estimated number of people in Italy infected with coronavirus by March 28th?	labels: cumulatively, 5.9 [1.9-15.2] million people have been infected as of March 28th	episode_done:True
 text: In 2009 what was the reported H1N1 vaccination rate in China?	labels: 10.8%	episode_done:True
 text: What is the highest alert level given by the World Health Organization to a pandemic?	labels: phase 6	episode_done:True
 text: What does it mean for a pandemic to have a WHO alert level of 6?	labels: spread in more than two continents	episode_done:True
@@ -2073,24 +2011,11 @@ text: What is a recent discovery?	labels: Bat is believed to harbor many more vi
 text: Which bat virus have been found to be linked with diseases?	labels: potential human infecting HKU-1, 4, 5 and 9 [17, 18] . Recent MERS-CoV infection is another example for severe disease caused by used-to-be-less pathogenic coronaviruses. Shi and colleagues [19] by using NGS have discovered many unknown animal viruses from bat, especially some important paramyxoviruses and reoviruses. Filovirus has also been identified in bat with potential severe outcomes. Lyssaviruses (with many genotypes, including rabies virus) in the Rhabdoviridae family have been linked with severe fatal human cases, even in the developed countries, including Australia, with the bites of bats in the city [20, 21] .	episode_done:True
 text: What assay played an important role?	labels: reverse transcription polymerase chain reaction (RT-PCR)	episode_done:True
 text: What was the death toll in the 1918-1919 Spanish Influenza epidemic?	labels: 50 million deaths worldwide	episode_done:True
-text: How many people were infected during the 1918 Spanish Influenza epidemic?	labels: An estimated one third of the world’s population (or
-z500 million persons) were infected and had clinical-
-ly apparent illnesses	episode_done:True
-text: What was the case fatality rate in the 1918 Spanish Influenza epidemic?	labels: Case-
-fatality rates were >2.5%, compared to <0.1% in other
-inﬂuenza pandemics	episode_done:True
-text: What was the death toll in the 1918-1919 Spanish Influenza epidemic?	labels: Total deaths were estimated at
-z50 million (577) and were arguably as high as 100 mil-
-lion 	episode_done:True
-text: Are the modern day Influenza viruses related to the 1918 Spanish Influenza virus?	labels:  All inﬂuenza A pandemics since that time, and
-indeed almost all cases of inﬂuenza A worldwide (except-
-ing human infections from avian Viruses such as H5N1 and
-H7N7), have been caused by descendants of the 1918
-Virus, including “drifted” H1N1 Viruses and reassorted
-H2N2 and H3N2 Viruses.	episode_done:True
-text: Why is the Spanish Influenza virus the Mother of the modern influenza viruses?	labels: The latter are composed of key
-genes from the 1918 Virus, updated by subsequently-incor—
-porated avian inﬂuenza genes that code for novel surface
+text: How many people were infected during the 1918 Spanish Influenza epidemic?	labels: An estimated one third of the world’s population (or 500 million persons) were infected and had clinically apparent illnesses	episode_done:True
+text: What was the case fatality rate in the 1918 Spanish Influenza epidemic?	labels: Case-fatality rates were >2.5%, compared to <0.1% in otherinﬂuenza pandemics	episode_done:True
+text: What was the death toll in the 1918-1919 Spanish Influenza epidemic?	labels: Total deaths were estimated atz50 million (577) and were arguably as high as 100 mil-lion 	episode_done:True
+text: Are the modern day Influenza viruses related to the 1918 Spanish Influenza virus?	labels:  All inﬂuenza A pandemics since that time, andindeed almost all cases of inﬂuenza A worldwide (except-ing human infections from avian Viruses such as H5N1 and H7N7), have been caused by descendants of the 1918 Virus, including “drifted” H1N1 Viruses and reassorted H2N2 and H3N2 Viruses.	episode_done:True
+text: Why is the Spanish Influenza virus the Mother of the modern influenza viruses?	labels: The latter are composed of key genes from the 1918 Virus, updated by subsequently-incor— porated avian inﬂuenza genes that code for novel surface
 
  
 
