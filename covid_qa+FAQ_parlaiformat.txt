@@ -165,8 +165,7 @@ text: How many nucleotides does bovine coronavirus contain?	labels: 30,847 nucle
 text: What is the size of the orf1ab gene in bovine coronavirus?	labels: 20kb	episode_done:True
 text: Is the orf1ab gene at the 3' or 5' end of the bovine coronavirus genome?	labels: 5= side	episode_done:True
 text: What is a significant cause of Influenze like illness among healthy adolescents and adults presenting for medical evaluation?	labels: HCoV	episode_done:True
-text: What is the most common species of Human Coronavirus among adults?
-	labels: HCoV-OC43	episode_done:True
+text: What is the most common species of Human Coronavirus among adults?	labels: HCoV-OC43	episode_done:True
 text: Which Human Coronavirus showed species specific clinical characteristics of its infection?	labels: HCoV‐HKU1	episode_done:True
 text: What causes the outbreak of SARS and MERS.	labels: Highly virulent species of HCoV	episode_done:True
 text: What is the case fatality rate of SARS and MERS?	labels: ranged from 14% to 45%	episode_done:True
