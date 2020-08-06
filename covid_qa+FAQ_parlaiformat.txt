@@ -1688,7 +1688,7 @@ text: What do mild clinical presentations of 2019-nCOV indicate?	labels: that th
 text: Why is important to  determine the spectrum of clinical manifestations of 2019-nCoV infections?	labels: because it determines the strength of public health response required.	episode_done:True
 text: What, beyond the assessment of severity, is important?	labels:  to determine high risk groups.	episode_done:True
 text: For whom would the infections be more severe?	labels: older adults, obese individuals or those with underlying medical conditions,	episode_done:True
-text: When is this especially true?	labels: when not all exacerbation events occurred during the viral infection but may also occur well after viral clearance (Kim et al., 2008; Stolz et al., 2019) in particular the late onset of a bacterial infection	episode_done:True
+text: When is this especially true?	labels: when not all exacerbation events occurred during the viral infection but may also occur well after viral clearance (Kim et al., 2008; Stolz et al., 2019) in particular the late onset of a bacterial infections 	episode_done:True
 text: What is the current understanding on viral-induced exacerbations?	labels: that viral infection increases airway inflammation which aggravates disease symptoms.	episode_done:True
 text: What have evoked new understandings as to the mechanisms of viral exacerbations?	labels: Recent advances in in vitro air-liquid interface 3D cultures, organoid cultures and the use of novel human and animal challenge models	episode_done:True
 text: What is one of  the major sources of exacerbation of chronic airway inflammatory diseases?	labels: Respiratory virus infection	episode_done:True
@@ -1751,7 +1751,7 @@ text: Why should future studies  be performed using metagenomics in addition to 
 text: What is highlighted by the authors in this review?	labels:  recent data regarding viral interactions with the airway epithelium that could also contribute to, or further aggravate, acute exacerbations of chronic airway inflammatory diseases.	episode_done:True
 text: Who has impaired or reduced ability of viral clearance ?	labels: Patients with chronic airway inflammatory diseases 	episode_done:True
 text: What does their impairment stems from?	labels: a type 2-skewed inflammatory response which deprives the airway of important type 1 responsive CD8 cells that are responsible for the complete clearance of virusinfected cells 	episode_done:True
-text: Where is this  especially evident?	labels: in weak type 1 inflammation-inducing viruses such as RV and RSV	episode_done:True
+text: Where is this especially evident?	labels: in weak type 1 inflammation-inducing viruses such as RV and RSV	episode_done:True
 text: What are other  effects?	labels: there are also evidence of reduced type I (IFNβ) and III (IFNλ) interferon production due to type 2-skewed inflammation, which contributes to imperfect clearance of the virus resulting in persistence of viral components, or the live virus in the airway epithelium 	episode_done:True
 text: What is the  effect of viral components remaining in the airway?	labels: antiviral genes such as type I interferons, inflammasome activating factors and cytokines remained activated resulting in prolong airway inflammation	episode_done:True
 text: What do these factors do?	labels: enhance granulocyte infiltration thus prolonging the exacerbation symptoms. Such persistent inflammation may also be found within DNA viruses such as AdV, hCMV and HSV, whose infections generally persist longer (Imperiale and Jiang, 2015) , further contributing to chronic activation of inflammation when they infect the airway	episode_done:True
@@ -1859,8 +1859,7 @@ text: What is estimated to drop immediately after an introduction of a non-pharm
 text: One way to understand the impact of interventions?	labels: fit a counterfactual model without the interventions and compare this to the actual model	episode_done:True
 text: What is a lockdown?	labels: banned gatherings of more than 2 people	episode_done:True
 text: Why is it hard to know the true incidence of infections number?	labels: underreporting as well as systematic and country-specific changes in testing	episode_done:True
-text: What is an example of a case-based measure against coronavirus?	labels: strong recommendations or laws to the general
-public and primary care about self—isolation when showing COVID-19-like symptoms	episode_done:True
+text: What is an example of a case-based measure against coronavirus?	labels: strong recommendations or laws to the general public and primary care about self—isolation when showing COVID-19-like symptoms	episode_done:True
 text: What is an example of containment phase intervention?	labels: isolation if travelling back from an epidemic country	episode_done:True
 text: What does a public events ban intervention mean?	labels: banning all public events of more than 100 participants	episode_done:True
 text: An example of social distancing	labels: work from home wherever possible	episode_done:True
