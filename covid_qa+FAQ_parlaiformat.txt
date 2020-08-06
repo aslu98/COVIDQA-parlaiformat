@@ -1569,8 +1569,7 @@ text: How has the vast majority of MERS-CoV transmission occurred?	labels: from 
 text: How were the transmission circumstances created?	labels: by poor infection control in health care settings	episode_done:True
 text: What percentage of humans have died  among all humans reported to be infected?	labels:  nearly 40 %	episode_done:True
 text: What would  aid accurate calculation of a case fatality ratio?	labels: Global alignment of case definitions	episode_done:True
-text: How does MARS-COV differ from SARS-COV?	labels: MERS-CoV has a broader tropism, grows more rapidly in vitro, more rapidly induces cytopathogenic change, triggers distinct transcriptional responses, makes use of a different receptor, induces a more proinflammatory state and has a delayed innate antiviral response compared to SARS-CoV.
-	episode_done:True
+text: How does MARS-COV differ from SARS-COV?	labels: MERS-CoV has a broader tropism, grows more rapidly in vitro, more rapidly induces cytopathogenic change, triggers distinct transcriptional responses, makes use of a different receptor, induces a more proinflammatory state and has a delayed innate antiviral response compared to SARS-CoV.	episode_done:True
 text: Is there any evidence that MERS-CoV is a virus of pandemic concern?	labels: There is no evidence that MERS-CoV is a virus of pandemic concern	episode_done:True
 text: How did the first WHO case definition  define probable cases of MERS?	labels: based on the presence of febrile illness, cough and requirement for hospitalization with suspicion of lower respiratory tract (LRT) involvement.	episode_done:True
 text: What is PHEIC?	labels: Public Health Emergency of International Concern'	episode_done:True
