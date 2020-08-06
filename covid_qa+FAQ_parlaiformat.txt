@@ -1935,8 +1935,7 @@ text: What were the specimen types for 21 cases?	labels: 15 had positive nasopha
 text: As of 5 March 2020, what  are the cases in the WHO European region?	labels: there are 4,250 cases including 113 deaths reported among 38 countries	episode_done:True
 text: What were the two contexts for transmission?	labels: sporadic cases among travellers from China (14 cases) and cases who acquired infection due to subsequent local transmission in Europe (21 cases).	episode_done:True
 text: What  does the analysis show on the difference between locally acquired cases vs imported cases?	labels: that the time from symptom onset to hospitalisation/case isolation was about 3 days longer for locally acquired cases than for imported cases.	episode_done:True
-text: What is required for locally acquired cases?	labels: significant resources for contact tracing and quarantine, and countries should be prepared to allocate considerable public health resources during the containment phase, should local clusters emerge in their population. In addition, prompt sharing of information on cases and contacts through international notification systems such as the International Health Regulations (IHR) mechanism and the European Commission's European Early Warning and Response System is essential to contain international spread of infection.
-	episode_done:True
+text: What is required for locally acquired cases?	labels: significant resources for contact tracing and quarantine, and countries should be prepared to allocate considerable public health resources during the containment phase, should local clusters emerge in their population. In addition, prompt sharing of information on cases and contacts through international notification systems such as the International Health Regulations (IHR) mechanism and the European Commission's European Early Warning and Response System is essential to contain international spread of infection.	episode_done:True
 text: What was common to all imported cases?	labels: had a history of travel to China	episode_done:True
 text: What testing and detection are needed?	labels: Testing of suspected cases based on geographical risk of importation needs to be complemented with additional approaches to ensure early detection of local circulation of COVID-19, including through testing of severe acute respiratory infections in hospitals irrespectively of travel history as recommended in the WHO case definition updated on 27 February 2020 	episode_done:True
 text: What did the finding prompt ECDC to do?	labels: include fever among several clinical signs or symptoms indicative for the suspected case definition.	episode_done:True
@@ -1983,8 +1982,7 @@ text: What have decades of basic immunology research  provided ?	labels: a near-
 text: What has this focus on mammalian defences and pathologies sidelined?	labels: examination of the types and roles of viruses and antiviral defences that exist throughout our biosphere.	episode_done:True
 text: What has CRISPR/Cas antiviral immune system of prokaryotes been repurposed as?	labels: as a revolutionary gene-editing biotechnology in plants and animals.	episode_done:True
 text: What is another  case in point?	labels: the ancient lineage of nucleocytosolic large DNA viruses (NCLDVs)	episode_done:True
-text: What are the ancient lineage of NCLDVs?
-	labels: emerging human pathogens that possess enormous genomes of up to several megabases in size encoding hundreds of proteins with unique and unknown functions.	episode_done:True
+text: What are the ancient lineage of NCLDVs?	labels: emerging human pathogens that possess enormous genomes of up to several megabases in size encoding hundreds of proteins with unique and unknown functions.	episode_done:True
 text: What do the recent efforts indicate regarding hundreds of human and avian infectious viruses?	labels:  the true number may be in the millions and many harbour zoonotic potential. 	episode_done:True
 text: What is neo-virology?	labels:  an emerging field engaged in cataloguing and characterising this biodiversity through a global consortium.	episode_done:True
 text: What is predicted these efforts on neo-virology will unlock?	labels: a vast wealth of currently unexplored biodiversity, leading to biotechnologies and treatments that leverage the host-virus interactions developed throughout evolution.	episode_done:True
@@ -2004,153 +2002,44 @@ text: Are the modern day Influenza viruses related to the 1918 Spanish Influenza
 text: Why is the Spanish Influenza virus the Mother of the modern influenza viruses?	labels: The latter are composed of key genes from the 1918 Virus, updated by subsequently-incor— porated avian inﬂuenza genes that code for novel surface proteins, making the 1918 Virus indeed the “mother” of all pandemics.	episode_done:True
 text: When was it  determined that the 1918  pandemic was caused by the H1N1 Influenza virus?	labels: That question did not begin to be resolved until the 1930s, when closely related inﬂuenza Viruses (now known to be H1N1 Viruses) were isolated, ﬁrst from pigs and shortly thereafter from humans. Seroepidemiologic studies soon
 linked both of these viruses to the 1918 pandemic	episode_done:True
-text: Did the Spanish Influenza or Swine flu or the H1N1 virus disappear in humans for some time?	labels:  descendants of the 1918
-Virus still persists enzootically in pigs. They probably also
-circulated continuously in humans, undergoing gradual
-antigenic drift and causing annual epidemics, until the
-1950s. With the appearance of a new H2N2 pandemic
-strain in 1957 (“Asian ﬂu”), the direct H1N1 Viral descen-
-dants 0f the 1918 pandemic strain disappeared from human
-circulation entirely, although the related lineage persisted
-enzootically in pigs.	episode_done:True
-text: When did the Swine Flu (Spanish Influenza) virus reappear in humans?	labels:  But in 1977, human H1N1 Viruses
-suddenly “reemerged” from a laboratory freezer (9). They
-continue to circulate endemically and epidemically.	episode_done:True
-text: What descendant  lineages of the swine flu (Spanish Influenza) virus were identified in 2006?	labels:  2 major descendant lineages of the 1918
-H1N1 Virus, as well as 2 additional reassortant lineages,
-persist naturally: a human epidemic/endemic H1N1 line-
-age, a porcine enzootic H1N1 lineage (so-called classic
-swine ﬂu), and the reassorted human H3N2 Virus lineage,
-which like the human H1N1 Virus, has led to a porcine
-H3N2 lineage.	episode_done:True
-text: Are the modern descendant influenza viruses as dangerous as the 1918 parent swine flu (Spanish Influenza) H1N1 virus?	labels: None of these Viral descendants, however,
-approaches the pathogenicity of the 1918 parent Virus.	episode_done:True
-text: How dangerous are the modern H1N1 (swine flu) and the H3N2 (Influenza A) viruses compared  to the 1918 H1N1 (swine flu Spanish Influenza)  viruses?	labels: the human H1N1 and H3N2 lin-
-eages have both been associated with substantially lower
-rates ofillness and death than the virus of 1918. In fact, cur-
-rent H1N1 death rates are even lower than those for H3N2
-lineage strains (prevalent from 1968 until the present).	episode_done:True
-text: Are the descendant H1N1 strains of the 1918 H1N1 swine flu (Spanish Influenza) virus, still prevalent?	labels: H1N1 Viruses descended from the 1918 strain, as well as 
-H3N2 Viruses, have now been cocirculating worldwide for
+text: Did the Spanish Influenza or Swine flu or the H1N1 virus disappear in humans for some time?	labels:  descendants of the 1918 Virus still persists enzootically in pigs. They probably also circulated continuously in humans, undergoing gradual antigenic drift and causing annual epidemics, until the 1950s. With the appearance of a new H2N2 pandemic strain in 1957 (“Asian ﬂu”), the direct H1N1 Viral descendants 0f the 1918 pandemic strain disappeared from humanscirculation	entirely, although the related lineage persisted enzootically in pigs.	episode_done:True
+text: When did the Swine Flu (Spanish Influenza) virus reappear in humans?	labels:  But in 1977, human H1N1 Viruses suddenly “reemerged” from a laboratory freezer (9). They continue to circulate endemically and epidemically.	episode_done:True
+text: What descendant  lineages of the swine flu (Spanish Influenza) virus were identified in 2006?	labels:  2 major descendant lineages of the 1918 H1N1 Virus, as well as 2 additional reassortant lineages, persist naturally: a human epidemic/endemic H1N1 line-age, a porcine enzootic H1N1 lineage (so-called classic swine ﬂu), and the reassorted human H3N2 Virus lineage, which like the human H1N1 Virus, has led to a porcine H3N2 lineage.	episode_done:True
+text: Are the modern descendant influenza viruses as dangerous as the 1918 parent swine flu (Spanish Influenza) H1N1 virus?	labels: None of these Viral descendants, however, approaches the pathogenicity of the 1918 parent Virus.	episode_done:True
+text: How dangerous are the modern H1N1 (swine flu) and the H3N2 (Influenza A) viruses compared  to the 1918 H1N1 (swine flu Spanish Influenza)  viruses?	labels: the human H1N1 and H3N2 lineages have both been associated with substantially lower rates ofillness and death than the virus of 1918. In fact, current H1N1 death rates are even lower than those for H3N2 lineage strains (prevalent from 1968 until the present).	episode_done:True
+text: Are the descendant H1N1 strains of the 1918 H1N1 swine flu (Spanish Influenza) virus, still prevalent?	labels: H1N1 Viruses descended from the 1918 strain, as well as H3N2 Viruses, have now been cocirculating worldwide for
 29 years and show little evidence of imminent extinction.	episode_done:True
-text: Is the origin and epidemiology of the 1918 swine flu (Spanish Influenza) known?	labels: ongoing studies to map Virulence
-factors are yielding interesting results. The 1918 sequence
-data, however, leave unanswered questions about the ori-
-gin of the Virus (19) and about the epidemiology of the
-pandemic.	episode_done:True
-text: What is the geographical origin of the H1N1 swine flu ?	labels: Historical and epidemiologic data are inade-
-quate to identify the geographic origin of the Virus (21),
-and recent phylogenetic analysis of the 1918 Viral genome
-does not place the Virus in any geographic context	episode_done:True
+text: Is the origin and epidemiology of the 1918 swine flu (Spanish Influenza) known?	labels: ongoing studies to map Virulence factors are yielding interesting results. The 1918 sequence data, however, leave unanswered questions about the origin of the Virus (19) and about the epidemiology of the pandemic.	episode_done:True
+text: What is the geographical origin of the H1N1 swine flu ?	labels: Historical and epidemiologic data are inadequate to identify the geographic origin of the Virus (21), and recent phylogenetic analysis of the 1918 Viral genome does not place the Virus in any geographic context	episode_done:True
 text: Is the geographical origin of the 1918 H1N1 swine flu known?	labels: Confounding deﬁnite assignment of a geographic
-point of origin, the 1918 pandemic spread more or less
-simultaneously in 3 distinct waves during an z12-month
-period in 191871919, in Europe, Asia, and North America
-(the ﬁrst wave was best described in the United States in
-March 1918)	episode_done:True
+point of origin, the 1918 pandemic spread more or less simultaneously in 3 distinct waves during an z12-month period in 1918/1919, in Europe, Asia, and North America (the ﬁrst wave was best described in the United States in March 1918)	episode_done:True
 text: What is an unique feature of the 1918 swine flu?	labels: the simultaneous (or nearly simultaneous) infection
 of humans and swin	episode_done:True
-text: What season or  time of the year do the new strains of influenza emerge?	labels: Historical records since the 16th century suggest that
-new inﬂuenza pandemics may appear at any time of year,
-not necessarily in the familiar annual winter patterns of
-interpandemic years,	episode_done:True
-text: Once appeared, when do the influenza like diseases occur in subsequent years?	labels: confronted by the selection pressures of population immu-
-nity, these pandemic Viruses begin to drift genetically and
-eventually settle into a pattern of annual epidemic recur-
-rences caused by the drifted Virus variants.	episode_done:True
-text: When did the first wave of the H1N1 swine flu (Spanish Influenza) occur?	labels:  a ﬁrst or spring wave
-began in March 1918 and spread unevenly through the
-United States, Europe, and possibly Asia over the next 6
-months	episode_done:True
-text: What was the death rate in the first wave of the 1918 swine flu pandemic?	labels:  Illness rates were high, but death rates
-in most locales were not appreciably above normal.	episode_done:True
-text: When were the second and the third wave of the 1918-1919 swine flu pandemic?	labels:  A sec-
-ond or fall wave spread globally from September to
-November 1918 and was highly fatal. In many nations, a
-third wave occurred in early 1919 	episode_done:True
-text: What was the primary difference between the first wave and the 2nd and 3rd wave of the 1918-1919 swine flu pandemic?	labels: the much higher fre-
-quency of complicated, severe, and fatal cases in the last 2
-waves.	episode_done:True
-text: Why the human influenza viruses do not disappear after herd immunity is developed?	labels: The occurrence, and to some extent the severity, of recur-
-rent annual outbreaks, are driven by Viral antigenic drift,
-with an antigenic variant Virus emerging to become domi-
-nant	episode_done:True
-text: What are the circumstances that promote the spread of influenza virus?	labels:  lower environ-
-mental temperatures and human nasal temperatures (bene-
-ﬁcial to thermolabile Viruses such as inﬂuenza), optimal
-humidity, increased crowding indoors, and imperfect ven-
-tilation due to closed windows and suboptimal airﬂow	episode_done:True
-text: Do seasonal temperatures and humidity explain  the appearance of the three waves of the 1918 swine flu?	labels: such factors cannot explain the 3 pandemic
-waves of 1918-1919, which occurred in the spring-sum-
-mer, summer—fall, and winter (of the Northern
-Hemisphere), respectively. The ﬁrst 2 waves occurred at a
-time of year normally unfavorable to inﬂuenza Virus
-spread. The second wave caused simultaneous outbreaks
-in the Northern and Southern Hemispheres from
-September to November. 	episode_done:True
+text: What season or  time of the year do the new strains of influenza emerge?	labels: Historical records since the 16th century suggest that new inﬂuenza pandemics may appear at any time of year, not necessarily in the familiar annual winter patterns of interpandemic years,	episode_done:True
+text: Once appeared, when do the influenza like diseases occur in subsequent years?	labels: confronted by the selection pressures of population immunity, these pandemic Viruses begin to drift genetically and eventually settle into a pattern of annual epidemic recurrences caused by the drifted Virus variants.	episode_done:True
+text: When did the first wave of the H1N1 swine flu (Spanish Influenza) occur?	labels:  a ﬁrst or spring wave began in March 1918 and spread unevenly through the United States, Europe, and possibly Asia over the next 6 months	episode_done:True
+text: What was the death rate in the first wave of the 1918 swine flu pandemic?	labels:  Illness rates were high, but death rates in most locales were not appreciably above normal.	episode_done:True
+text: When were the second and the third wave of the 1918-1919 swine flu pandemic?	labels:  A second or fall wave spread globally from September to November 1918 and was highly fatal. In many nations, a third wave occurred in early 1919 	episode_done:True
+text: What was the primary difference between the first wave and the 2nd and 3rd wave of the 1918-1919 swine flu pandemic?	labels: the much higher frequency of complicated, severe, and fatal cases in the last 2 waves.	episode_done:True
+text: Why the human influenza viruses do not disappear after herd immunity is developed?	labels: The occurrence, and to some extent the severity, of recurrent annual outbreaks, are driven by Viral antigenic drift, with an antigenic variant Virus emerging to become dominant	episode_done:True
+text: What are the circumstances that promote the spread of influenza virus?	labels:  lower environmental temperatures and human nasal temperatures (beneﬁcial to thermolabile Viruses such as inﬂuenza), optimal humidity, increased crowding indoors, and imperfect ventilation due to closed windows and suboptimal airﬂow	episode_done:True
+text: Do seasonal temperatures and humidity explain  the appearance of the three waves of the 1918 swine flu?	labels: such factors cannot explain the 3 pandemic waves of 1918-1919, which occurred in the spring-summer, summer—fall, and winter (of the Northern Hemisphere), respectively. The ﬁrst 2 waves occurred at a time of year normally unfavorable to inﬂuenza Virus spread. The second wave caused simultaneous outbreaks in the Northern and Southern Hemispheres from September to November. 	episode_done:True
 text: Which virus samples  from the 1918 swine flu pandemic have been identified?	labels: pandemic Virus samples we have
 yet identiﬁed are from second-wave patients	episode_done:True
-text: Are viruses in the first and third waves of the 1918 swine flu pandemic same or derived from the virus from the second wave of the swine flu?	labels: nothing
-can yet be said about whether the ﬁrst (spring) wave, or for
-that matter, the third wave, represented circulation of the
-same Virus or variants of it	episode_done:True
-text: Was the 1918 swine flu virus novel to humans are was it derived from older viruses?	labels: Viral sequence data now suggest that the entire 1918
-Virus was novel to humans in, or shortly before, 1918, and
-that it thus was not a reassortant Virus produced from old
-existing strains that acquired 1 or more new genes	episode_done:True
-text: Do avian flu viruses change over long periods?	labels: Inﬂuenza Virus gene
-sequences from a number ofﬁxed specimens ofwild birds
-collected circa 1918 show little difference from avian
-Viruses isolated today, indicating that avian Viruses likely
-undergo little antigenic change in their natural hosts even
-over long periods	episode_done:True
-text: What  is the typical age profile of mortality in Influenza diseases?	labels: The curve of inﬂuenza deaths by age at death has histor-
-ically, for at least 150 years, been U-shaped (Figure 2),
-exhibiting mortality peaks in the very young and the very
-old, with a comparatively low frequency of deaths at all
-ages in between	episode_done:True
-text: What was the age profile of mortality in the 1918 swine flu?	labels: age-speciﬁc death rates in the
-1918 pandemic exhibited a distinct pattern that has not been
-documented before or since: a “W—shaped” curve, similar to
-the familiar U-shaped curve but with the addition of a third
-(middle) distinct peak of deaths in young adults z20410
-years of age	episode_done:True
-text: Which age group was most susceptible to die during the 1918 swine flu pandemic?	labels: Persons 65 years of age in 1918 had a dispro-
-portionately high inﬂuenza incidence	episode_done:True
-text: What was the death rate among children during the 1918 swine flu pandemic?	labels: those 5 to 14
-years of age accounted for a disproportionate number of
-inﬂuenza cases, but had a much lower death rate from
-inﬂuenza and pneumonia than other age groups. 	episode_done:True
-text: What theory provides partial explanation for the age-specific profile of the death rate in the 1918 swine flu pandemic?	labels:  the 1918 Virus had an intrinsically high Virulence, tem-
-pered only in those patients who had been born before
-1889, e.g., because of exposure to a then-circulating Virus
-capable of providing partial immunoprotection against the
-1918 Virus strain only in persons old enough (>35 years) to
-have been infected during that prior era 	episode_done:True
-text: Is there a difference in the pathologic feature and course of disease between modern influenza pandemics and the 1918 swine flu pandemic?	labels:  the 1918
-pandemic was different in degree, but not in kind, from
-previous and subsequent pandemics. Despite the extraordi-
-nary number of global deaths, most inﬂuenza cases in
-1918 (>95% in most locales in industrialized nations) were
-mild and essentially indistinguishable from inﬂuenza cases
-today. 	episode_done:True
-text: Could the 1918 swine flu virus been controlled  by modern day drugs or vaccines?	labels: the 1918 and 1918-like Viruses would be
-as sensitive as other typical Virus strains to the Food and
-Drug Administrationiapproved antiinﬂuenza drugs riman-
-tadine and oseltamivir.	episode_done:True
+text: Are viruses in the first and third waves of the 1918 swine flu pandemic same or derived from the virus from the second wave of the swine flu?	labels: nothing can yet be said about whether the ﬁrst (spring) wave, or for that matter, the third wave, represented circulation of the same Virus or variants of it	episode_done:True
+text: Was the 1918 swine flu virus novel to humans are was it derived from older viruses?	labels: Viral sequence data now suggest that the entire 1918 Virus was novel to humans in, or shortly before, 1918, and that it thus was not a reassortant Virus produced from old existing strains that acquired 1 or more new genes	episode_done:True
+text: Do avian flu viruses change over long periods?	labels: Inﬂuenza Virus gene sequences from a number ofﬁxed specimens ofwild birds collected circa 1918 show little difference from avian Viruses isolated today, indicating that avian Viruses likely undergo little antigenic change in their natural hosts even over long periods	episode_done:True
+text: What  is the typical age profile of mortality in Influenza diseases?	labels: The curve of inﬂuenza deaths by age at death has historically, for at least 150 years, been U-shaped (Figure 2), exhibiting mortality peaks in the very young and the very old, with a comparatively low frequency of deaths at all ages in between	episode_done:True
+text: What was the age profile of mortality in the 1918 swine flu?	labels: age-speciﬁc death rates in the 1918 pandemic exhibited a distinct pattern that has not been documented before or since: a “W—shaped” curve, similar to the familiar U-shaped curve but with the addition of a third (middle) distinct peak of deaths in young adults 20-30 years of age	episode_done:True
+text: Which age group was most susceptible to die during the 1918 swine flu pandemic?	labels: Persons 65 years of age in 1918 had a disproportionately high inﬂuenza incidence	episode_done:True
+text: What was the death rate among children during the 1918 swine flu pandemic?	labels: those 5 to 14 years of age accounted for a disproportionate number of inﬂuenza cases, but had a much lower death rate from inﬂuenza and pneumonia than other age groups. 	episode_done:True
+text: What theory provides partial explanation for the age-specific profile of the death rate in the 1918 swine flu pandemic?	labels:  the 1918 Virus had an intrinsically high Virulence, tempered only in those patients who had been born before 1889, e.g., because of exposure to a then-circulating Virus capable of providing partial immunoprotection against the 1918 Virus strain only in persons old enough (>35 years) to have been infected during that prior era 	episode_done:True
+text: Is there a difference in the pathologic feature and course of disease between modern influenza pandemics and the 1918 swine flu pandemic?	labels:  the 1918 pandemic was different in degree, but not in kind, from previous and subsequent pandemics. Despite the extraordinary number of global deaths, most inﬂuenza cases in 1918 (>95% in most locales in industrialized nations) were mild and essentially indistinguishable from inﬂuenza cases today. 	episode_done:True
+text: Could the 1918 swine flu virus been controlled  by modern day drugs or vaccines?	labels: the 1918 and 1918-like Viruses would be as sensitive as other typical Virus strains to the Food and Drug Administrationiapproved antiinﬂuenza drugs rimantadine and oseltamivir.	episode_done:True
 text: Why was there such a high death rate in the 19118 swine flu pandemic?	labels: Clinically and pathologically, these
-high death rates appear to be the result of several factors,
-including a higher proportion of severe and complicated
-infections of the respiratory tract, rather than involvement
-of organ systems outside the normal range of the inﬂuenza
-Virus. Also, the deaths were concentrated in an unusually
-young age group	episode_done:True
-text: Is the molecular basis of human adaptation of a virus understood?	labels: While data bearing
-on inﬂuenza Virus human cell adaptation (e.g., receptor
-binding) are beginning to be understood at the molecular
-level, the basis for Viral adaptation to efﬁcient human-to-
-human spread, the chief prerequisite for pandemic emer-
-gence, is unknown for any inﬂuenza Virus.	episode_done:True
+high death rates appear to be the result of several factors, including a higher proportion of severe and complicated infections of the respiratory tract, rather than involvement of organ systems outside the normal range of the inﬂuenza
+Virus. Also, the deaths were concentrated in an unusually young age group	episode_done:True
+text: Is the molecular basis of human adaptation of a virus understood?	labels: While data bearing on inﬂuenza Virus human cell adaptation (e.g., receptor binding) are beginning to be understood at the molecular level, the basis for Viral adaptation to efﬁcient human-to-human spread, the chief prerequisite for pandemic emergence, is unknown for any inﬂuenza Virus.	episode_done:True
 text: What  was the initial growth phase pattern?	labels: exponential growth pattern	episode_done:True
 text: What was the result of under-reporting?	labels: 469 (95% CI: 403&minus;540) unreported cases from 1 to 15 Januar	episode_done:True
 text: What is R0?	labels: basic reproduction number,	episode_done:True
