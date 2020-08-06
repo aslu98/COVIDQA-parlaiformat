@@ -1868,8 +1868,7 @@ text: What is a lockdown?	labels: regulations/legislations regarding strict face
 text: What is an infection-to-onset-distribution?	labels: time from infection to the onset of symptoms	episode_done:True
 text: What is an onset-to-death distribution?	labels: time from the onset of symptoms to death	episode_done:True
 text: What is the population-averaged infection fatality ratio?	labels: adjusted for the age structure and contact patterns of each country	episode_done:True
-text: What is the time-varying reproduction number a function of?	labels:  initial reproduction number before interventions and the effect sizes from
-interventions	episode_done:True
+text: What is the time-varying reproduction number a function of?	labels:  initial reproduction number before interventions and the effect sizes from interventions	episode_done:True
 text: What is an incubation period?	labels: infection to onset of symptoms	episode_done:True
 text: What is an incubation period?	labels: infection-to-onset	episode_done:True
 text: What are the descriptive statistics for the onset-to-death for coronavirus?	labels: Gamma distributed with a mean of 18.8 days and a coefficient of va riation 0.45	episode_done:True
@@ -1907,10 +1906,10 @@ text: What country does this study exclude?	labels: United Kingdom (UK)	episode_
 text: What does the study include?	labels: a comparison between cases detected among travellers from China and cases whose infection was acquired due to subsequent local transmission.	episode_done:True
 text: What did the ECDC and WHO regional office ask the countries?	labels:  to complete a WHO standard COVID-19 case report form for all confirmed and probable cases according to WHO criteria	episode_done:True
 text: What was the overall aim of the surveillance?	labels:  to support the global strategy of containment of COVID-19 with rapid identification and follow-up of cases linked to affected countries in order to minimise onward transmission.	episode_done:True
-text: What were the surveillance objectives?	labels: to: describe the key epidemiological and clinical characteristics of COVID-19 cases detected in Europe; inform country preparedness; and improve further case detection and management. 	episode_done:True
+text: What were the surveillance objectives?	labels: to describe the key epidemiological and clinical characteristics of COVID-19 cases detected in Europe; inform country preparedness; and improve further case detection and management. 	episode_done:True
 text: What is the adopted WHO case definition?	labels: a confirmed case was a person with laboratory confirmation of SARS-CoV-2 infection (ECDC recommended two separate SARS-CoV-2 RT-PCR tests), irrespective of clinical signs and symptoms, whereas a probable case was a suspect case for whom testing for SARS-CoV-2 was inconclusive or positive using a pan-coronavirus assay	episode_done:True
 text: When was the first reported death in France?	labels: 15 February	episode_done:True
-text: What is the presumed incubation period?	labels:  up to 14 days [	episode_done:True
+text: What is the presumed incubation period?	labels:  up to 14 days 	episode_done:True
 text: What were the places of infection?	labels:  35 cases (missing for three cases), of whom 14 were infected in China (Hubei province: 10 cases; Shandong province: one case; province not reported for three cases). The remaining 21 cases were infected in Europe. 	episode_done:True
 text: What places were linked to these?	labels: 14 were linked to a cluster in Bavaria, Germany, and seven to a cluster in Haute-Savoie, France 	episode_done:True
 text: How many cases were hospitalised?	labels: All but two cases were hospitalised (35 of 37 where information on hospitalisation was reported)	episode_done:True
@@ -1918,8 +1917,7 @@ text: Why were they hospitalised?	labels:  it is likely that most were hospitali
 text: What was time from onset to hospitalisation?	labels: ranged between 0 and 10 days with a mean of 3.7 days 	episode_done:True
 text: What was the duration of hospitalisation?	labels: The mean number of days to hospitalisation was 2.5 days for cases imported from China, but 4.6 days for those infected in Europe.	episode_done:True
 text: Why was this?	labels: This was mostly a result of delays in identifying the index cases of the two clusters in France and Germany. In the German cluster, for example, the first three cases detected locally were hospitalised in a mean of 5.7 days, whereas the following six took only a mean of 2 days to be hospitalised.	episode_done:True
-text: How many cases reported symptoms at this point?
-	labels:  31 cases	episode_done:True
+text: How many cases reported symptoms at this point?	labels:  31 cases	episode_done:True
 text: How many cases were asymptomatic?	labels: Two cases 	episode_done:True
 text: What were the asymptomatic cases tested as?	labels: as part of screening following repatriation and during contact tracing respectively. 	episode_done:True
 text:  For how many cases Fever reported as the sole symptom?	labels:  nine cases	episode_done:True
