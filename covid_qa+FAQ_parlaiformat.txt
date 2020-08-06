@@ -1577,8 +1577,7 @@ text: How is PHEIC defined?	labels: an extraordinary event which is determined t
 text: What platform was instrumental in rapid sharing of COVID-19 information?	labels: Global Initiative on Sharing All Influenza Data (GISAID)	episode_done:True
 text: What's the recommended procedure to disinfect at CT scanner after a COVID-19 exposure?	labels: The equipment in the contaminated area are wiped with 2000mg/L chlorine-containing disinfectant. The DR and CT gantry in the contaminated area are wiped with 75% ethanol. The equipment in the buffer area is wiped with 500-1000mg/L chlorine-containing disinfectant or alcohol-containing disposable disinfectant wipes twice a day.	episode_done:True
 text: What's the recommended method to disinfect floors for COVID-19?	labels: The ground is wiped with 1000mg/L chlorine-containing disinfectant, once /4 hours.	episode_done:True
-text: What is the role of computed tomography (CT) in COVID-19?	labels: diagnosing and categorizing
-COVID-19 on the basis of case definitions issued by the WHO	episode_done:True
+text: What is the role of computed tomography (CT) in COVID-19?	labels: diagnosing and categorizing COVID-19 on the basis of case definitions issued by the WHO	episode_done:True
 text: What kind of masks are recommended to protect healthcare workers from COVID-19 exposure?	labels: N95 mask	episode_done:True
 text: What thickness of layers is recommended for CT image reconstruction in COVID-19 assessment?	labels: 1 mm-thick layers	episode_done:True
 text: What must the data gathering include?	labels: up-to-date case definitions and information about confirmatory tests to all staff with direct patient contact to allow appropriate barrier precautions to be taken.	episode_done:True
