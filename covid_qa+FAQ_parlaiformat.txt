@@ -2108,8 +2108,7 @@ text: What genes have been targeted for the diagnostic RT-PCR tests in 2019-nCoV
 text: How does being a smoker impact COVID-19 patient outcomes?	labels: smokers were 1.4 times more likely (RR=1.4, 95% CI: 0.98–2.00) to have severe symptoms of COVID-19 and approximately 2.4 times more likely to be admitted to an ICU, need mechanical ventilation or die compared to non-smokers (RR=2.4, 95% CI: 1.43–4.04)	episode_done:True
 text: Are smokers more likely to contract influenza?	labels: Previous studies have shown that smokers are twice more likely than non-smokers to contract influenza and have more severe symptoms, while smokers were also noted to have higher mortality in the previous MERS-CoV outbreak	episode_done:True
 text: Why might we underestimate the spread of COVID19?	labels: limited information available regarding incubation time, transmissibility, and virus origin	episode_done:True
-text: Where was the first imported case of COVID19 in the United States?
-	labels: Washington	episode_done:True
+text: Where was the first imported case of COVID19 in the United States?	labels: Washington	episode_done:True
 text: When was the first case of COVID19 confirmed in the USA?	labels: January 15, 2020	episode_done:True
 text: When was the second COVID19 case reported in the US?	labels: January 24, 2020	episode_done:True
 text: Where was the second reported case of COVID in the United States?	labels: Chicago	episode_done:True
