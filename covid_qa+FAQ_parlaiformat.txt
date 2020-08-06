@@ -1097,8 +1097,7 @@ text: What are potential vaccines based on?	labels: messenger RNA, DNA-based, na
 text: Which  kit is currently used in China?	labels:  kit developed by the BGI have passed emergency approval procedure of the National Medical Products Administration, and are currently used in clinical and surveillance centers of China	episode_done:True
 text: Why were only four studies included?	labels: Most studies on SARS and MERS vaccines were excluded as they were performed in cell or animal models 	episode_done:True
 text: Which  four studies were included?	labels:  Phase I clinical trials on SARS or MERS vaccines	episode_done:True
-text: What is te safety of the vaccines?
-	labels:  All vaccine candidates for SARS and MERS were reported to be safe, 	episode_done:True
+text: What is te safety of the vaccines?	labels:  All vaccine candidates for SARS and MERS were reported to be safe, 	episode_done:True
 text: What was the performance of the vaccine candidates?	labels: well-tolerated and able to trigger the relevant and appropriate immune responses in the participants	episode_done:True
 text: How many clinical trials are registered?	labels: nine	episode_done:True
 text: What is the status of the nine trials?	labels:  five studies on hydroxychloroquine, lopinavir plus ritonavir and arbidol, mesenchymal stem cells, traditional Chinese medicine and glucocorticoid therapy usage have commenced recruitment. The remaining four studies encompass investigation of antivirals, interferon atomization, darunavir and cobicistat, arbidol, and remdesivir usage for 2019-nCoV patients	episode_done:True
