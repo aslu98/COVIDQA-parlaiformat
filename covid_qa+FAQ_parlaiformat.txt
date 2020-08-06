@@ -1447,9 +1447,7 @@ text: At which phase does the peak of the pandemic occur?	labels: at the end of 
 text: People with which medical conditions have a higher rate of severe illness?	labels: People who have serious chronic medical conditions like: Heart disease, Diabetes, Lung disease	episode_done:True
 text: What kind of test can diagnose COVID-19?	labels: rRT-PCR test	episode_done:True
 text: In what species did the COVID-19 virus likely originate?	labels: bats	episode_done:True
-text: What risk factors should be considered in addition to clinical symptoms?	labels: Does the patient have recent travel from an affected area?
-Has the patient been in close contact with someone with COVID-19 or with patients with pneumonia of unknown cause?
-Does the patient reside in an area where there has been community spread of COVID-19?	episode_done:True
+text: What risk factors should be considered in addition to clinical symptoms?	labels: Does the patient have recent travel from an affected area? Has the patient been in close contact with someone with COVID-19 or with patients with pneumonia of unknown cause? Does the patient reside in an area where there has been community spread of COVID-19?	episode_done:True
 text: What is the acronym SARS-CoV-2?	labels: severe acute respiratory syndrome coronavirus 2 	episode_done:True
 text: When was SARS-CoV-2 first identified?	labels: December 2019	episode_done:True
 text: Where was SARS-CoV-2 first identified?	labels: Wuhan, capital of Hubei Province, China	episode_done:True
