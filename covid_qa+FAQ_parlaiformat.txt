@@ -1553,9 +1553,8 @@ text: What is the  the rate of general transmission, even in outbreaks?	labels: 
 text: What do the majority of human cases of MERS-CoV  seem not to do?	labels: readily transmit to more than one other human 	episode_done:True
 text: What is the basic reproduction number (R 0)?	labels: the average number of infections caused by one infected individual in a fully susceptible population	episode_done:True
 text: What is the basic reproduction number (R 0 )  for MERS-COV?	labels: close to one	episode_done:True
-text: Why has MERS had a constant presence in the Arabian Peninsula?	labels: due to ongoing, sporadic spill-over events from DCs amplified by poorly controlled hospital outbreaks.
-	episode_done:True
-text: What was the first known MERS human-to-human transmission event was one characterized by?	labels: acute LRT disease	episode_done:True
+text: Why has MERS had a constant presence in the Arabian Peninsula?	labels: due to ongoing, sporadic spill-over events from DCs amplified by poorly controlled hospital outbreaks.	episode_done:True
+text: What was the first known MERS human-to-human transmission event was one characterized by?	labels: acute LRT diseases 	episode_done:True
 text: Where was the first known MERS human-to-human transmission event?	labels: in a healthcare setting in Jordan	episode_done:True
 text: Approximately what percentage of MERS cases were fatal in  KSA?	labels: 21 %	episode_done:True
 text: Approximately what percentage of MERS cases were died outside KSA?	labels: 21 %	episode_done:True
@@ -1578,8 +1577,7 @@ text: What is PHEIC?	labels: Public Health Emergency of International Concern'	e
 text: How is PHEIC defined?	labels: an extraordinary event which is determined to constitute a public health risk to other States through the international spread of disease and to potentially require a coordinated international response	episode_done:True
 text: What platform was instrumental in rapid sharing of COVID-19 information?	labels: Global Initiative on Sharing All Influenza Data (GISAID)	episode_done:True
 text: What's the recommended procedure to disinfect at CT scanner after a COVID-19 exposure?	labels: The equipment in the contaminated area are wiped with 2000mg/L chlorine-containing disinfectant. The DR and CT gantry in the contaminated area are wiped with 75% ethanol. The equipment in the buffer area is wiped with 500-1000mg/L chlorine-containing disinfectant or alcohol-containing disposable disinfectant wipes twice a day.	episode_done:True
-text: What's the recommended method to disinfect floors for COVID-19?	labels: The ground is wiped with 1000mg/L chlorine-containing
-disinfectant, once /4 hours.	episode_done:True
+text: What's the recommended method to disinfect floors for COVID-19?	labels: The ground is wiped with 1000mg/L chlorine-containing disinfectant, once /4 hours.	episode_done:True
 text: What is the role of computed tomography (CT) in COVID-19?	labels: diagnosing and categorizing
 COVID-19 on the basis of case definitions issued by the WHO	episode_done:True
 text: What kind of masks are recommended to protect healthcare workers from COVID-19 exposure?	labels: N95 mask	episode_done:True
@@ -2008,19 +2006,8 @@ text: How many people were infected during the 1918 Spanish Influenza epidemic?	
 text: What was the case fatality rate in the 1918 Spanish Influenza epidemic?	labels: Case-fatality rates were >2.5%, compared to <0.1% in otherinﬂuenza pandemics	episode_done:True
 text: What was the death toll in the 1918-1919 Spanish Influenza epidemic?	labels: Total deaths were estimated atz50 million (577) and were arguably as high as 100 mil-lion 	episode_done:True
 text: Are the modern day Influenza viruses related to the 1918 Spanish Influenza virus?	labels:  All inﬂuenza A pandemics since that time, andindeed almost all cases of inﬂuenza A worldwide (except-ing human infections from avian Viruses such as H5N1 and H7N7), have been caused by descendants of the 1918 Virus, including “drifted” H1N1 Viruses and reassorted H2N2 and H3N2 Viruses.	episode_done:True
-text: Why is the Spanish Influenza virus the Mother of the modern influenza viruses?	labels: The latter are composed of key genes from the 1918 Virus, updated by subsequently-incor— porated avian inﬂuenza genes that code for novel surface
-
- 
-
-*Armed Forces Institute of Pathology, Rockville, Maryland, USA;
-and TNational Institutes of Health, Bethesda, Maryland, USA
-
-proteins, making the 1918 Virus indeed the “mother” of all
-pandemics.	episode_done:True
-text: When was it  determined that the 1918  pandemic was caused by the H1N1 Influenza virus?	labels: That question did not begin to be resolved until the 1930s,
-when closely related inﬂuenza Viruses (now known to be
-H1N1 Viruses) were isolated, ﬁrst from pigs and shortly
-thereafter from humans. Seroepidemiologic studies soon
+text: Why is the Spanish Influenza virus the Mother of the modern influenza viruses?	labels: The latter are composed of key genes from the 1918 Virus, updated by subsequently-incor— porated avian inﬂuenza genes that code for novel surface proteins, making the 1918 Virus indeed the “mother” of all pandemics.	episode_done:True
+text: When was it  determined that the 1918  pandemic was caused by the H1N1 Influenza virus?	labels: That question did not begin to be resolved until the 1930s, when closely related inﬂuenza Viruses (now known to be H1N1 Viruses) were isolated, ﬁrst from pigs and shortly thereafter from humans. Seroepidemiologic studies soon
 linked both of these viruses to the 1918 pandemic	episode_done:True
 text: Did the Spanish Influenza or Swine flu or the H1N1 virus disappear in humans for some time?	labels:  descendants of the 1918
 Virus still persists enzootically in pigs. They probably also
