@@ -978,8 +978,7 @@ text: What has been the application of phage display technology?	labels: protein
 text: What makes phage display technology useful for other applications?	labels:  inherent biological, biochemical, and biophysical properties of filamentous bacteriophage, as well as the ease of its genetic manipulation	episode_done:True
 text: What are the advantages of phage as a vaccine carrier?	labels: high immunogenicity, relative antigenic simplicity and ability to activate a range of immune responses	episode_done:True
 text: What is the potential of phage for infectious and chronic diseases?	labels: prophylactic and therapeutic agent	episode_done:True
-text: What is the regularity of the virion major coat protein lattice useful for?
-	labels:  enables a variety of bioconjugation and surface chemistry applications, particularly in nanomaterials	episode_done:True
+text: What is the regularity of the virion major coat protein lattice useful for?	labels:  enables a variety of bioconjugation and surface chemistry applications, particularly in nanomaterials	episode_done:True
 text: Why is the phage ab excellent model system for directed protein evolution?	labels: the phage’s large population sizes and fast generation times	episode_done:True
 text: What are filamentous bacteriophages genera Inovirua and Plectrovirus?	labels: non-enveloped, rod-shaped viruses of Escherichia coli whose long helical capsids encapsulate a single-stranded circular DNA genome.	episode_done:True
 text: What invention has made bacteriophage useful for research?	labels: principle of modifying the filamentous phage genome to display polypeptides as fusions to coat proteins on the virion surface 	episode_done:True
