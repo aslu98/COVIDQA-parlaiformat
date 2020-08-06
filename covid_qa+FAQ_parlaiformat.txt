@@ -1253,8 +1253,7 @@ text: What is the advantage of the VEE replicon system?	labels: VEE replicon sys
 text: What were the VRPs derived from VEE developed for?	labels: as candidate vaccines for cytomegalovirus (CMV)	episode_done:True
 text: What did the clinical  trial with CMV VRP show?	labels: vaccine was immunogenic, inducing CMV-neutralizing antibody responses and potent T cell responses. Moreover, the vaccine was well tolerated and considered safe 	episode_done:True
 text: What did the clinical trial with VRP show?	labels: vaccine was safe and despite high vector-specific immunity after initial immunization, continued to boost transgene-specific immune responses upon boost 	episode_done:True
-text: Which  baculovirus vaccine has been approved for 
- human use?	labels: baculovirus-derived recombinant HA vaccine was approved for human use and was first available for use in the United States for the 2013-2014 influenza season	episode_done:True
+text: Which  baculovirus vaccine has been approved for human use?	labels: baculovirus-derived recombinant HA vaccine was approved for human use and was first available for use in the United States for the 2013-2014 influenza season	episode_done:True
 text: What  is the advantage of baculoviruses?	labels: readily manipulated	episode_done:True
 text: What is the advantage of baculovirus vectors?	labels: The vectors can accommodate large gene insertions, show limited cytopathic effect in mammalian cells, and have been shown to infect and express genes of interest in a spectrum of mammalian cells	episode_done:True
 text: How can baculovirus vectors be improved?	labels: While the insect promoters are not effective for mammalian gene expression, appropriate promoters can be cloned into the baculovirus vaccine vectors.	episode_done:True
