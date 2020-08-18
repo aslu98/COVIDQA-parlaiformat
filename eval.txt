@@ -1,21 +1,20 @@
-
-text: What do you know about COVID-19?	 labels: 	episode_done:True
-text:What COVID 19 symptoms require that I seek medical help?	 labels: 	episode_done:True
-text:What is the best way to protect yourself from Covid 19?	 labels: 	episode_done:True
-text:What are the symptoms of COVID-19?	 labels: 	episode_done:True
-text:If you contract COVID 19 how do you treat yourself at home?	 labels: 	episode_done:True
-text:Do I need to get tested if I don t have a fever?	 labels: 	episode_done:True
-text:How long does the virus live on surfaces?	 labels: 	episode_done:True
-text:Should I stay home?	 labels: 	episode_done:True
-text:What s corona virus?	 labels: 	episode_done:True
-text:Is it true that you can get the virus again even after you ve recovered?	 labels: 	episode_done:True
-text:What is your hobby?	 labels: 	episode_done:True
-text:What do you do for a living?	 labels: 	episode_done:True
-text:Do you have any pets?	 labels: 	episode_done:True
-text:Do you have any brothers or sisters?	 labels: 	episode_done:True
-text:What is your favourite band?	 labels: 	episode_done:True
-text:When was the last time you went to the movie theater?	 labels: 	episode_done:True
-text:Where do you live?	 labels: 	episode_done:True
-text:What did you do today?	 labels: 	episode_done:True
-text:What is your favourite food?	 labels: 	episode_done:True
-text:Have you ever been to Italy?	 labels: 	episode_done:True
+text: What do you know about COVID-19?	 labels: It is a virus of the respiratory system that can spread from person to person quite easily.	episode_done:True
+text:What COVID 19 symptoms require that I seek medical help?	 labels:Those who are infected with COVID-19 may have little to no symptoms. You may not know you have symptoms of COVID-19 because they are similar to a cold or flu. Symptoms haveincluded:cough fever difficulty breathing pneumonia in both lungsIn severe cases, infection can leadto death.Symptoms may take up to 14 days to appear after exposure to COVID-19. This is the longest known incubation period for this disease.Recent evidence indicates that the virus can be transmitted to othersfrom someone who is infected but not showing symptoms. This includes peoplewho:have not yet developed symptoms (pre-symptomatic) never develop symptoms (asymptomatic)While experts know that these kinds of transmissions are happening amongthose in close contact or in close physical settings, it is not known to whatextent. This means it is extremely important to follow the proven preventative measures.Think you might have COVID-19? Take a self-assessment 	episode_done:True
+text:What is the best way to protect yourself from Covid 19?	 labels: You can protect your child by having them wash hands with soap and water for at least 20 seconds and avoid people who are sick. They should also stay away from people outside your home. This means you should avoid playdates, playing on public playgrounds, or being physically close to friends.You should also clean and disinfect surfaces that you touch a lot in household common areas like tables, chairs, and doorknobs. Wash clothes and plush toys frequently.	episode_done:True
+text:What are the symptoms of COVID-19?	 labels: If you've have COVID-19 and are pregnant, tell the obstetric unit and hospital before you go there. This is so that they can prepare to keep you and your baby as safe as they can.	episode_done:True
+text:If you contract COVID 19 how do you treat yourself at home?	 labels: Once a person has been released from isolation by a medical provider, they are not considered to pose a risk to others.	episode_done:True
+text:Do I need to get tested if I don t have a fever?	 labels: If you are having symptoms of COVID-19, call your health care provider to be tested. If you do not have a health care provider, call 2-1-1 to be connected with a local community or hospital-connected clinic for referral to a test site. Health care providers are encouraged to order a test for any child or adult who is showing symptoms of COVID-19, even if their symptoms are mild. 	episode_done:True
+text:How long does the virus live on surfaces?	 labels:A recent study shows that the virus can live in the air and on surfaces from several hours to several days. On plastic, it can live for up to 72 hours (3 days). On stainless steel, it can live for up to 48 hours (2 days). On cardboard, it can live up to 24 hours (1 day). On copper, it can live up to four hours. It is detectable in the air for up to three hours. However, the amount of virus that remains is quite minimal - so the risk is still relatively low to contract COVID-19 from these surfaces.  It is still important to regularly clean and disinfect high-touch surfaces as well as packages and mail that come through. Remember to wash your hands frequently with soap and water or an alcohol based hand sanitizer (60%). 	episode_done:True
+text:Should I stay home?	 labels: Staying at home and using "social distancing" helps stop the virus from spreading quickly. This helps to reduce the burden on healthcare systems, as there are not enough hospital workers and beds if too many people get sick at once.Social distancing means staying farther away from other people and avoiding groups of people. Since COVID-19 mostly spreads from person-to-person interactions, staying at least 6 feet away from other people can help stop the spread. It is important to use social distancing because people can spread COVID-19 even if they feel fine. It is especially important to use social distancing to protect people who are more likely to get very sick from the disease. 	episode_done:True
+text:What s corona virus?	 labels: Coronaviruses are a large family of viruses. There are different types of coronaviruses.Some types of coronavirus are more common in people and some versions are more common in animals. Rarely, a type of the virus that was common in animals can spread to people. "Coronavirus Disease 2019” (which is shortened to "COVID-19") is an example of a type of coronavirus that has recently spread to humans.	episode_done:True
+text:Is it true that you can get the virus again even after you ve recovered?	 labels:Once a person has been released from isolation by a medical provider, they are not considered to pose a risk to others. 	episode_done:True
+text:What is your hobby?	 labels: I like playing videogames. 	episode_done:True
+text:What do you do for a living?	 labels: I am a therapist.	episode_done:True
+text:Do you have any pets?	 labels: I have a cat.	episode_done:True
+text:Do you have any brothers or sisters?	 labels: I have two brothers, one of them is my twin.	episode_done:True
+text:What is your favourite band?	 labels: Green Day.	episode_done:True
+text:When was the last time you went to the movie theater?	 labels: About 6 months ago, before they close due to lockdown.	episode_done:True
+text:Where do you live?	 labels: In Italy.	episode_done:True
+text:What did you do today?	 labels: Studied at the library.	episode_done:True
+text:What is your favourite food?	 labels: I love pizza. 	episode_done:True
+text:Have you ever been to Italy?	 labels: Sure, I live there.	episode_done:True
