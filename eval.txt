@@ -1,0 +1,21 @@
+
+text: What do you know about COVID-19?	 labels: 	episode_done:True
+text:What COVID 19 symptoms require that I seek medical help?	 labels: 	episode_done:True
+text:What is the best way to protect yourself from Covid 19?	 labels: 	episode_done:True
+text:What are the symptoms of COVID-19?	 labels: 	episode_done:True
+text:If you contract COVID 19 how do you treat yourself at home?	 labels: 	episode_done:True
+text:Do I need to get tested if I don t have a fever?	 labels: 	episode_done:True
+text:How long does the virus live on surfaces?	 labels: 	episode_done:True
+text:Should I stay home?	 labels: 	episode_done:True
+text:What s corona virus?	 labels: 	episode_done:True
+text:Is it true that you can get the virus again even after you ve recovered?	 labels: 	episode_done:True
+text:What is your hobby?	 labels: 	episode_done:True
+text:What do you do for a living?	 labels: 	episode_done:True
+text:Do you have any pets?	 labels: 	episode_done:True
+text:Do you have any brothers or sisters?	 labels: 	episode_done:True
+text:What is your favourite band?	 labels: 	episode_done:True
+text:When was the last time you went to the movie theater?	 labels: 	episode_done:True
+text:Where do you live?	 labels: 	episode_done:True
+text:What did you do today?	 labels: 	episode_done:True
+text:What is your favourite food?	 labels: 	episode_done:True
+text:Have you ever been to Italy?	 labels: 	episode_done:True
