@@ -1,0 +1,41 @@
+id:parlai_utilities/eval.txt	text: What do you know about COVID-19?	labels:the number of confirmed covid 19 cases is currently 0 . 1 % .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What COVID 19 symptoms require that I seek medical help?	labels:covid - 19 is a disease caused by a new type of virus . sometimes people also call it " coronavirus , " which is is the type of disease that causes covid ( 2 ) . covid [ 2 ] is an example of a type of coronaa that has recently spread to other people .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is the best way to protect yourself from Covid 19?	labels:covid - 19 is a disease caused by a new type of virus . sometimes people also call it " coronavirus , " which is is the type of disease that causes covid ( 2 ) . covid [ 2 ] is an example of a type of coronaa that has recently spread to other people . cov [ 3 ] is a type that has been around since the early 20th century . covars was first found in china in the early 21st century .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What are the symptoms of COVID-19?	labels:covid 19 is a disease caused by a new type of virus . sometimes people also call it " coronavirus , " which is is the type of disease that causes covid 20 . covid 17 causes some symptoms that are like getting a cold or flu . but some people get worse symptoms and need more care . cov 19 is caused by an old school virus that has never been seen before . since the virus can be spread through the air , it is possible to spread covid 16 . this is why it is important to wash your hands , practice social distancing , and practice social darcing . when handling covid 14 , you should always use a hand sanitizer who is more familiar with the type 2 than your doctor .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:If you contract COVID 19 how do you treat yourself at home?	labels:covid - 19 is a disease caused by a new type of virus . sometimes people also call it " coronavirus , " which is is the type of disease that causes covid ( 2 ) . covid ~ 2 is the name for the type that causes the virus . cov ~ 2 causes some symptoms that are like getting a cold or flu . but some people get worse symptoms and need more care . covh ~ 2 has been proven to be the most effective way to treat covid . people who get covid are more likely to get sick from it because it is a new virus that has been found in the air and in the airway that has not yet been discovered .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do I need to get tested if I don t have a fever?	labels:if you do not have any symptoms , you should : 1 . stay home as much as you can . 2 . wash your hands frequently with soap and water for at least 20 seconds . 3 . wash the hands with soap & water for 20 seconds , then use the bathroom . 4 . wash hands with alcohol based hand sanitizer for at home . 5 . wash clothes with soap or water for a few hours , then put on a cloth face mask . 6 . wash and drindle your hands . 7 . cover your mouth and nose with tissue . 8 . cover the front of the mask with tissue and tissue . 9 . cover it with tissue if you have any questions or concerns about the health care provider . 9 resetting up for your child or other child . if you are sick , call your doctor . if your child is sick and have questions or your health provider . call them . if they are worried about your health . call your health care providers . if not available right now . call a local hospital or your local hospital . if there are sick or your doctor or your hospital or n95 provider . if it is concerned about your child .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:How long does the virus live on surfaces?	labels:the virus can spread from person to person if you touch something that is touched by an infected person ' s nose , mouth , or eyes . if you touched something that was touched by a infected person , you should be able to recover . but if you touching something that an infected people touch , you can ' t recover from , say , a cold or flu . . . you have to learn how to fight off the virus that is making you sick .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Should I stay home?	labels:if you are sick with covid - 19 and are in a medical emergency , call your doctor to be tested . if you do not have a medical provider , call a local hospital or clinic to be asked to leave . if your doctor says no , call back to your home town and ask for a test . if the doctor says yes , then you should call back and tell him you are pregnant and have not yet been diagnosed with cov - 19 . this is the longest known incubation period for this disease . recent evidence indicates that the virus can be transmitted to othersfrom someone who is not showing symptoms . this includes peoplewho : have not been infected yet , and have never been tested for covid 19 . if this is not known to be a recent incub . this means you are in close contact with covestin close physical settings . this mean you should not to follow the doctor ' t have covid . if there is not have been tested and have been infected and have a test test test kit .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is corona virus?	labels:coronaviruses are a large family of viruses . there are different types of coronas . some types of covid - 19 are more common in people and some versions are more rare in animals . covid covid is a type of corona that has recently spread to humans .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Is it true that you can get the virus again even after you ve recovered?	labels:if you are sick with covid - 19 and have been sick with it before , you should talk to your doctor to decide when you can be released from the hospital . if you do not have any symptoms , you can call your doctor and ask for a referral to a test site .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your hobby?	labels:i like to read and play video games . i also like to watch the news and the news about the latest and greatest news .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What do you do for a living?	labels:i work in the medical field , and i am currently studying to be a nurse .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do you have any pets?	labels:i have a dog . he is a little bit of a social distancing dog . but he is also a good companion . he helps me keep my mind off of other people .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do you have any brothers or sisters?	labels:i have two older brothers and one younger sister . we are both in our mid - 20s . we have been together for a few years . we both have had covid - 19 . we were both in the hospital for a fever , runny nose , and cough . we had to call the hospital to be put on a test . we did not get any symptoms of covid . we thought we would get a fever and have to call a nurse . but our doctor said we could not get covid because our symptoms were so severe . we started to get symptoms in the morning and evening . we didn ' t get any fever until we were in the middle of the hospital . we got a fever in the afternoon and had to the doctor ' s office and then . we came back to our symptoms . we could have no symptoms . our doctor ' t know we were not to the symptoms ? we were so worried about this ? we had our symptoms ?	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your favourite band?	labels:i love the band " the beatles " . they are an american band .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:When was the last time you went to the movie theater?	labels:last week	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Where do you live?	labels:in the city of new york city , new york .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What did you do today?	labels:i was able to recover from the fever and symptoms . i was feeling a little better after that .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your favourite food?	labels:chicken and rice	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Have you ever been to Italy?	labels:i have been to the capital of italy , the capital city of the united states .	episode_done:True
+
+
