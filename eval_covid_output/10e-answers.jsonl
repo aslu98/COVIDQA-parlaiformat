@@ -1,0 +1,41 @@
+id:parlai_utilities/eval_covid.txt	text: What do you know about COVID-19?	labels:covid 19 is a type of virus that causes covid 20 . it is caused by a new type of covid virus that is not known to be known to the public yet .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text:What COVID 19 symptoms require that I seek medical help?	labels:covid - 19 is a virus that causes symptoms of covid ( sneezing ) and causes symptoms that are similar to symptoms of a cold or flu .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text:What is the best way to protect yourself from Covid 19?	labels:covid - 19 is a viral infection that causes covid ( 2 ) , which causes the virus to spread to other people . it is a type of virus that causes symptoms of covid .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text:What are the symptoms of COVID-19?	labels:covid 19 is a viral infection that causes symptoms of coughing , sneezing , and sneezes . it is caused by a new type of virus that is spreading through the air .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text:If you contract COVID 19 how do you treat yourself at home?	labels:covid - 19 is a type of virus that is caused by a new type of covid . it is caused from a new virus that has been spread to other people .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text:Do I need to get tested if I don t have a fever?	labels:if you have a cold or flu , you should get a cold . if you do not have a virus , you will not get sick . if your sick , you may get a fever or cough . if the fever is not severe , you might get a cough or cough that is not normal . if it is severe , your body may not get the virus . if this is not common , you can get a test for the virus that is in your body . if there is a virus that you are not getting , you could get a blood test . if a virus is in the body , you would need to talk to your doctor about it .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text:How long does the virus live on surfaces?	labels:the virus can spread from person to person . it can spread to people who are not wearing clothes , or people who have been sick with a disease . it is also known as " covid - 19 " .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text:Should I stay home?	labels:if you are sick , you should stay home and take care of yourself . if you have a fever , you can take care if you get sick . if not , you could get sick and not get your fever .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text:What is corona virus?	labels:coronavirus is a type of virus that is caused by a type that is known as coronovirus . it is caused from a type called coronocymia .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text:Is it true that you can get the virus again even after you ve recovered?	labels:yes , it is true that the virus can spread from person to person . however , it can also spread from someone who has not had the virus before .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: What is Tamiflu?	labels:it is a disease that is caused by a new type of virus . it is caused from the same type of disease that causes the flu .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: I am 43 What s the chance of my survival if I get covid?	labels:covid - 19 is a type of virus that causes covid . it is caused by a new type of covid virus . it can spread from person to person .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: What should I use to disinfect grocery bags and grocery items?	labels:the same as you would use a regular grocery store bag . the same things that are used to store food and other foods .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: How is it transmitted?	labels:the virus is a virus that is spread by touching a person ' s nose , mouth , or mouth . it is spread through the nose , lips , or lips .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: covid symptoms?	labels:covid - 19 is a type of virus that causes covid ( covid ) , which is a disease that causes symptoms of covid .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: Would using heated vapor humidifier help with sanitizing the sinuses of the covid 19?	labels:covid - 19 is a viral infection that affects the respiratory system . it is not likely to help with the cov - 19 virus .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: Will social distancing slow the spread of covid 19?	labels:covid - 19 is a viral infection that causes covid ( 2 ) , which causes the virus to spread to other people . it is not a virus that causes the spread .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: what are he covid symptoms?	labels:covid - 19 is a type of virus that causes covid ( sneezing ) . it is caused by a type that is known as sneeze .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: What is a dry cough?	labels:a cough is a viral infection that causes a cold or flu . it is caused by a cold , flu , or cough .	episode_done:True
+
+id:parlai_utilities/eval_covid.txt	text: what is the life of COVID-19 virus?	labels:covid 19 is a virus that is caused by a new type of virus . it is a type of cov - 19 that is spread through the body .	episode_done:True
+
+
