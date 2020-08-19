@@ -1,0 +1,41 @@
+id:parlai_utilities/eval.txt	text: What do you know about COVID-19?	labels:covid 19 is a type of virus that causes covid 20 . it is caused by a new type of covid virus that is not known to be known to the public yet .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What COVID 19 symptoms require that I seek medical help?	labels:covid - 19 is a virus that causes symptoms of covid ( sneezing ) and causes symptoms that are similar to symptoms of a cold or flu .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is the best way to protect yourself from Covid 19?	labels:covid - 19 is a viral infection that causes covid ( 2 ) , which causes the virus to spread to other people . it is a type of virus that causes symptoms of covid .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What are the symptoms of COVID-19?	labels:covid 19 is a viral infection that causes symptoms of coughing , sneezing , and sneezes . it is caused by a new type of virus that is spreading through the air .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:If you contract COVID 19 how do you treat yourself at home?	labels:covid - 19 is a type of virus that is caused by a new type of covid . it is caused from a new virus that has been spread to other people .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do I need to get tested if I don t have a fever?	labels:if you have a cold or flu , you should get a cold . if you do not have a virus , you will not get sick . if your sick , you may get a fever or cough . if the fever is not severe , you might get a cough or cough that is not normal . if it is severe , your body may not get the virus . if this is not common , you can get a test for the virus that is in your body . if there is a virus that you are not getting , you could get a blood test . if a virus is in the body , you would need to talk to your doctor about it .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:How long does the virus live on surfaces?	labels:the virus can spread from person to person . it can spread to people who are not wearing clothes , or people who have been sick with a disease . it is also known as " covid - 19 " .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Should I stay home?	labels:if you are sick , you should stay home and take care of yourself . if you have a fever , you can take care if you get sick . if not , you could get sick and not get your fever .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is corona virus?	labels:coronavirus is a type of virus that is caused by a type that is known as coronovirus . it is caused from a type called coronocymia .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Is it true that you can get the virus again even after you ve recovered?	labels:yes , it is true that the virus can spread from person to person . however , it can also spread from someone who has not had the virus before .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your hobby?	labels:i like to play video games and watch netflix . i also like to watch netflicks .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What do you do for a living?	labels:i work in a hospital . i have been working in the hospital for about 6 months now .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do you have any pets?	labels:i have a dog . he is a little bit of a handful . he has a lot of energy and is very active . he can also play with other animals .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do you have any brothers or sisters?	labels:no , i do not have any siblings . i do have a few friends who are older than me , though .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your favourite band?	labels:i love the band " the band of the year " . they are a band from los angeles .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:When was the last time you went to the movie theater?	labels:last week	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Where do you live?	labels:i live in the us . i have been to the hospital and had to call the emergency services . i am not sure if i should call the hospital or not .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What did you do today?	labels:i went to the hospital and got a check - up . i was able to get a new doctor ' s note and get some more information about the disease .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your favourite food?	labels:i love to eat pizza . it is a type of italian dish that is served in italy .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Have you ever been to Italy?	labels:i have not , but i would love to go to italy . it is the most populous city in the world .	episode_done:True
+
+
