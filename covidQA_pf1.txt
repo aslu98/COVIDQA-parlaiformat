@@ -1,0 +1,1000 @@
+text: What is IFITM?	labels: interferon-induced transmembrane	episode_done:True
+text: How many cysteine residues are contained in the first transmembrane domain of IFITM3?	labels: three	episode_done:True
+text: What inhibits S-palmitoylation?	labels: 2-bromopalmitic acid (2BP)	episode_done:True
+text: What interaction is inhibited by the presence of 2-bromopalmitic acid (2BP)?	labels: IFITM5 with FKBP11	episode_done:True
+text: What is a function associated with IFITM5?	labels: bone formation factor.	episode_done:True
+text: What regulates the antiviral activity of IFITM3?	labels: S-palmitoylation on the protein	episode_done:True
+text: What is another name for IFITM5?	labels: bonerestricted IFITM-like (BRIL) protein	episode_done:True
+text: Why is the expression of IFITM5 not promoted by interferons?	labels: the region upstream of the ifitm5 gene lacks the interferon regulatory elements	episode_done:True
+text: What is the amino acid similarity between IFITM5 and the other IFITM proteins?	labels: ~ 65% similarity	episode_done:True
+text: What is the amino acid similarity between IFITM 1, IFITM 2, and IFITM 3?	labels: ~ 85% similarity	episode_done:True
+text: What amino acid might be involved in calcium binding in the C-terminal region of a protein?	labels: aspartate	episode_done:True
+text: What is the size of bovine coronavirus?	labels: 31 kb	episode_done:True
+text: What is the molecular structure of bovine coronavirus?	labels: single-stranded, linear, and nonsegmented RNA	episode_done:True
+text: How many nucleotides does bovine coronavirus contain?	labels: 30,847 nucleotides	episode_done:True
+text: What is the size of the orf1ab gene in bovine coronavirus?	labels: 20kb	episode_done:True
+text: Is the orf1ab gene at the 3' or 5' end of the bovine coronavirus genome?	labels: 5= side	episode_done:True
+text: What is a significant cause of Influenze like illness among healthy adolescents and adults presenting for medical evaluation?	labels: HCoV	episode_done:True
+text: What is the most common species of Human Coronavirus among adults? 	labels: HCoV-OC43	episode_done:True
+text: Which Human Coronavirus showed species specific clinical characteristics of its infection?	labels: HCoV‐HKU1	episode_done:True
+text: What causes the outbreak of SARS and MERS.	labels: Highly virulent species of HCoV	episode_done:True
+text: What is the case fatality rate of SARS and MERS?	labels: ranged from 14% to 45%	episode_done:True
+text: What were the common HCOV strains in the 5 year USA study?	labels:  HCoV-OC43 and HCoV-229E	episode_done:True
+text: Which species are more prevalent but less severe?	labels: HCoV-HKU1, HCoV-OC43, HCoV-NL63, and HCoV-229E	episode_done:True
+text: What is required for a Hepatitis B infection in cells?	labels: both intracellular and cell-surface factors	episode_done:True
+text: What regulates the broad, but less specific, virus-cell interaction in a hepatitis B infection?	labels: heparan sulfates in the membrane proteins	episode_done:True
+text: Which protein domain of the Hepatitis B envelope is necessary for infection?	labels: Nterminus of HBV preS1 (amino acids 1-47) 	episode_done:True
+text: Where is NTCP located in the body?	labels: lateral surface (canalicular) of hepatocytes	episode_done:True
+text: What does the NTCP protein mediate?	labels: bile acid transport 	episode_done:True
+text: Is NTCP sufficient to allow HBV infection?	labels: not sufficient	episode_done:True
+text: Why is NTCP thought to not be sufficient for HBV infection?	labels: the majority of HepaRG cells were found to express NPCT but not to be infected	episode_done:True
+text: What kinds of viruses are Japanese encephalitis virus(JEV), tick-borne encephalitis virus(TBEV), eastern equine encephalitis virus (EEEV), sindbis virus(SV), and dengue virus(DV)?	labels: arboviruses	episode_done:True
+text: What are the current clinically-available methods to detect encephalitis viral antigens?	labels: ELISA and IFA	episode_done:True
+text: What methods exist for detecting multiple antigens simultaneously in a one-sample, laboratory test?	labels: two-dimensional gel electrophoresis , protein chip, mass spectrometry, and suspension array technology	episode_done:True
+text: How many antigens could be detected by Liew's multiplex ELISA test?	labels: 9	episode_done:True
+text: What kind of antibodies were used in the ELISA-array assay?	labels: monoclonal	episode_done:True
+text: How was the ELISA assay validated?	labels: using cultured viruses and inoculated chicken eggs with patient sera	episode_done:True
+text: What capture antibodies were used in the study?	labels: 4D5, 2B5, 1F1, 2B8, 4F9, and 4E11	episode_done:True
+text: What was the spotting concentration range for the capture antibodies?	labels: from 0.2 to 0.0125 mg/ml	episode_done:True
+text: How was the proper spotting concentration determined?	labels: combination of minimized cross reaction and higher signal intensity	episode_done:True
+text: How was cross reaction detection determined?	labels: by applying JEV, YF, and DV cultures	episode_done:True
+text: How was the ELISA-array assay validated?	labels: using cultured viruses and inoculated chicken eggs with patient sera	episode_done:True
+text: In 2010, how many cases of tuberculosis were estimated in China?	labels: 108 per 100,000	episode_done:True
+text: What is the population of Shandong province?	labels: 94 million	episode_done:True
+text: What was the purpose of this study?	labels: estimate the TB prevalence in Shandong	episode_done:True
+text: What was the age range for the people surveyed?	labels: 15 years old or above	episode_done:True
+text: How was the survey designed?	labels: in accordance with WHO recommendations	episode_done:True
+text: Was was the sample size?	labels: 52500	episode_done:True
+text: How were the clusters selected?	labels: A stratified multi stage random sampling	episode_done:True
+text: How many people were in a community cluster?	labels: 1250 to 1750	episode_done:True
+text: Who was excluded from the study?	labels: Military barracks and prisons	episode_done:True
+text: When was the study conducted?	labels: March to June 2010	episode_done:True
+text: Who conducted the study?	labels: clinicians, public health doctors, radiologists, laboratory technicians and nurses	episode_done:True
+text: What medium was used to collect the sputum samples?	labels: Löwenstein-Jensen medium	episode_done:True
+text: What was the response rate for the study?	labels: 95% to 97%	episode_done:True
+text: What was the average age of a study participant?	labels: 46 years	episode_done:True
+text: What was the prevalence rate in Shandong in 2010 for sputum positive cases of tuberculosis?	labels: 22.1	episode_done:True
+text: What was the most striking finding of the study regarding tuberculosis patients?	labels: a large proportion of TB patients did not present consistent cough	episode_done:True
+text: How many cases of sputum positive tuberculosis patients had no persistent cough?	labels: 45%	episode_done:True
+text: How many tuberculosis patients in Shandong were over 65 years old?	labels: over half	episode_done:True
+text: What enzymes have been reported to be linked with severity of infection and various pathological conditions caused by microorganisms?	labels: cysteine proteases	episode_done:True
+text: At what temperatures was the assay completed?	labels: 32uC, 37uC, 42uC	episode_done:True
+text: What criteria sets the guideline for drug-like properties?	labels: Lipinski's ''Rule of five''	episode_done:True
+text: What could be novel candidates as potent inhibitors of papain like cysteine proteases in resistant microorganisms?	labels: 1-substituted pyridylimidazo[1,5-a]pyridine derivatives	episode_done:True
+text: What method is useful in administering small molecules for systemic delivery to the body?	labels: Intranasal	episode_done:True
+text: Why is the nasal mucosa useful in the delivery of small molecules into the body?	labels: the surface area can result in rapid absorption of the medication into the blood	episode_done:True
+text: What are the most common methods of inhaled delivery of medications?	labels: Metered dose inhalers (MDIs) and dry powder inhalers (DPIs)	episode_done:True
+text: What medications have shown good promise to in vivo delivery via dry powder inhalers?	labels: insulin [39] and low-molecular-weight heparin [40]	episode_done:True
+text: How are siRNAs typically delivered for systemic effect?	labels: intratracheal or intranasal delivery	episode_done:True
+text: What structures form the human airway?	labels: respiratory bronchioles, alveolar ducts, and alveolar sacs	episode_done:True
+text: What size of particle has been shown to be most effective in the delivery to the lower airway?	labels: 1-5 μm	episode_done:True
+text: What are the essential conditions in siRNA delivery to effectively produce gene silencing in the lungs?	labels: delivered to their site of action, be stable, enter the target cells, and be present in the cytoplasm at sufficient concentration	episode_done:True
+text: How long is the SAIBK gene?	labels: 27,534 nucleotides	episode_done:True
+text: How many open reading frames are in the SAIBK gene?	labels: 10	episode_done:True
+text: What virus has the closest genetic identity with the SAIBK gene?	labels: Chinese IBV strain SC021202	episode_done:True
+text: How many surgical masks or respirators have past studies projected will be required for a pandemic in the United States?	labels: an estimated 7.3 billion	episode_done:True
+text: What is the acronym MERS-CoV?	labels: Middle East respiratory syndrome coronavirus	episode_done:True
+text: What are the critical factors that determine the effect of an epidemic?	labels: Transmissibility and severity	episode_done:True
+text: When did the World Health Organization (WHO) officially declare the 2019-nCoV epidemic as a Public Health Emergency of International Concern?	labels: January 30, 2020	episode_done:True
+text: What influenza virus was identified in China in 2013?	labels: H7N9	episode_done:True
+text: What past research has been done on severe, single-wave pandemics?	labels: After a new influenza virus (H7N9) was identified in China in 2013, a series of modeling articles described the effect of, and level of preparedness for, a severe, single-wave pandemic in the United States.	episode_done:True
+text: What is a clinical attack rate?	labels: the proportion of individuals who become ill with or die from a disease in a population initially uninfected	episode_done:True
+text: What was the clinical attack rate in the 2009 H1N1 pandemic?	labels: 20%	episode_done:True
+text: What is the estimated R0 of COVID-19?	labels: 2.2	episode_done:True
+text: How many ventilators have past studies projected will be required for a pandemic in the United States? 	labels: 35 000 to 60 000	episode_done:True
+text: How is exhaled breath condensate used in viral research?	labels: the isolation of respiratory viruses	episode_done:True
+text: How many patients were i this study?	labels: 102	episode_done:True
+text: What was the conclusion of this study?	labels: EBC collection using the RTube™ is not reliable for diagnosis of respiratory infections	episode_done:True
+text: How long did the patient breath into the RTube?	labels: 10 minutes	episode_done:True
+text: What followed the reverse transcription step in the analysis?	labels: denaturation step	episode_done:True
+text: What was the last step in the analysis?	labels: amplification step	episode_done:True
+text: What percentage of the patients were between 20 and 30 years old in this study?	labels: 52%	episode_done:True
+text: Why is EBC an attractive method for screening?	labels: easy to perform and can be conducted in a home environment	episode_done:True
+text: What is the leading cause of death among children after the age of 1 month?	labels: Pneumonia remains the leading cause of death in children outside the neonatal period,	episode_done:True
+text: How has the number  of  childhood pneumonia been reduced?	labels: New conjugate vaccines against Haemophilus influenzae type b and Streptococcus pneumoniae have contributed to decreases in radiologic, clinical and complicated pneumonia cases	episode_done:True
+text: What percentage of childhood deaths are due to  pneumonia?	labels:  approximately 900,000 of the estimated 6.3 million child deaths in 2013 	episode_done:True
+text: How has the childhood population grown in the last two  decades?	labels: global childhood population from 605 million in 2000 to 664 million in 2015 	episode_done:True
+text: What is the reduction in the number of childhood pneumonia cases?	labels: Recent data suggest that there has been a 25% decrease in the incidence of pneumonia, from 0.29 episodes per child year in low-and middle-income countries in 2000, to 0.22 episodes per child year in 2010 [3] . This is substantiated by a 58% decrease in pneumonia-associated disability-adjusted life years between 1990 and 2013, from 186 million to 78 million 	episode_done:True
+text: How much  is the reduction in the childhood pneumonia deaths?	labels: Pneumonia deaths decreased from 1.8 million in 2000 to 900,000 in 2013	episode_done:True
+text: Childhood pneumonia rate for  high income countries vs low and middle income countries.	labels: The incidence in high-income countries is estimated at 0.015 episodes per child year, compared to 0.22 episodes per child year in low-and middle-income countries [3] . On average, 1 in 66 children in high-income countries is affected by pneumonia per year, compared to 1 in 5 children in low-and middle-income countries.	episode_done:True
+text: What  percentage of childhood pneumonia deaths occur outside hospital in low and middle  income countries?	labels: up to 81% of severe pneumonia deaths occur outside a hospital 	episode_done:True
+text: Case Fatality Rates for Childhood Pneumonia in high income vs low and middle income countries.	labels: the case fatality rate is estimated to be almost 10-fold higher in low-and middle-income countries as compared to high-income countries	episode_done:True
+text: How can childhood pneumonia affect the subsequent health of a person?	labels: Early life pneumonia can impair longterm lung health by decreasing lung function [6] . Severe or recurrent pneumonia can have a worse effect on lung function; increasing evidence suggests that chronic obstructive pulmonary disease might be related to early childhood pneumonia	episode_done:True
+text: What is the increase in the risk of respiratory disease after having childhood pneumonia.	labels: The risk of developing at least one of the major sequelae was estimated as 6% after an ambulatory pneumonia event and 14% after an episode of hospitalized pneumonia.	episode_done:True
+text: Which is the best method to identify pneumonia in a person?	labels: Chest radiologic changes have been considered the gold standard for defining a pneumonia event	episode_done:True
+text: What is responsible for the reduction of radiologic pneumonia?	labels: Widespread use of pneumococcal conjugate vaccination and Haemophilus influenzae type B conjugate vaccination has decreased the incidence of radiologic pneumonia.	episode_done:True
+text: What is the percentage reduction in pneumonia cases due to  vaccination?	labels: Haemophilus influenzae type B conjugate vaccination in high-burden communities, the vaccination was associated with an 18% decrease in radiologic pneumonia [13] . Introduction of pneumococcal conjugate vaccination was associated with a 26% decrease in radiologic pneumonia in California between 1995 and 1998 [14] . In vaccine efficacy trials in low-and middle-income countries, pneumococcal conjugate vaccination reduced radiologic pneumonia by 37% in the Gambia [15] , 25% in South Africa [16] and 26% in the Philippines 	episode_done:True
+text: What is the revised WHO definition of Bacterial Pneumonia?	labels:  A revised case definition of "presumed bacterial pneumonia" has been introduced, and this definition includes pneumonia cases with WHO-defined alveolar consolidation, as well as those with other abnormal chest radiograph infiltrates and a serum C-reactive protein of at least 40 mg/L 	episode_done:True
+text: What is the reduction in bacterial pneumonia under the revised WHO  definition of bacterial pneumonia?	labels:  Using the revised definition, the 10-valent pneumococcal conjugate vaccine (pneumococcal conjugate vaccination-10), had a vaccine efficacy of 22% in preventing presumed bacterial pneumonia in young children in South America [22] , and pneumococcal conjugate vaccination-13 had a vaccine efficacy of 39% in preventing presumed bacterial pneumonia in children older than 16 weeks who were not infected with human immunodeficiency virus (HIV) in South Africa [21]	episode_done:True
+text: What caused the increase in the  incidence of empyema in children in the recent past?	labels:  An increased incidence of empyema in children was noted in some high-income countries following pneumococcal conjugate vaccination-7 introduction, and this was attributed to pneumococcal serotypes not included in pneumococcal conjugate vaccination-7, especially 3 and 19A	episode_done:True
+text: How have the incidence Empyema been reduced?	labels: These trends have been reversed since the introduction of pneumococcal conjugate vaccination-13. Data from the United States suggest that empyema decreased by 50% in children younger than 5 years 	episode_done:True
+text: What pneumonia related or chest conditions indicate the need for child radiography?	labels: chest radiography should not be routinely performed in children with ambulatory pneumonia [31] [32] [33] . Indications for chest radiography include hospitalization, severe hypoxemia or respiratory distress, failed initial antibiotic therapy, or suspicion for other diseases (tuberculosis, inhaled foreign body) or complications. 	episode_done:True
+text: What chest diseases and pneumonia were identified as leading causes prior to  the availability of vaccines?	labels: prior to availability of new conjugate vaccines confirmed S. pneumoniae and H. influenzae type B as the most important bacterial causes of pneumonia, with Staphylococcus aureus and Klebsiella pneumoniae associated with some severe cases. Respiratory syncytial virus was the leading viral cause, identified in 15-40% of pneumonia cases, followed by influenza A and B, parainfluenza, human metapneumovirus and adenovirus	episode_done:True
+text: Why has pertussis immunity in infants has decreased in infants?	labels: Because pertussis immunity after acellular pertussis vaccination is less long-lasting than immunity after wild-type infection or whole-cell vaccination, many women of child-bearing age have waning pertussis antibody levels. 	episode_done:True
+text: What is the effect of childhood tuberculosis in childhood pneumonia?	labels: A recent systematic review of tuberculosis as a comorbidity of childhood pneumonia reported culture-confirmed disease in about 8% of cases [50] . Because intrathoracic tuberculosis disease is only culture-confirmed in a minority of cases, the true burden could be even higher; tuberculosis could therefore be an important contributor to childhood pneumonia incidence and mortality in high-prevalence areas	episode_done:True
+text: What are the risk factors in childhood pneumonia?	labels:  incomplete or inadequate vaccination must be considered as a major preventable risk factor for childhood pneumonia. Other risk factors include low birth weight, which is associated with 3.2 times increased odds of severe pneumonia in low-and middle-income countries, and 1.8 times increased odds in high-income countries [51] . Similarly, lack of exclusive breastfeeding for the first 4 months of life increases odds of severe pneumonia by 2.7 times in low-and middle-income countries and 1.3 times in highincome countries. 	episode_done:True
+text: How does air pollution affect the incidence of childhood pneumonia?	labels:  Indoor air pollution from use of solid or biomass fuels increases odds of pneumonia by 1.6 times; lack of measles vaccination by the end of the first year of age increases odds of pneumonia by 1.8 times 	episode_done:True
+text: What is the strongest risk factor for childhood pneumonia?	labels: The single strongest risk factor for pneumonia is HIV infection, which is especially prevalent in children in sub-Saharan Africa. HIV-infected children have 6 times increased odds of developing severe pneumonia or of death compared to HIV-uninfected children	episode_done:True
+text: What is the global coverage of influenza and pneumonia vaccines?	labels:  By the end of 2015, Haemophilus influenzae type B conjugate vaccination had been introduced in 73 countries, with global coverage estimated at 68%. However, inequities are still apparent among regions: in the Americas coverage is estimated at 90%, while in the Western Pacific it is only 25%. By 2015, pneumococcal conjugate vaccination had been introduced into 54 countries, with global coverage of 35% for three doses of pneumococcal conjugate vaccination for infant populations	episode_done:True
+text: Is influenza vaccination during pregnancy safe? How long does it protect the child?	labels: Influenza vaccination during pregnancy is safe, provides reasonable maternal protection against influenza, and also protects infants for a limited period from confirmed influenza infection (vaccine efficacy 63% in Bangladesh [63] and 50.4% in South Africa [64] ). However as antibody levels drop sharply after birth, infant protection does not persist much beyond 8 weeks	episode_done:True
+text: What is emphyema?	labels: a rare complication of pneumonia	episode_done:True
+text: How is the term end point consolidation described  with regard to pneumonia diagnosis?	labels: as a dense or fluffy opacity that occupies a portion or whole of a lobe, or the entire lung.	episode_done:True
+text: What factors make H5N1 a worldwide threat to public health?	labels: rapid spread and high pathogenicity	episode_done:True
+text: What are the symptoms of H5N1 infection in humans?	labels: fever, encephalitis, pneumonia, and severe acute respiratory syndrome (SARS)	episode_done:True
+text: Name some medications used to treat influenza.	labels: zanamivir (Relenza) and oseltamivir (Tamiflu)	episode_done:True
+text: Why have antiretrovirals medications had limited benefit in treating influenza?	labels: drug-resistance and frequent antigenic mutation	episode_done:True
+text: What is the focus of the current study?	labels: effect of EAP against H5N1 influenza infection	episode_done:True
+text: What is the result of the current study?	labels: the anti-H5N1 effects of EAP offer an alternative strategy for developing antiinfluenza agents	episode_done:True
+text: How do the polysaccharides in plants effect the immune response?	labels: enhance the secretion of cytokines and chemokines, such as TNF-, IL-6, IL-8, and IL-12	episode_done:True
+text: What does this study demonstrate?	labels: EAP leaf extract is a prophylactic and immune enhancement agent against H5N1 influenza virus infection	episode_done:True
+text: In this study, how did treatment of EAP after infection affect survival?	labels: did not provide a survival advantage	episode_done:True
+text: What viruses have been responsible for most common childhood acute respiratory track infections (ARTI)?	labels: The most frequently reported viruses include respiratory syncytial virus (RSV), influenza viruses A and B (IAV, IBV), parainfluenza viruses (PIVs), human rhinovirus (HRV) and adenovirus (ADV), 	episode_done:True
+text: Are there any vaccines against to protect against respiratory viral infections?	labels: Currently, there are no approved vaccines or medications available for most of the respiratory viruses	episode_done:True
+text: Which type of bacteria are implicated in carrying genes of drug resistance?	labels: Gammaproteobacteria	episode_done:True
+text: What may be a likely cause of sink-to-sink spreading of pathogens in the hospital setting?	labels: via a common sanitary pipe	episode_done:True
+text: What types of acute respiratory infections can be screened and diagnosed with multiplex PCR?	labels: influenza and parainfluenza viruses, RSV, adenovirus, rhinovirus, human metapneumovirus, enterovirus, bocavirus and coronavirus	episode_done:True
+text: What is the role of antibodies during infection?	labels: Antibodies against foreign antigens are a critical component of the overall immune response and can facilitate pathogen clearance during a primary infection and also protect against subsequent infections.	episode_done:True
+text: How can antibodies also create health problems?	labels: Dysregulation of the antibody response can lead to an autoimmune disease, malignancy, or enhanced infection. 	episode_done:True
+text: Which technology  invention produced antibodies that are clones of a unique parent cell?	labels:  in the 1970s with the development of hybridoma technology to produce monoclonal antibodies 	episode_done:True
+text: What mechanism is responsible for the creation of diversified repertoire for antibodies?	labels: somatic rearrangement during B cell differentiation was responsible for antibody diversification 	episode_done:True
+text: What  developments have been made possible by the study of B-cell repertoire?	labels: (1) vaccine candidates that elicit protective antibodies; (2) antibodies that prevent disease when given prophylactically; and (3) antibodies that can be given as therapy after the onset of disease.	episode_done:True
+text: What motivates the study of the rare B-cells that produce Broadly Neutralizing Antibodies (bnAb)?	labels: discovery of broadly neutralizing antibodies (bnAbs) that protect against infection across diverse viral isolates has intensified efforts to understand the developmental pathway of the rare B cells that produce these antibodies	episode_done:True
+text: How has the study of B-cells helped the treatment for Respiratory syncytial virus (RSV)?	labels: For RSV, stabilized versions of the fusion (F) protein in the pre-fusion conformation have led to insights in the B cell's response to infection and has generated potentially safer and more efficacious vaccine candidates	episode_done:True
+text: How are the studies on B-cells helping the development of a universal influenza vaccine?	labels: Influenza also performs fusion through the stem region of the hemagglutinin protein, and the identification of B cells that target this relatively conserved site has spurred research on the development of a universal influenza vaccine (	episode_done:True
+text: What role B-cell  play in malaria infection and prevention?	labels:  Rare memory B cells producing antibodies specific for the EBV fusion machinery have been isolated; these can neutralize both B cell and epithelial cell infection (20). A new paradigm in malaria vaccine development is also emerging with the discovery of IgM+ and IgD+ memory B cells targeting the Merozoite Surface Protein 1, that rapidly respond to malaria re-infection	episode_done:True
+text: How can the study of B-cells help in the prevention and treatment of autoimmune diseases?	labels: The study of autoantigen-specific B cells and a detailed analysis of B cell subsets with pathogenic potential in humans could lead to a better understanding of how to prevent and treat autoimmune diseases.	episode_done:True
+text: When was the  Middle East Respiratory Syndrome Coronavirus isolated first?	labels: (MERS-CoV) was first isolated in 2012, in a 60-year-old man who died in Jeddah, KSA due to severe acute pneumonia and multiple organ failure	episode_done:True
+text: What is the Case fatality rate for MERS Coronavirus?	labels: Recent fatality rate (CFR) of 21%	episode_done:True
+text: How does gender influence MERS-COV infection?	labels:  MERS-CoV infects males more than females	episode_done:True
+text: Which is the source animal for the MERS-COV?	labels: Dromedary camels are the major animal source of MERS-CoV transmission to humans.	episode_done:True
+text: What is the median time until death in MERS-COV?	labels: median time until death is 11-13 days (range 5-27 days) among severely ill patients	episode_done:True
+text: What is the incubation period for MERS-COV?	labels:  incubation period of 16 days with a mean of 5-6 days [	episode_done:True
+text: What is the treatment for MERS-COV?	labels: ere is no specific treatment for MERS-CoV. Like most viral infections, the treatment options are supportive and symptomatic	episode_done:True
+text: What age group had the most MERS-COV infections?	labels: majority of confirmed cases of MERS-CoV were reported among people aged 40 and above	episode_done:True
+text: Why are nucleosides analogs used for chemotheraphy?	labels: they inhibit cellular DNA/RNA polymerases	episode_done:True
+text: What nucleoside analog is the focus of the current study?	labels: gemcitabine	episode_done:True
+text: Gemcitabine has been shown to have antiviral activity against which viruses?	labels: Middle East respiratory syndrome coronavirus (MERS-CoV), severe acute respiratory syndrome coronavirus (SARS-CoV), Zika virus (ZIKV), HCV, poliovirus (PV), influenza A virus (IAV), HIV, and enteroviruses (EV)	episode_done:True
+text: How does gemcitabine disrupt viral activity?	labels: by targeting the salvage pathway of pyrimidine biosynthesis	episode_done:True
+text: Why are cotton rats considered a strong animal model for biomedical research?	labels: its well defined immunological and genetic information, costeffectiveness, and abundant inbred strains and research reagents	episode_done:True
+text: What is the structure of the CD40 Ligand?	labels: a sandwiched extracellular structure composed of a β-sheet, α-helix loop, and a β-sheet	episode_done:True
+text: What is the effect of CD40L on Dendritic Cells?	labels: it promotes cytokine production, the induction of cell surface co-stimulatory molecules, and facilitates the cross-presentation of antigen by these cells	episode_done:True
+text: What is the effect of CD40L on B Cells?	labels: it promotes germinal center formation, immunoglobulin (Ig) isotype switching, somatic hypermutation to enhance antigen affinity, and lastly, the formation of long-lived plasma cells and memory B cells	episode_done:True
+text: What factor may influence viral replication and gene expression?	labels: the average codon usage frequencies in the host genome	episode_done:True
+text: What accounts for the variation of codon usage among open reading frameworks?	labels: mutational pressure and translational selection	episode_done:True
+text: What conditions are considered upper respiratory tracts infections?	labels: common cold, pharyngitis, otitis, sinusitis, laryngotracheitis, epiglottitis	episode_done:True
+text: What conditions are considered lower respiratory tract infections?	labels: bronchitis, pneumonia and bronchiolitis	episode_done:True
+text: What immune cells are primarily involved in eliminating virus-infected cells?	labels: NK cells (CD3-/CD16+/CD56+)	episode_done:True
+text: What molecules have been shown to hinder T cell responses to viral infections?	labels: Excessive reactive oxygen species (ROS)	episode_done:True
+text: The accumulation of what molecule hinders phagocytic activity in T cells?	labels: reactive oxygen species (ROS)	episode_done:True
+text: When did the last Director General of the WHO resign?	labels: June 30, 2017	episode_done:True
+text: Why might an organization like the WHO be necessary?	labels: to promote, set standards in, and evaluate progress toward better health for people in all countries	episode_done:True
+text: Where should the next Director General for the WHO come from?	labels: a lowincome or middle-income country	episode_done:True
+text: What traits should the new Director General of the WHO have?	labels: open-minded and creative	episode_done:True
+text: What is the Hepatitis C virus?	labels: enveloped, positive-stranded RNA virus	episode_done:True
+text: How many people have persistent hepatitis C virus?	labels: 170 million people worldwide	episode_done:True
+text: What is the long-term risk of chronic hepatitis C infection?	labels: cirrhosis and hepatocellular carcinoma	episode_done:True
+text: What antiviral treatments are used for hepatitis C infection?	labels: pegylated alpha-interferon and ribavirin	episode_done:True
+text: What is the main cause of death in the neonatal period of calves?	labels: Calf septicemia	episode_done:True
+text: Where was hepcidin first discovered?	labels: human urine	episode_done:True
+text: What is hepcidin?	labels: low molecular weight, antimicrobial peptide hormone	episode_done:True
+text: What organ produces hepcidin?	labels: liver	episode_done:True
+text: What stimulates the release of hepcidin?	labels: inflammatory reactions and high Fe concentrations	episode_done:True
+text: What element does hepcidin play a roles in regulating during metabolism?	labels: Fe	episode_done:True
+text: Is hepcidin toxic?	labels: potentially toxic	episode_done:True
+text: Why is iron critical to bacteria?	labels: bacteria utilize Fe for survival, growth and proliferation	episode_done:True
+text: How does hepcidin work in the duodenum?	labels: control of excessive Fe absorption	episode_done:True
+text: How does hepcidin affect macrophages?	labels: regulation of Fe release	episode_done:True
+text: What leads to oxidative stress in the body?	labels: production of ROS	episode_done:True
+text: What parameter is used to measure antioxidant levels?	labels: superoxide dismutase	episode_done:True
+text: What is Acute hemorrhagic encephalomyelitis?	labels: a rare form of acute disseminated encephalomyelitis	episode_done:True
+text: What are the salient findings in Acute hemorrhagic encephalomyelitis?	labels: fulminant encephalopathy with hemorrhagic necrosis	episode_done:True
+text: What is RANBP2?	labels: nuclear pore protein	episode_done:True
+text: What is the suggested role of RANBP2 in the cell?	labels: intracellular protein trafficking or energy maintenance and homeostasis of neuronal cells	episode_done:True
+text: What is the hallmark finding of acute necrotizing encephalopathy?	labels: multiple, symmetric brain lesions located in the thalami bilaterally, putamina, deep periventricular white matter, cerebellum, and brainstem	episode_done:True
+text: What could trigger acute necrotizing encephalopathy?	labels: viral infection in previously healthy children	episode_done:True
+text: When did she present with rapidly progressive right-hand weakness?	labels: 1 month later	episode_done:True
+text: Compounds from what framework have shown promising anticancer and antiviral properties?	labels: quinazolin-4-one	episode_done:True
+text: The replication of what virus is strongly inhibited by 2-(4-hydroxybenzyl)quinazolin-4(3H)-one (1)?	labels: tobacco mosaic virus	episode_done:True
+text: How many samples were obtained?	labels: 11,399	episode_done:True
+text: What percentage of patients were positive for at least one respiratory pathogen?	labels: 49.2%	episode_done:True
+text: What percentage of patients tested positive for HBoV1?	labels: 2.2%	episode_done:True
+text: When was HBoV1 first identified?	labels: 2005	episode_done:True
+text: What are the symptoms of HBoV1 infection?	labels: cough, rhinitis, fever	episode_done:True
+text: What are the ages of the patients in this study?	labels: ≤14 years old	episode_done:True
+text: What was the male to female ratio for this study?	labels: 1.82:1	episode_done:True
+text: What causes acute respiratory illness in young children?	labels: Human metapneumovirus (HMPV)	episode_done:True
+text: What is the molecular structure of the Human metapneumovirus (HMPV)?	labels: single-stranded RNA virus	episode_done:True
+text: What virus is closely related to the human respiratory syncytial virus (RSV)?	labels: Human metapneumovirus (HMPV)	episode_done:True
+text: What diseases are caused by HMPV?	labels: mild upper respiratory infection to bronchiolitis and pneumonia	episode_done:True
+text: How large is the HMPV genome?	labels: 13 kb	episode_done:True
+text: How many open reading frames are in the HMPV genome?	labels: eight	episode_done:True
+text: What are the two major genotypes of HMPV?	labels: A and B	episode_done:True
+text: What is the most common subgroup of HMPV?	labels: HMPV A2	episode_done:True
+text: Who accounted for 44% of HMPV positive cases in Kenya between 2007 and 2011?	labels: children under 6 months of age	episode_done:True
+text: What does this study describe?	labels: a whole genome sequencing (WGS) approach for HMPV	episode_done:True
+text: What was the difference in the group A and B genomes?	labels: The length of the F-M2 intergenic region	episode_done:True
+text: What was the purpose of this study?	labels:  to comprehensively investigate the viral epidemiology of adult RTIs	episode_done:True
+text: How many control samples were used in this study?	labels: 27	episode_done:True
+text: What was the prevalence of coinfection?	labels: 4.1% of cases	episode_done:True
+text: What risks factors were associated with lower RTIs?	labels: parainfluenza infection, old age, and immunosuppression	episode_done:True
+text: What tests can simultaneously identify and subtype multiple respiratory viruses?	labels: multilocus polymerase chain reaction coupled with electrospray ionization mass spectrometry	episode_done:True
+text: What was the definition for an immunocompromised state in this study?	labels: corticosteroid treatment, solid organ or hematopoietic stem cell recipient, or chemotherapy for an underlying malignancy during the past 6 months	episode_done:True
+text: What was the length of the study?	labels: 9-month	episode_done:True
+text: How many patients had acute RTIs?	labels: 263	episode_done:True
+text: What was the most frequent coinfection?	labels: rhinovirus	episode_done:True
+text: What health regulations were changes due to the outbreak of C. burnetti?	labels: forbid the display of sheep in the latter third of their pregnancy and require regular testing of animals for C. burnetii in petting zoos	episode_done:True
+text: What was the median seropresence of C. burnetti in sheep flocks not linked to human outbreaks?	labels: 1%	episode_done:True
+text: What important risk factors to infection were found during the second case-controlled study?	labels: close proximity to the ewe and duration of exposure	episode_done:True
+text: What was the interquartile range of the incubation period?	labels: 16 to 24 days	episode_done:True
+text: How many controls were used in the second case study?	labels: 36	episode_done:True
+text: What public event was linked with the outbreak?	labels: farmers' market	episode_done:True
+text: What causes Q fever?	labels: Coxiella burnetii (C. burnetii)	episode_done:True
+text: What is Coxiella burnetii?	labels: small, gram-negative obligate intracellular bacterium	episode_done:True
+text: What is the primary reservoir for Coxiella burnetii?	labels: sheep, goat and cattle	episode_done:True
+text: How are humans typically infected with Coxiella burnetii?	labels: inhalation of contaminated aerosols from parturient fluids, placenta or wool	episode_done:True
+text: What are critical to regulate cellular biological processes?	labels: long non-coding RNAs	episode_done:True
+text: How is the HeteSim measured used?	labels: calculate the relatedness of objects with the same or different types	episode_done:True
+text: What kind of data is included in the STRING database?	labels: weighted protein interactions	episode_done:True
+text: What is the function of MALAT1?	labels: regulates cell cycle and survival	episode_done:True
+text: What test can detect reduced anticoccidial efficacy in the field?	labels: faecal oocyst count reduction test (FOCRT)	episode_done:True
+text: What is toltrazuril used to treat?	labels: anticoccidial	episode_done:True
+text: What is multiple evanescent white dot syndrome?	labels: a rare, sudden onset of unilateral chorioretinopathy	episode_done:True
+text: What precedes about half of the reported cases of MEWDS?	labels: flu-like illness	episode_done:True
+text: What types of viruses can be diagnosed through serological testing?	labels: herpes simplex virus (HSV) I-II, varicella zoster virus (VZV), West Nile virus, coxsackievirus, echovirus (subgroup of enterovirus), and corona virus	episode_done:True
+text: What type of clinical test can differentiate multiple evanescent white dot syndrome (MEWDS) from optic neuritis?	labels: multimodal imaging	episode_done:True
+text: What were the most common viruses sampled from nasal swabs in Ilorin, Nigeria	labels: Parainfluenza virus 4, respiratory syncytial virus B and enterovirus	episode_done:True
+text: What was the most common virus detected in community members in this sample?	labels: Coronavirus OC43	episode_done:True
+text: How bad is the burden of disease in developing countries?	labels: 2-5 times higher than in developed countries	episode_done:True
+text: Where do the majority of all infectious disease outbreaks happen?	labels: Africa	episode_done:True
+text: What are some risk factors for countries to experience a high prevalence of Acute Respiratory Infections?	labels: age, sex, overcrowding, nutritional status, socio-economic status, and where study of ARIs is currently limited	episode_done:True
+text: What symptoms are associated with acute respiratory infections?	labels: sore throat, fever, couch, running nose, vomiting, body ache, leg pain, nausea, chills, shortness of breath 	episode_done:True
+text: What was the most common virus detected in community samples in Ilorin, Nigeria?	labels: Coronavirus OC43	episode_done:True
+text: What was the prevalence of Coronavirus OC43 in community samples in Ilorin, Nigeria?	labels: 13.3% (95% CI 6.9-23.6%)	episode_done:True
+text: What was the prevalence of Coronavirus OC 229 E/NL63 in clinical subjects in Ilorin, Nigeria?	labels: 12.5%	episode_done:True
+text: What was the difference between community and clinic cases of acute respiratory infections?	labels: increased severity of illness in the clinical sample	episode_done:True
+text: How can countries enhance public health surveillance?	labels: active community surveillance	episode_done:True
+text: Why do respiratory tract infections pose major public health problems?	labels: world-wide occurrence, ease of transmission and considerable morbidity and mortality effecting people of all ages	episode_done:True
+text: How much of a greater risk are children than adults to viral infections?	labels: two to three times more frequently	episode_done:True
+text: What is the most common infection in childhood?	labels: acute RTI	episode_done:True
+text: What can respiratory viruses cause?	labels: common colds, pharyngitis, croup, bronchiolitis, viral pneumonia and otitis media	episode_done:True
+text: When do respiratory infections usually happen?	labels: during winter and early spring months	episode_done:True
+text: What are the most common viruses?	labels: respiratory syncytial virus (RSV), influenza A and B (INF-A, INF-B) viruses, parainfluenza viruses (PIVs), and human adenoviruses (HAdVs)	episode_done:True
+text: What is the most common viral infection for infants up to 3 months old?	labels: RSV	episode_done:True
+text: What is the incidence of RSV in children older than 3 years of age?	labels: 13%	episode_done:True
+text: What is the distance between the p4.7 and p12.7 genes in the Irish versus Japanese equine coronavirus variants?	labels: 544 base pairs	episode_done:True
+text: What is the difference between the Tokachi09 and Irish coronavirus genomic sequences?	labels: 148-nucleotide insertion	episode_done:True
+text: What suggests that Irish equine coronaviruses may have a low genetic diversity?	labels: high level of homology between viruses	episode_done:True
+text: Where have most outbreaks of equine coronavirus occurred in the United States?	labels: adult riding, racing and show horses	episode_done:True
+text: What kind of pertussis vaccine is used in middle and high income countries?	labels: acellular	episode_done:True
+text: Where is the highest rate of childhood pertussis globally?	labels: Southeast Asia	episode_done:True
+text: What type of pertussis vaccine has been recently recommended by the WHO?	labels: whole cell pertussis vaccines	episode_done:True
+text: What are the clinical symptoms of pertussis?	labels: apnea, cyanosis, cough with vomit, or whoop/whooping cough	episode_done:True
+text: What type of swabs are used to sample patients with pertussis?	labels: mid-nasal nylon flocked	episode_done:True
+text: How frequently do pertussis outbreaks peak?	labels: every 2 to 4 years	episode_done:True
+text: What is the WHO criteria for a pertussis infection?	labels: a minimum of 2 weeks of cough, whoop, or posttussive vomiting	episode_done:True
+text: What is used by the Canadian Public Health System to identify periods of influenza activity?	labels: weekly proportion of laboratory tests that are positive for influenza	episode_done:True
+text: Why is laboratory confirmation of influenza infection not commonly performed?	labels: diagnosis will often not alter patient management, a paucity of real-time, accurate, inexpensive testing methods [4] and because influenza is not recognized as the etiology of the clinical presentation	episode_done:True
+text: What types of viral infections are monitored through Canada's Respiratory Virus Detection Surveillance System (RVDSS)?	labels: nfluenza, respiratory syncytial virus (RSV), para-influenza virus (PIV), and adenovirus	episode_done:True
+text: What is discussed in this publication?	labels: the potential anti-virus activity of inositol-requiring enzyme 1 (IRE1), a well characterized effector of the cellular homeostatic response to an overloading of the endoplasmic reticulum (ER) protein-folding capacity. IRE1, an ER-membrane-resident ribonuclease (RNase), upon activation catalyses regulated cleavage of select protein-coding and non-coding host RNAs, using an RNase domain which is homologous to that of the known anti-viral effector RNaseL. 	episode_done:True
+text: What is discussed in this publication?	labels: The review first discusses the anti-viral mechanism of the OAS/RNaseL system and evasion tactics employed by different viruses. This is followed by a review of the RIDD pathway and its potential effect on the stability of viral RNAs. 	episode_done:True
+text: What is reported in this publication?	labels: comparison of the enzymatic activity of the two RNases followed by deliberations on the physiological consequences of their activation.	episode_done:True
+text: What is the conclusion regarding IRE1 and RNaseL proteins?	labels: In the context of a virus infection, the pathway leading from both these proteins have the potential to lead to cell death. Notwithstanding the fact that this might be an efficient way of virus clearance, it also portends pathological outcomes for the infected organism. Future research would probably lead to design of drugs targeting these proteins based on the structural homology of their effector domains, regulating the pathological denouement of their activation without compromising their anti-viral or potential anti-viral functions.	episode_done:True
+text: What is the structure of an Echovirus?	labels: nonenveloped, single-stranded, positive-sense RNA	episode_done:True
+text: What diseases are associated with echoviruses?	labels: respiratory illness, hand-foot-and-mouth disease, and aseptic meningitis,	episode_done:True
+text: In California, to where are meningitis cases reported according to the California Code of Regulations?	labels: California Department of Public Health (CDPH)	episode_done:True
+text: According to the California Code of Regulations, when should a meningitis case be reported?	labels: within 1 day of identification	episode_done:True
+text: Where is the Viral and Rickettsial Disease Laboratory located?	labels: CDPH	episode_done:True
+text: What type of reference genome was used in the study?	labels: E-30	episode_done:True
+text: What was the read coverage for the E-30 genome in this study?	labels: 260-fold	episode_done:True
+text: What are the structural regions of the enterovirus polyprotein in this study?	labels: one structural (P1-capsid) and two nonstructural (P2 and P3) regions	episode_done:True
+text: What can nuclear receptors regulate?	labels: homeostasis, differentiation, embryonic development, and organ physiology	episode_done:True
+text: What are associated with cancer, diabetes, inflammatory disease, and osteoporosis?	labels: Nuclear receptors (NRs)	episode_done:True
+text: What are nuclear receptors (NRs)?	labels: class of ligand-inducible transcription factors	episode_done:True
+text: What biological factors for nuclear receptors regulate?	labels: homeostasis, differentiation, embryonic development, and organ physiology	episode_done:True
+text: How many families are in the NR superfamily?	labels: seven	episode_done:True
+text: What is a prerequisite to make a molecular docking study feasible?	labels: a reliable 3D (three dimensional) structure of the target protein	episode_done:True
+text: What tool can be used to determine the 3D structure of proteins?	labels: X-ray crystallography	episode_done:True
+text: What are the shortcomings of X-ray crystallography?	labels: time-consuming and expensive	episode_done:True
+text: What types of proteins are difficult to crystallize?	labels: membrane proteins	episode_done:True
+text: Where were the data collected for this study?	labels: KEGG (Kyoto Encyclopedia of Genes and Genomes)	episode_done:True
+text: Who performed the sampling procedures?	labels: veterinarians	episode_done:True
+text: When were the fecal samples collected?	labels: from November 2004 to November 2014	episode_done:True
+text: What reference genome was used in the study?	labels: BatCoV HKU10	episode_done:True
+text: What is the length of the replicase gene ORF1ab?	labels: 20.4 kb	episode_done:True
+text: What type of coronavirus was detected in R. affinis and R. sinicus species?	labels: BtCoV/Rh/YN2012	episode_done:True
+text: What is a natural reservoir of coronavirus?	labels: Bats	episode_done:True
+text: What is the genome size of the coronavirus?	labels: 26-32 kb	episode_done:True
+text: What is the structure of the coronavirus?	labels: enveloped, non-segmented, positive-strand RNA viruses	episode_done:True
+text: What animals do gamma and delta coronavirus mainly infect?	labels: birds	episode_done:True
+text: How many types of coronaviruses are known to cause human disease?	labels: Six	episode_done:True
+text: What plays a role in regulating the immune response to a viral infection?	labels: NF-κB	episode_done:True
+text: What is the conclusion of the coronavirus long-term surveillance studies?	labels: Rhinolophus bats seem to harbor a wide diversity of CoVs	episode_done:True
+text: What is the cause of Feline Infectious Peritonitis (FIP)?	labels: FIP virus (FIPV)	episode_done:True
+text: What is the molecular structure of Feline Infectious Peritonitis Virus?	labels: enveloped virus with a nonsegmented, positive sense, single-stranded RNA genome	episode_done:True
+text: How is FECV detected in cats?	labels: shedding in their faeces	episode_done:True
+text: What type of vaccine is used to protect against FIPV infection?	labels: an attenuated, temperature-sensitive strain of type II FIPV	episode_done:True
+text: Why is their controversy surrounding the FIPV vaccine?	labels: the vaccine contains type 2 strain, whereas type 1 viruses are more prevalent in the field	episode_done:True
+text: For how long was the denatured polyacrylamide gel polymerized?	labels: 30 minutes	episode_done:True
+text: How was the binding strength measured?	labels: nano Isothermal Titration Calorimeter (ITC)	episode_done:True
+text: What was the focus of this study?	labels:  the anti-influenza A (H2N2) virus activity of patchouli alcohol	episode_done:True
+text: What do neuroaminidase inhibitors target?	labels: NA glycoproteins of influenza A and B virus	episode_done:True
+text: What is the function of neuroaminidase in the influenza virus?	labels: cleave the α-ketosidic linkage between terminal sialic acid and an adjacent sugar residue	episode_done:True
+text: What is Tamiflu?	labels: NA inhibitor	episode_done:True
+text: What was the test for the level of cytotoxicity used in this study?	labels: CC 50	episode_done:True
+text: What method was used to measure the inhibition of viral replication?	labels: MTT method	episode_done:True
+text: What was the conclusion of this study?	labels:  patchouli alcohol possesses anti-influenza A (H2N2) virus activity	episode_done:True
+text: Why have nucleic acid amplification tests been restricted to laboratory settings?	labels: time, equipment, and technical expertise requirements	episode_done:True
+text: What screening method was evaluated in this study?	labels: HIV-1 RT-LAMP assay	episode_done:True
+text: What was used to measure the performance of the NINA heaters?	labels: whole blood specimens	episode_done:True
+text: What percentage of HIV-infected people go undetected in the United States?	labels: 20%	episode_done:True
+text: What percentage of patients do not return for followup after HIV testing?	labels: 35 to 50%	episode_done:True
+text: What statistical tests were used to compare categorical variables?	labels: Chi-square test and Fisher's exact test	episode_done:True
+text: What was a severe limitation of this study?	labels: unable to evaluate the levels of immunomodulators in the serum samples of a control group	episode_done:True
+text: What followup is needed to confirm the results of the current study?	labels: a larger, longitudinal study on the etiology and severity of pneumonia	episode_done:True
+text: What is the conclusion of this study?	labels: mixed respiratory infections and IP-10 may play major, interconnected roles in the pathogenesis of pneumonia	episode_done:True
+text: What suggests that IP-10 plays a significant role on the pathogenesis of pneumonia?	labels: highest serum IP-10 levels	episode_done:True
+text: What cell types help prevent pneumococcal and influenza infection in the lungs?	labels: airway epithelial cells 19 , resident alveolar macrophages (AMs) and blood monocytes-derived macrophages	episode_done:True
+text: What is the most common, clinically-relevant multiresistant pathogen in both healthcare and community acquired infections?	labels: Methicillin-resistant Staphylococcus aureus (MRSA)	episode_done:True
+text: What is the treatment of choice for MRSA infections?	labels: vancomycin	episode_done:True
+text: What enzyme is essential for the metabolism of fatty acids?	labels: isocitrate lyase	episode_done:True
+text: What was the purpose of this research?	labels: to assess the overall in vitro bactericidal activity of nine newly synthesized diamides	episode_done:True
+text: What is the conclusion of the study?	labels: the marmoset an appropriate animal model for biodefense-related pathogens	episode_done:True
+text: Why makes the marmoset an appropriate animal model for pathogen research?	labels: the small size of marmosets, their immune response to infection that is comparable to humans, and the ability to house more statistically relevant numbers within high containment	episode_done:True
+text: How can the efficacy of DAAs be diminished?	labels: the presence of resistance-associated substitutions	episode_done:True
+text: Was is the response rate of the Hepatitis C virus to direct-acting antiviral treatments?	labels: up to 98%	episode_done:True
+text: How do nonnucleoside NS5B polymerase inhibitors work?	labels: inhibit polymerase activity by allosteric mechanisms	episode_done:True
+text: How many patients were studied?	labels: 31	episode_done:True
+text: Was written consent obtained?	labels: was obtained	episode_done:True
+text: How much of the RNA template was in the reverse transcription reaction mixture?	labels: 5 μl	episode_done:True
+text: How many RASs to NS5A inhibitors were identified?	labels: 2 strains out of 25 (8%)	episode_done:True
+text: Why is the substitution E62D important in drug resistance?	labels: confers a higher level of resistance than the one achieved by the RAS alone	episode_done:True
+text: What are the key factors preventing the elimination of HCV infection in some patients?	labels: baseline and emergent resistance variants	episode_done:True
+text: What is needed to direct genetic mutations in RNA viruses?	labels: Infectious cDNA clones	episode_done:True
+text: What is the structure of the pestivirus?	labels: single stranded positive sense RNA genomes	episode_done:True
+text: What sequences are critical for the autonomous replication of the pestivirus genome?	labels: 5′ and 3′ untranslated regions (UTRs)	episode_done:True
+text: What are the 4 structural proteins of the pestivirus polyprotein?	labels: nucleocapsid protein C, envelope glycoproteins E rns , E1 and E2	episode_done:True
+text: The BAC differed from the parental cDNA sequence by what amino acid substitutions?	labels: aa	episode_done:True
+text: What is the purpose of this research study?	labels: to examine whether a relationship exists between operation volumes and SSIs	episode_done:True
+text: Why are SSIs important to the overall burden on the healthcare system?	labels: The total length of stay and expenditure for patients with SSIs after CABG surgery is significantly longer and higher than those without SSIs	episode_done:True
+text: What is the "Never Event" policy?	labels: hospitals would no longer receive higher payments for the additional costs associated with treating patients for certain healthcare-acquired infections	episode_done:True
+text: Patients from how many medical centers were studied?	labels: 19	episode_done:True
+text: Which patients were excluded from the study?	labels: CABG patients under the age of 18 years or over 85 years	episode_done:True
+text: What are the limitations of a deterministic model?	labels: cannot reliably represent effects originating from stochasticity, from effects in small populations, or from heterogeneities	episode_done:True
+text: How does PEDV spread?	labels: fecal-oral contact	episode_done:True
+text: How does PEDV cause illness?	labels: destroys the lining of piglets' intestines	episode_done:True
+text: What is the size of the PEDV genome?	labels: 26 to 32 kb	episode_done:True
+text: Which viruses are part of the Old World complex of Arenaviridae?	labels: Lassa and Lujo viruses	episode_done:True
+text: How can Old World and New World Arenaviruses be differentiated?	labels: through the use of serological assays	episode_done:True
+text: What is the incubation period for arenavirus?	labels: 1-3 weeks	episode_done:True
+text: What is the structure of the Arenavirus?	labels: bisegmented, negative-sense, single stranded RNA genome	episode_done:True
+text: What proteins does the Arenavirus produce?	labels: a glycoprotein, a nucleoprotein (NP), a matrix protein (Z), and a polymerase (L)	episode_done:True
+text: What diagnostic test has been show to have excellent sensitivity in detecting viral infections?	labels: PCR assays	episode_done:True
+text: What is the effect of oseltamivir and zanamivir?	labels: neuraminidase inhibitors	episode_done:True
+text: What is Glycyrrhizin?	labels: a triterpene saponine	episode_done:True
+text: What is the effect of Glycyrrhizin in viral infections?	labels: interfere with replication and/or cytopathogenic effect (CPE) induction of many viruses	episode_done:True
+text: What is another word for hypercytokinaemia?	labels: cytokine storm'	episode_done:True
+text: What has been correlated with the pathogenicity of the H5N1 infection?	labels: caspase-dependent apoptosis in airway cells	episode_done:True
+text: What is the conclusion of the study?	labels: glycyrrhizin might also serve as lead structure for the development of novel anti-influenza drugs	episode_done:True
+text: What is the mean duration of time from single lobe consolidation to bilateral multilobar lung infiltrates in human adenovirus type 55 (HAdV-55)?	labels: 2 days	episode_done:True
+text: What is the mean duration of time from first positive chest x-ray to bilateral multilobar lung infiltrates in human adenovirus type 55 (HAdV-55)?	labels: 4.8 days	episode_done:True
+text: What are the most frequent clinical manifestations of human adenovirus type 55 (HAdV-55) induced ARDS?	labels: Persistent high fever, dyspnea and rapid progression to respiratory failure within 2 weeks, together with bilateral consolidations and infiltrates	episode_done:True
+text: What do we know about the genomics of human adenovirus type 55 (HAdV-55)?	labels: This pathogen was fully characterized by whole-genome sequencing	episode_done:True
+text: What are the clinical symptoms of human adenovirus type 55 (HAdV-55)?	labels: Flulike symptoms, such as fever, cough and little sputum, were commonly observed at the onset of illness	episode_done:True
+text: What is the mean time from onset of symptoms to dyspnea in human adenovirus type 55 (HAdV-55)?	labels: 5 days	episode_done:True
+text: What is the mean time of onset of symptoms to ICU admission in human adenovirus type 55 (HAdV-55)?	labels: 9.6 days	episode_done:True
+text: What is the mean rate of respiration upon admission to the ICU when admitted for human adenovirus type 55 (HAdV-55)?	labels: 43 breaths per minute	episode_done:True
+text: What is the white blood cell count in severe cases of human adenovirus type 55 (HAdV-55)?	labels:  low or in the normal range	episode_done:True
+text: What does a chest x-ray look like for a patient with a severe case of human adenovirus type 55 (HAdV-55)?	labels: CXRs revealed multiple bilateral lobar or segment consolidation in the lungs of all five patients, and radiographic lesions progressed rapidly after ICU admission	episode_done:True
+text: What are the high resolution pulmonary CT scan findings for patients with severe cases of human adenovirus type 55 (HAdV-55)?	labels: Consolidations within a single lobe or several lobes with a clear border and air bronchogram were the most common findings on HRCT scans. Nodules, patches, pleural effusion, abscess and a cavity were also seen visualized by HRCT	episode_done:True
+text: Where could a clinician acquire a positive viral sample in severe cases of human adenovirus type 55 (HAdV-55)?	labels: All patients had HAdV-55 viremia. In four of the five patients, it was first detected in endotracheal aspirate (ETA) samples	episode_done:True
+text: How long did it take for patients with positive human adenovirus type 55 (HAdV-55) endotracheal aspirates to develop a measurable viremia?	labels: 1 to 10 days	episode_done:True
+text: Does blood type play a role in the severity of human adenovirus type 55 (HAdV-55) infection?	labels:  HAdV-55 may cause severe ARDS in immunocompetent young men with blood type B	episode_done:True
+text: What are the most common clinical manifestations of severe human adenovirus type 55 (HAdV-55) induced ARDS?	labels: Persistent high fever, dyspnea and rapid progression to respiratory failure within 2 weeks, together with bilateral consolidations and infiltrates at the same time, are the most frequent clinical manifestations	episode_done:True
+text: What is the mortality rate of severe ARDS from human adenovirus type 55 (HAdV-55)?	labels: HAdV-55-induced severe ARDS has a very high mortality rate (80%) despite appropriate respiratory support.	episode_done:True
+text: What role does T-cell count play in severe human adenovirus type 55 (HAdV-55) infection?	labels: a lower T-cell count may be a risk factor for HAdV-55 infection in young adults	episode_done:True
+text: How successful are the use of invasive mechanical ventilation (IMV) and non-invasive positive pressure ventilation (NPPV) in the treatment of severe ARDS from human adenovirus type 55 infection?	labels: we found that severe HAdV-55 infection could cause a rapid progression of respiratory failure, with a very high failure rate for NPPV and IMV	episode_done:True
+text: How many patients were analyzed in the study?	labels: Two hundred	episode_done:True
+text: How many patients with community-acquired pneumonia are hospitalized each year?	labels: 600,000	episode_done:True
+text: What chest X-ray findings are typically indicative of community-acquired pneumonia?	labels: the presence of new parenchymal infiltrates	episode_done:True
+text: When did WHO declare a pandemic of pH1N1/2009v influenza?	labels: 11 June 2009	episode_done:True
+text: What is the classical cutoff value for antibody titers?	labels: 1/40	episode_done:True
+text: What is meant by a protective HIA titer?	labels: conferring 50% protection against a viral challenge	episode_done:True
+text: What are the results of the study?	labels: a substantial proportion of Reunion Island's population had pre-existing immunity to 2009 pandemic influenza virus	episode_done:True
+text: What was the interpretation for the crossreactive antibodies?	labels: the remote exposure of these individuals to H1N1 viruses circulating before 1957	episode_done:True
+text: How long did the pH1N1/2009 viral outbreak last?	labels: 9 weeks	episode_done:True
+text: What were the aims of this study?	labels: to investigate the different pathogens involved in ILI and describe the associated symptoms	episode_done:True
+text: What network of physicians provides real-time clinical data on the spread of influenza in France?	labels: Réseau Sentinelles	episode_done:True
+text: What are the criteria used to define an influenza-like illness in France?	labels: a sudden fever above 39uC with myalgia and respiratory signs	episode_done:True
+text: What virus was the most common among the H1N1v negative patients?	labels: rhinovirus	episode_done:True
+text: What was the aim of this study?	labels: to elucidate the proximate causes of breeding failure behind the recent decline in productivity in the Spanish Pyrenees	episode_done:True
+text: Where is the bearded vulture (Gypaetus barbatus) commonly found?	labels: the Pyrenees	episode_done:True
+text: What was the focus of this study?	labels: the antiproliferative effect of a copper (II) complex on HT-29 colon cancer cells	episode_done:True
+text: What is the third most prevalent cancer in females in the United States?	labels: colorectal cancer	episode_done:True
+text: What is the 1-year survival rate for colorectal cancer patients?	labels: 83.2%	episode_done:True
+text: What is the 5-year survival rate for colorectal cancer patients?	labels: 64.3%	episode_done:True
+text: How were nuclear morphological changes in HT-29 cells measured?	labels: detection of nuclear condensation	episode_done:True
+text: What is directly related to nuclear condensation?	labels: apoptotic chromatin changes	episode_done:True
+text: What morphological cell changes are most associated with apoptosis?	labels: membrane permeability, cell shrinkage, disruption of the mitochondrial membrane, and chromatin condensation	episode_done:True
+text: What types of cells are suitable for colon cancer studies?	labels: HT-29 cells	episode_done:True
+text: What was the goal of this study?	labels: to explore the feasibility of DNA vaccination of poultry	episode_done:True
+text: What is the conclusion of this study?	labels: it is possible to develop a multivalent DNA vaccine for poultry that can protect against multiple HPAI H5N1 strains and that could keep pace with the continued evolution of avian influenza viruses	episode_done:True
+text: What was the conclusion of this study?	labels: Two E. coli W mutants were engineered that could effectively produce the bio-active flavonol glycosides hyperoside and quercitrin	episode_done:True
+text: What are the implications of the novel fermentation-based glycosylation strategy described in this study?	labels: the economically viable production of various glycosides	episode_done:True
+text: What characteristics does glycosylation have on flavonoids?	labels: solubility, stability and bio-activity	episode_done:True
+text: What is fibrinogen-like protein 2 (FgI2)?	labels: a pro-coagulant protein	episode_done:True
+text: What represses murine hepatitis virus strain 3 (MHV-3) infection?	labels: Fgl2 depletion	episode_done:True
+text: What was the goal of this study?	labels: to determine the role of CC10 in FH and the regulation of Fgl2 by CC10	episode_done:True
+text: What is fulminant hepatitis?	labels: a serious life-threatening disease characterized by massive hepatocyte necrosis	episode_done:True
+text: How does Prothrombinase Fgl2 affect the coagulation process?	labels: transforming prothrombin directly into thrombin,	episode_done:True
+text: How long after MHV-3 infection were liver samples taken?	labels: 72 h	episode_done:True
+text: What is the relationship between urbanization and risk of emergence of flu-like diseases?	labels:  findings suggest that urbanization spatially combines risk factors to produce particular types of peri-urban landscapes with significantly higher HPAI H5N1 emergence risk.	episode_done:True
+text: What factors and characteristics of semi-urban landscapes promote viral transmission?	labels:  higher levels of chicken densities, duck and geese flock size diversities, and fraction of land under rice or aquaculture than rural and urban areas. We also found that land-use diversity, a surrogate measure for potential mixing of host populations and other factors that likely influence viral transmission	episode_done:True
+text: What is the relationship between HIN1 viral transmission and poultry production.	labels:  landscapes where intensive and extensive forms of poultry production overlap were found at greater risk	episode_done:True
+text: What is the principle behind infection Convergence Model ?	labels: The convergence model can be so adapted by incorporating the dynamics of urban, agricultural, and natural ecosystem transformations proposed with this framework. These associated multifaceted interactions including feedbacks that affect ecological communities, hosts and pathogen populations, are the proximate drivers of disease emergence.	episode_done:True
+text: What is the Boosted Regression Tree method?	labels: BRT utilizes regression trees and boosting algorithms to fit several models and combines them for improving prediction by performing iterative loop throughout the model 	episode_done:True
+text: What is the advantage of Boosted Regression Tree method?	labels: The advantage of BRT is that it applies stochastic processes that include probabilistic components to improve predictive performance.	episode_done:True
+text: What is the relationship between land use and emergence of HPAI H5N1?	labels:  high land-use diversity landscapes, a variable not previously considered in spatial studies of HPAI H5N1, are at significantly greater risk for HPAI H5N1 outbreaks	episode_done:True
+text: Where is the highest risk of  HPAI H5N1 like disease emergence?	labels: Emergence risk should be highest in the most rapidly transforming urban areas, peri-urban zones where mixes of urban-rural, modern-traditional land uses and poultry husbandry coincide most intensely.	episode_done:True
+text: How does land use fragmentation increase the risk of flu-like diseases?	labels: Landscape fragmentation produces ecotones, defined as abrupt edges or transitions zones between different ecological systems, thought to facilitate disease emergence by increasing the intensity and frequency of contact between host species [31] Furthermore, fragmentation of natural habitat tends to interrupt and degrade natural processes, including interspecies interactions that regulate densities of otherwise opportunistic species that may serve as competent hosts	episode_done:True
+text: What is the relationship between the outbreak of HPAI H5N1 like diseases and rice cultivation?	labels:  extent of rice cultivation is a risk factor, mainly due its association with free ranging ducks acting as scavengers	episode_done:True
+text: What is the relationship between aquaculture and spread of H5N1 like diseases?	labels: extent of aquaculture is a known risk factor [10] , possibly because water bodies offer routes for transmission and persistence of the virus	episode_done:True
+text: What is the relationship between proximity ofwater bodies to agricultural lands and spread of H5N1 like diseases?	labels: Proximity to water bodies increases the risk of outbreaks [47, [50] [51] [52] , possibly by increasing the chance of contact between wild water birds and domestic poultry.	episode_done:True
+text: What is the effect of diversity of chicken flock on H5N1 disease?	labels: diversity of chicken flock-size had a strong association with HPAI H5N1 	episode_done:True
+text: What is Compound Topological Index and how is it related to the risk of disease transmission?	labels: Compound Topographical Index (CTI, also known as Topographical Wetness Index) is a measure of the tendency for water to pool. Studies in Thailand and elsewhere [54] have shown that the extent of surface water is a strong risk factor, possibly due to the role of water in long-range transmission and persistence of the virus. I	episode_done:True
+text: In vitro comparison of antiviral activity of Chloroquine(CQ) and Hydroxychloroquine(HCQ) against COVID-19?	labels: compare the antiviral activity of CQ versus HCQ, the dose-response curves	episode_done:True
+text: What will be the drug of choice for treating COVID-19 between Chloroquine and Remdesivir?	labels:  two potential drugs, CQ appears to be the drug of choice for large-scale use due to its availability, proven safety record, and a relatively low cost.	episode_done:True
+text: Mechanism of action of Chloroquine(CQ) and Hydroxychloroquine(HCQ) against COVID-19?	labels: CQ and HCQ are weak bases that are known to elevate the pH of acidic intracellular organelles	episode_done:True
+text: What is the effect of Chloroquine(CQ) and Hydroxychloroquine(HCQ) on endosomal maturation and endocytosis in COVID-19 treatment?	labels: Since acidification is crucial for endosome maturation and function, we surmise that endosome maturation might be blocked at intermediate stages of endocytosis,	episode_done:True
+text: Evidence of Hydroxychloroquine(HCQ) being anti inflammatory in SARS-CoV-2 critically ill patients with elevated plasma cytokines?	labels:  HCQ is a safe and successful anti-inflammatory agent	episode_done:True
+text: What proportion of healthcare workers reported symptoms  of depression?	labels: 50.4%	episode_done:True
+text: What proportion of healthcare workers reported symptoms of anxiety?	labels: [44.6%	episode_done:True
+text: What proportion of healthcare workers reported symptoms of insomnia?	labels: 34.0%	episode_done:True
+text: What proportion reported distress?	labels: [71.5%	episode_done:True
+text: What were the Generalized Anxiety Disorder scale scores?	labels: among men vs women: 2.0 [0-6.0] vs 4.0 [1.0-7.0]; P < .001	episode_done:True
+text: What were the  Insomnia Severity Index scores ?	labels: among frontline vs second-line workers: 6.0 [2.0-11.0] vs 4.0 [1.0-8.0]; P < .001	episode_done:True
+text: What were the  Impact of Event Scale–Revised scores?	labels:  21.0 [8.5-34.5] vs 18.0 [6.0-28.0] in Hubei outside Wuhan and 15.0 [4.0-26.0] outside Hubei; P < .001).	episode_done:True
+text: What were the results of analysis?	labels: participants from outside Hubei province were associated with lower risk of experiencing symptoms of distress compared with those in Wuhan (odds ratio [OR], 0.62; 95% CI, 0.43-0.88; P = .008)	episode_done:True
+text: What were the results of analysis?	labels: Frontline health care workers engaged in direct diagnosis, treatment, and care of patients with COVID-19 were associated with a higher risk of symptoms of depression (OR, 1.52; 95% CI, 1.11-2.09; P = .01), anxiety (OR, 1.57; 95% CI, 1.22-2.02; P < .001), insomnia (OR, 2.97; 95% CI, 1.92-4.60; P < .001), and distress (OR, 1.60; 95% CI, 1.25-2.04; P < .001).	episode_done:True
+text: What are the conclusions of this study?	labels: In this survey of heath care workers in hospitals equipped with fever clinics or wards for patients with COVID-19 in Wuhan and other regions in China, participants reported experiencing psychological burden, especially nurses, women, those in Wuhan, and frontline health care workers directly engaged in the diagnosis, treatment, and care for patients with COVID-19.	episode_done:True
+text: What are microtubule severing enzymes?	labels: a family of AAA-ATPase proteins	episode_done:True
+text: What genetic mutation is associated with hereditary spastic paraplegia?	labels: SPG4	episode_done:True
+text: What genetic mutation is associated with cerebral malformations?	labels: KATNB1	episode_done:True
+text: What genetic mutation is associated with autism?	labels: KATNAL2	episode_done:True
+text: What is KATNAL1?	labels: microtubule severing enzyme	episode_done:True
+text: What organ is most associated with the KATNAL1 gene?	labels: central nervous system	episode_done:True
+text: What CNS functions can be measured by studying the movement of mice in a T-maze?	labels: working memory and spatial memory	episode_done:True
+text: What CNS functions are changed by mutations in the KATNAL1 gene?	labels: circadian rhythms, sleep and behaviour	episode_done:True
+text: How is Japanese encephalitis transmitted?	labels: arthropod	episode_done:True
+text: What element is essential to promoting JEV infection?	labels: calcium	episode_done:True
+text: Where is Q130 located in the NS4B protein?	labels: transmembrane domain 3	episode_done:True
+text: What is the mechanism of action for manidipine?	labels: voltage-gated Ca(2+) channel (VGCC) inhibitor	episode_done:True
+text: How many different pathogens are members of the Flaviviridae family of virus?	labels: 70	episode_done:True
+text: What is the size of a flavivirus?	labels: 11-kb	episode_done:True
+text: How many open reading frames are in the flavivirus genome?	labels: single	episode_done:True
+text: What are the structural protein elements of a flavivirus?	labels: capsid (C), membrane (premembrane [prM] and membrane [M] ), and envelope (E)	episode_done:True
+text: What is the function of the nonstructural protein elements of the flavivirus?	labels: viral replication, virion assembly, and virus escape from immune surveillance.	episode_done:True
+text: What are RVPs?	labels: Recombinant viral particles	episode_done:True
+text: What is HTS?	labels: high-throughput screening	episode_done:True
+text: What is the selective index in high throughput screening?	labels: the 50% cytotoxic concentration	episode_done:True
+text: What is the structure of a recombiant  viral particle?	labels: a natural virus-like envelope on the outside and a replicon on the inside	episode_done:True
+text: What measure is used in high-throughput screening to identify potential antiviral compounds?	labels: selective index of >10	episode_done:True
+text: How many known species of Rotavirus exist?	labels: nine species	episode_done:True
+text: Is Rotavirus single or double-stranded?	labels: double-stranded ribonucleic acid	episode_done:True
+text: What structural proteins are coded by Rotavirus?	labels: VP1-VP4, VP6 and VP7	episode_done:True
+text: What non-structural proteins are coded by Rotavirus?	labels: NSP1-NSP5/NSP6	episode_done:True
+text: What is qRT-PCR?	labels: qualitative real-time polymerase chain reaction	episode_done:True
+text: What is required to establish a secondary immune response to a viral infection?	labels: the generation of antigen-specific "memory" B and T lymphocytes	episode_done:True
+text: What do immunoglobulin isotype recombination and somatic hyper mutation depend on?	labels: expression of AID	episode_done:True
+text: What was used to quantify the amount of IgM secreting cells?	labels: ELISpot technique	episode_done:True
+text: Where was the coronavirus discovered?	labels: Wuhan, China	episode_done:True
+text: What is the number of confirmed cases reached on 8 February 2020?	labels: 34,598	episode_done:True
+text: What is presented in this study?	labels: new forecasting model to estimate and forecast the number of confirmed cases of COVID-19 in the upcoming ten days based on the previously confirmed cases recorded in China	episode_done:True
+text: What is the proposed model?	labels: an improved adaptive neuro-fuzzy inference system (ANFIS) using an enhanced flower pollination algorithm (FPA) by using the salp swarm algorithm (SSA)	episode_done:True
+text: When is SSA generally employed?	labels: to improve FPA to avoid its drawbacks (i.e., getting trapped at the local optima)	episode_done:True
+text: What is the main idea behind the proposed model?	labels: to improve the performance of ANFIS by determining the parameters of ANFIS using FPASSA.	episode_done:True
+text: What is the proposed model called?	labels:  FPASSA-ANFIS	episode_done:True
+text: How is FPASSA-ANFIS model evaluated?	labels: using the World Health Organization (WHO) official data of the outbreak of the COVID-19 to forecast the confirmed cases of the upcoming ten days.	episode_done:True
+text: What did the comparison of  the FPASSA-ANFIS model with several existing models, show?	labels: it showed better performance in terms of Mean Absolute Percentage Error (MAPE), Root Mean Squared Relative Error (RMSRE), Root Mean Squared Relative Error (RMSRE), coefficient of determination ( R 2 ), and computing time. 	episode_done:True
+text: How was the proposed model tested?	labels:  using two different datasets of weekly influenza confirmed cases in two countries, namely the USA and China	episode_done:True
+text: What were the outcomes of the test?	labels: showed good performances	episode_done:True
+text: What are the large family of viruses, called coronaviruses?	labels:  pathogens for human beings, which infect respiratory, hepatic, gastrointestinal, and neurologic diseases.	episode_done:True
+text: Among whom are the coronaviruses distributed?	labels:  among humans, birds, livestock, mice, bats, and other wild animals 	episode_done:True
+text: In what the Adaptive Neuro-Fuzzy Inference System (ANFIS) [22] is widely applied?	labels:  in time series prediction and forecasting problems	episode_done:True
+text: What does ANFIS offer?	labels: flexibility in determining nonlinearity in the time series data, as well as combining the properties of both artificial neural networks (ANN) and fuzzy logic systems.	episode_done:True
+text: In which applications has it been applied?	labels: in various forecasting applications, for example, in [23] , a stock price forecasting model was proposed using ANFIS and empirical mode decomposition	episode_done:True
+text: What is SI?	labels: swarm intelligence	episode_done:True
+text: What is PSO?	labels: particle swarm optimization	episode_done:True
+text: What is SCA?	labels: sine-cosine algorithm	episode_done:True
+text: What is MVO?	labels: multi-verse optimizer	episode_done:True
+text: For what SCA algorithm was applied to improve the ANFIS model ?	labels: to forecast oil consumption in three countries, namely, Canada, Germany, and Japan.	episode_done:True
+text: What may be a problem with individual SI algorithm?	labels: may stock at local optima	episode_done:True
+text: What is OWA?	labels:  ordered weighted averaging	episode_done:True
+text: What is proposed in the current study?	labels: an improved ANFIS model based on a modified flower pollination algorithm (FPA) using the salp swarm algorithm (SSA).	episode_done:True
+text: What  is the FPA optimization algorithm inspired by?	labels: inspired by the flow pollination process of the flowering plants.	episode_done:True
+text: What is the SSA optimization algorithm inspired by?	labels: inspired by the behavior of salp chains	episode_done:True
+text: What is the proposed FPASSA method?	labels:  is a hybrid of FPA and SSA, in which the SSA is applied as a local search method for FPA	episode_done:True
+text: How does the proposed FPASSA start?	labels:  by receiving the historical COVID-19 dataset.	episode_done:True
+text: What do the authors propose?	labels: an efficient forecasting model to forecast the confirmed cases of the COVID-19 in China for the upcoming ten days based on previously confirmed cases.	episode_done:True
+text: What is vacuolar-type H(+)-ATPase (v-ATPase)?	labels: the major proton pump that acidifies intracellular compartments of eukaryotic cells	episode_done:True
+text: What is archazolid?	labels: v-ATPase inhibitor	episode_done:True
+text: How many complexes are within v-ATPase?	labels: two	episode_done:True
+text: What is the role of v-ATPase in the plasma membrane of osteoclasts and renal epithelial cells?	labels: they pump protons into the extracellular space	episode_done:True
+text: What does angiogenesis depend on?	labels: the proliferation, migration and differentiation of endothelial cells	episode_done:True
+text: How were untreated MDA-MB-231 cells labeled?	labels: CellTracker Green CMFDA Dye	episode_done:True
+text: What was the goal of the study?	labels: describe GE and RTI outbreaks with infection and all-cause lethality rates according to the individual characteristics of nursing home residents	episode_done:True
+text: What was the reported infection rate for influenza?	labels: 30.0%	episode_done:True
+text: How many times more likely was an infection found in patients over 85 years old?	labels: 1.5 to 1.6 times	episode_done:True
+text: What can be the main challenges in managing a hospital outbreak of COVID-19?	labels:  (1) early identification of outbreak, (2) rapid expansion of patients, (3) high risk of nosocomial transmission, (4) unpredictability of size impacted, and (5) lack of backup resource.	episode_done:True
+text: Why early identification of COVID-19 patients can be difficult?	labels: Early identification of 2019-nCoV infection presents a major challenge	episode_done:True
+text: What are the steps that a hospital should take after COVID-19 outbreak?	labels: 2019-nCoV patients should be admitted	episode_done:True
+text: Why exposure risk of COVID-19 is very high for ICU staff and what precautions should be taken?	labels:  substantial exposure risk for ICU staff because of the following reasons	episode_done:True
+text: Use of SIR/SEIR model in Statistics-Based Predictions of Coronavirus Epidemic Spreading?	labels: susceptible persons is S, infected (persons who are sick and spread the infection) -I, removed (persons who do not spread the infection anymore, this number is the sum of isolated, recovered and dead people) -R; the infection and immunization rates 	episode_done:True
+text: What virus are used by the most successful neuronal circuit tracing methods?	labels: Pseudorabies (PRV) and Rabies viruses (RABV)	episode_done:True
+text: In what direction does the Vesicular stomatitis virus spread through the nervous system?	labels: anterograde	episode_done:True
+text: What determines the whether the spread of Vesicular stomatitis virus is monosynaptic or polysynaptic?	labels: method of delivery of the G gene	episode_done:True
+text: What types of viruses can be used to study the connectivity of neuronal circuitry?	labels: rVSV vectors	episode_done:True
+text: What is Carrageenan?	labels: a clinically proven and marketed compound for the treatment of viral upper respiratory tract infections	episode_done:True
+text: What is a potential therapeutic benefit of carageenan?	labels: carrageenan and Zanamivir act synergistically against several influenza A virus strains (H1N1(09)pdm, H3N2, H5N1, H7N7)	episode_done:True
+text: What is the optimal window for initiating treatment with carageenan and Zanamivir?	labels: 72 hours post infection	episode_done:True
+text: What was the mortality rate of influenza a virus subtype h7n9 (avian or bird flu)?	labels: more than 35%	episode_done:True
+text: How many human cases were there of influenza a virus subtype h7n9?	labels: more than 400 human cases	episode_done:True
+text: How did most patients contract influenza a virus subtype h7n9?	labels: Most patients with A(H7N9) infections had contact with poultry or visited live animal markets	episode_done:True
+text: Can influenza a virus subtype h7n9 be transmit human to human?	labels: some sporadic cases seemed to be a result of human to human transmissions	episode_done:True
+text: What kind of disease is caused by influenza?	labels:  influenza is an acute respiratory disease	episode_done:True
+text: How many severe cases are there for annual influenza epidemics?	labels:  Worldwide, annual epidemics result in about three to five million cases of severe illness	episode_done:True
+text: How many deaths occur annually as a result of annual influenza epidemics?	labels: 250,000 to 500,000	episode_done:True
+text: Is coinfection common in influenza infection?	labels: influenza virus infections are often accompanied by other viral pathogens	episode_done:True
+text: What percentage of people infected with influenza have a viral coinfection?	labels: Analysis by qRT-PCR revealed that 54.5-83.3% of influenza A or B positive patients were found to have at least one concomitant respiratory viral infection [9] [10] [11] [12] . The detection frequency with immunofluorescence was found to be even higher (90-100%) [13, 14] . 	episode_done:True
+text: What are common concamitant infections during the course of influenza infection?	labels: human rhinovirus (hRV), respiratory syncytial virus, adenovirus, human coronavirus, human metapneumovirus and parainfluenza virus	episode_done:True
+text: What is the anti-viral mechanism of action for carrageenan?	labels: The antiviral mechanism of carrageenan is based on the interference with viral attachment; as a consequence, viral entry is inhibited 	episode_done:True
+text: What is the hypothetical mechanical benefit for carageenan in preventing and treating upper respiratory infections?	labels: a protective physical barrier in the nasal cavity	episode_done:True
+text: What is carageenan?	labels: a high molecular weight sulfated polymer derived from red seaweed (Rhodophyceae) that has been extensively used in food, cosmetic and pharmaceutical industry and is generally recognized as safe by the FDA 	episode_done:True
+text: What is the recovery benefit of carageenan in patients with any respiratory virus?	labels: 1.9 day faster recovery from common cold symptoms than placebo treated patients in the intention-to-treat population	episode_done:True
+text: What is the anti-influenza benefit of carageenan?	labels: anti-influenza activity was shown by subgroup analysis of 49 influenza infected patients who benefited from a 3.3 days faster recovery from symptoms	episode_done:True
+text: What is the association between influenza viral load and carageenan?	labels: a significant reduction of the influenza viral load in nasal fluids and a significant increase in the number of virus free patients within the treatment period of 7 days	episode_done:True
+text: Is Oseltamivir effective when taken intranasally?	labels: In contrast to Oseltamivir, which needs to be activated by metabolic conversion, Zanamivir is directly applied as active drug and can also be administered intranasally	episode_done:True
+text: What is the effect of intranasal Zanamivir on laboratory confirmed infleunza infection?	labels: challenge trials showed that treatment starting before and up to 36 hours post virus inoculation was associated with prevention of laboratory confirmed influenza and febrile illness as well as a reduction in viral titers, duration of shedding and symptoms	episode_done:True
+text: Do carageenan and Zanamivir delivered intranasally have a benefit when taken for influenza subtype H7N7 infection?	labels: the combination of two effective, established mono-therapies resulted in a significantly enhanced survival in lethally H7N7 infected mice	episode_done:True
+text: Do carageenan and Zanamivir delivered intranasally have a benefit when taken for influenza subtype H1N1 infection?	labels: carrageenan and Zanamivir starting 72 hpi significantly protects lethally influenza H1N1(09)pdm infected mice	episode_done:True
+text: Is there a dose-dependent response to carageenan and Zanamavir intranasal therapy?	labels: While H1N1(09)pdm was highly sensitive to inhibition by both substances alone, H7N7 required much higher concentrations of carrageenan and Zanamivir, respectively, to achieve similar inhibition efficiencies	episode_done:True
+text: Do carageenan and Zanamavir together have a greater benefit than either in monotherapy?	labels: the H1N1(09)pdm model the combination of carrageenan with 1 mg/kg BW/day Zanamivir showed statistically significant enhanced survival in comparison to placebo treatment even after a treatment start 72 hpi	episode_done:True
+text: Did the use of carageenan play a role in pandemic's caused by novel viruses?	labels: A second scope of this combination is the protection against newly emerging pandemic viruses during the time until identification of the virus followed by manufacturing and distribution of vaccines	episode_done:True
+text: How was ILI defined?	labels: as a sudden onset of fever more than 38 degrees Celsius and cough, associated or not with other symptoms such as breathing difficulty, headache, etc. 	episode_done:True
+text: What is this assay based on?	labels: on the multiplex ligation-dependent probe amplification (MLPA) technology.	episode_done:True
+text: How was random sampling performed?	labels:  with Excel 1 using the anonymized surveillance database of the Cire OI. The sampling frame contained identification number of swab assigned by Cire OI, laboratory identification number, sex, age, date of onset of symptoms, date of swab collection and result of influenza RT-PCR.	episode_done:True
+text: What used to detect pathogens?	labels:  Respifinder 1 Smart 22 kits a multiplex RT-PCR (PathoFinder, Maastricht, The Netherlands) which can detect 22 respiratory pathogens. 	episode_done:True
+text: What does the retrospective study use?	labels: nasal swabs collected by sentinel GPs from ILI patients in 2011 and 2012.	episode_done:True
+text: How many swabs were randomly selected and analyzed?	labels: 250 	episode_done:True
+text: How were the swabs analyzed?	labels:  by multiplex reverse transcriptase polymerase chain reaction (RT-PCR) including research of 18 viruses and 4 bacteria.	episode_done:True
+text: What viruses were detected?	labels: respiratory viruses in 169/222 (76.1%) samples, mostly rhinovirus (23.4%), influenza A virus (21.2%), influenza B virus (12.6%), coronavirus (4.9%) and Human metapneumovirus (3.6%). 	episode_done:True
+text: What co-infections were found?	labels: Nine swabs (5.3% of positive swabs) revealed co-infections with two viruses identified, among which six concerned co-infections with influenza viruses.	episode_done:True
+text: What seasonal differences were found?	labels: seasonal differences, with circulation of Human Metapneumoviruses, RSV A and B and coronavirus only during summer; whereas parainfluenza viruses were identified only during winter.	episode_done:True
+text: What does the study highlight?	labels:  a substantial circulation of multiple respiratory pathogens in Réunion Island throughout the year. I	episode_done:True
+text: What does the study show?	labels: that ILI are not only attributable to influenza and underlines the need for biological surveillance. As the use of multiplex RT-PCR showed its efficacy, it is now used routinely in the surveillance of ILI.	episode_done:True
+text: Which are identified  as major viruses mostly responsible for ILI and pneumonia in several studies?	labels: Influenza viruses, Respiratory Syncytial viruses (RSV) and Parainfluenza viruses	episode_done:True
+text: What percentage of these infections are identified?	labels: less than 50%	episode_done:True
+text: What is Reunion Island?	labels:  a French overseas territory	episode_done:True
+text: What is the number of inhabitants of Reunion Island?	labels:  850,000	episode_done:True
+text: Where is Reunion Island located?	labels: n the southern hemisphere between Madagascar and Mauritius in the Indian Ocean (Latitude: 21°05.2920 S Longitude: 55°36.4380 E.)	episode_done:True
+text: What is the island's health care system similar  to?	labels:  to mainland France and epidemiological surveillance has been developed by the regional office of the French Institute for Public Health Surveillance (Cire OI), based on the surveillance system of mainland France	episode_done:True
+text: When does influenza activity increase?	labels:  during austral winter, corresponding to summer in Europe	episode_done:True
+text: When does the  influenza vaccination campaign in Reunion Island start?	labels: April 	episode_done:True
+text: What is the  clinical and biological influenza surveillance has been based on?	labels: a sentinel practitioner's network	episode_done:True
+text: What is this network composed of?	labels: 58 general practitioners (GPs) spread over the island and represented around 7% of all Réunion Island GPs.	episode_done:True
+text: How are the influenza tests carried out?	labels:  Nasal swabs are randomly collected all along the year and are tested by RT-PCR for influenza viruses	episode_done:True
+text: What do 40-50% of the samples test positive for?	labels:  for influenza A virus, A(H1N1)pdm09 or B virus	episode_done:True
+text: What are the ILI samples wich test negative for influence?	labels: are of unknown etiology	episode_done:True
+text: What tool has been developed to identify several viruses simultaneously?	labels: , multiplex reverse transcriptase polymerase chain reaction (RT-PCR) 	episode_done:True
+text: What are the objectives of the study?	labels: to characterize respiratory pathogens responsible for ILI consultations in sentinel GPs in 2011 and 2012. Secondary objectives were to highlight seasonal trends on respiratory pathogens circulation and to describe occurrence of co-infections, especially during the flu season.	episode_done:True
+text: On which system the reverse transcription and preamplification steps were performed?	labels: on the epgradient Mastercycler 1 (Eppendorf) and the hybridization, ligation and detection steps on the LightCycler 1 480 system (Roche Applied Science).	episode_done:True
+text: Which two seasons were identified for trends in virus circulation??	labels: winter season during weeks 23 to 39 between June and September and summer season during the rest of the year.	episode_done:True
+text: Which were the most frequently identified respiratory pathogens?	labels:  rhinovirus (23.4%), influenza A not H1N1 (21.2%) and influenza B (12.6%) 	episode_done:True
+text: What were detected  only in summer?	labels: Human Metapneumovirus, RSV A and B, and influenza A(H1N1)pdm09	episode_done:True
+text: What viruses were identified only in winter?	labels: Parainfluenza 1,2 and 4 viruses	episode_done:True
+text: Respiratory viral pathogens were present in what percentage of samples?	labels: 76.1	episode_done:True
+text: What did the study highlight?	labels: several co-infections, showing that concomitant the multiple etiology of ILI	episode_done:True
+text: How many swabs remained without etiology?	labels:  53 swabs, representing 24% of the sample	episode_done:True
+text: What hypotheses can explain this result?	labels:  a poor quality of swabs, preventing from identifying a pathogen, noninfectious causes or other pathogens not included in the multiplex PCR.	episode_done:True
+text: What could not be tested  for?	labels: RNAse P, a marker of human cells,	episode_done:True
+text: What does this study highlight?	labels:  circulation of multiple pathogens in Réunion Island throughout the year.	episode_done:True
+text: What does the  study show?	labels: that ILI is not specific to influenza and so it is essential to have biological results in order to establish the differential diagnosis and thus explain the etiology of symptoms.	episode_done:True
+text: What would be interesting to do?	labels: to repeat this study every 3 or 5 years adding clinical data to monitor the evolution of respiratory pathogens in Réunion Island over time.	episode_done:True
+text: What  is it most similar to?	labels: bat beta-coronaviruses, with the highest being >96% identity 	episode_done:True
+text: How many people were affected as of Feb. 10, 2020?	labels: greater than 40,000	episode_done:True
+text: How is the SARS-CoV-2 referred to?	labels:  as coronavirus disease discovered in 2019 (COVID-19)	episode_done:True
+text: How much  similarity the SARS-COV-2 genome sequence has with SARS-COV?	labels: ∼80% identity with SARS-CoV	episode_done:True
+text: what similarity human SARS-COV and palm civet SARSlike COV share?	labels:  99.8% homology, with a total of 202 single-nucleotide (nt) variations (SNVs) identified across the genome 	episode_done:True
+text: How much is the difference between the human SARS-CoV-2 and the bat RaTG13-CoV?	labels: greater than 1,100 nt 	episode_done:True
+text: Why is it highly unlikely that RaTG13 CoV is the immediate source of SARS-CoV-2. 	labels: are distributed throughout the genome in a naturally occurring pattern following the evolutionary characteristics typical of CoVs	episode_done:True
+text: What are the most revealing signs that SARS-CoV-2 evolved by natural evolution. 	labels: The absence of a logical targeted pattern in the new viral sequences and a close relative in a wildlife species (bat	episode_done:True
+text: What did the Nature Medicine paper report?	labels: the construction of a chimeric CoV with a bat CoV S gene (SHC014) in the backbone of a SARS CoV that has adapted to infect mice (MA15) and is capable of infecting human cells	episode_done:True
+text: Why does the claim lack any scientific  basis?	labels:  because of significant divergence in the genetic sequence of this construct with the new SARS-CoV-2 (>5,000 nucleotides).	episode_done:True
+text: How was the mouse-adapted SARS virus (MA15) generated?	labels: by serial passage of an infectious wildtype SARS CoV clone in the respiratory tract of BALB/c mice.	episode_done:True
+text: How did  the SARS-CoV gain elevated replication and lung pathogenesis in aged mice ?	labels: due to six coding genetic mutations associated with mouse adaptation. 	episode_done:True
+text: Why is it likely that MA15 is highly attenuated to  replicate in human cells?	labels: due to the mouse adaptation.	episode_done:True
+text: Why were civets proposed to be an intermediate host of the bat-CoVs, capable of spreading SARS CoV to humans?	labels: t was proposed that the S gene from bat-derived CoV, unlike that from human patients-or civetsderived viruses, was unable to use human ACE2 as a receptor for entry into human cells 	episode_done:True
+text: What was the finding  in 2013?	labels: several novel bat coronaviruses were isolated from Chinese horseshoe bats and the bat SARS-like or SL-CoV-WIV1 was able to use ACE2 from humans, civets and Chinese horseshoe bats for entry 	episode_done:True
+text:  Why is it proposed that some bat SL-CoVs may be able to directly infect human hosts?	labels: Combined with evolutionary evidence that the bat ACE2 gene has been positively selected at the same contact sites as the human ACE2 gene for interacting with SARS CoV [	episode_done:True
+text: What was done to test if  an intermediate host may not be necessary and that some bat SL-CoVs may be able to directly infect human hosts. T	labels:  the exact S gene from bat coronavirus SL-SHC014 was synthesized and used to generate a chimeric virus in the mouse adapted MA15 SARS-CoV backbone. 	episode_done:True
+text: What were the results of this test?	labels: The resultant SL-SHC014-MA15 virus could indeed efficiently use human ACE2 and replicate in primary human airway cells to similar titres as epidemic strains of SARS-CoV. While SL-SHC014-MA15 can replicate efficiently in young and aged mouse lungs, infection was attenuated, and less virus antigen was present in the airway epithelium as compared to SARS MA15, which causes lethal outcomes in aged mice	episode_done:True
+text: Why were experiments with SL-SHC014-MA15 chimeric virus were later restricted?	labels: as gain of function (GOF) studies under the US government-mandated pause policy 	episode_done:True
+text: Why is there  no credible evidence to support the claim that the SARS-CoV-2 is derived from the chimeric SL-SHC014-MA15 virus?	labels: upon careful phylogenetic analyses by multiple international groups [5, 14] , the SARS-CoV-2 is undoubtedly distinct from SL-SHC014-MA15, with >6,000 nucleotide differences across the whole genome.	episode_done:True
+text: What did the rumour that the virus was made by humans in the lab, claim?	labels: that SARS-CoV-2 has HIV sequence in it and was thus likely generated in the laboratory. I	episode_done:True
+text: What was reported in  a rebuttal paper led by an HIV-1 virologist Dr. Feng Gao?	labels:  they used careful bioinformatics analyses to demonstrate that the original claim of multiple HIV insertions into the SARS-CoV-2 is not HIV-1 specific but random 	episode_done:True
+text: What happened to the report with initial claims?	labels:  Because of the many concerns raised by the international community, the authors who made the initial claim have already withdrawn this report.	episode_done:True
+text: What is the difference between evolution and synthetic constructs?	labels: Evolution is stepwise and accrues mutations gradually over time, whereas synthetic constructs would typically use a known backbone and introduce logical or targeted changes instead of the randomly occurring mutations that are present in naturally isolated viruses such as bat CoV RaTG13.	episode_done:True
+text: What is the conclusion of this report?	labels:  there is currently no credible evidence to support the claim that SARS-CoV-2 originated from a laboratory-engineered CoV. It is more likely that SARS-CoV-2 is a recombinant CoV generated in nature between a bat CoV and another coronavirus in an intermediate animal host. 	episode_done:True
+text: What is the conclusion of this report?	labels: More studies are needed to explore this possibility and resolve the natural origin of SARS-CoV-2. We should emphasize that, although SARS-CoV-2 shows no evidence of laboratory origin, viruses with such great public health threats must be handled properly in the laboratory and also properly regulated by the scientific community and governments.	episode_done:True
+text: what is the clinical manifestation similar to?	labels: to that of the severe acute respiratory syndrome (SARS) caused by SARS-CoV. 	episode_done:True
+text: What was the purpose of the research?	labels: to evaluate the effectiveness of zinc supplementation on diarrhea and average daily weight gain (ADG) in pre-weaned dairy calves	episode_done:True
+text: What preventative measure has been taken to decrease the incidence of diarrhea in children?	labels: Zinc supplementation	episode_done:True
+text: What  led to a great increase in their study among virologists worldwide?	labels: an outbreak in 1993–94 in the southwestern United States	episode_done:True
+text: How many hantaviral genotypes have been described	labels: Well over 40	episode_done:True
+text: How many of them are pathogenic for humans?	labels: nearly half of them	episode_done:True
+text: What do Hantaviruses cause in their reservoir hosts?	labels: persistent infections	episode_done:True
+text: What does hantavirus human disease  manifest as?	labels:  a cardiopulmonary compromise, hantavirus cardiopulmonary syndrome (HCPS)	episode_done:True
+text: What is the  case-fatality ratios, for the most common viral serotypes? 	labels: between 30% and 40%	episode_done:True
+text:  What are among the factors that may have increased the human caseload of HCPS between 1993 and the present?	labels:  Habitat disturbance and larger-scale ecological disturbances, perhaps including climate change,	episode_done:True
+text: What do authors consider  in this study?	labels:  the features that influence the structure of host population dynamics that may lead to viral outbreaks	episode_done:True
+text: What do authors consider  in this study?	labels: the macromolecular determinants of hantaviruses that have been regarded as having potential contribution to pathogenicity.	episode_done:True
+text: Which diseases are a major concern among scientists studying infectious diseases?	labels:  emerging zoonotic diseases	episode_done:True
+text: What may alter population disease dynamics and lead to the emergence of zoonotic infections? 	labels: Changes in biotic and abiotic conditions	episode_done:True
+text: Which are among the conspicuous examples which challenge prevention and control measures of public health systems?	labels:  influenza A, Ebola virus, hepatitis C virus, severe adult respiratory distress (SARS), coronavirus, and human immunodeficiency virus	episode_done:True
+text: More recently,  what did outbreaks of several viral-related diseases that  have emerged or re-emerged, involve?	labels: hantaviruses, and the expansion of the geographic range of West Nile virus.	episode_done:True
+text: What did, In the last century,  outbreaks of viral-related diseases that have emerged or re-emerged, involve?	labels: arenaviruses and dengue viruses	episode_done:True
+text: Among zoonotic diseases, what are hosts of several pathogenic RNA viruses?	labels: small mammals	episode_done:True
+text: Which pathogenic RNA viruses are hosted by small mammals?	labels:  Arenaviridae and Bunyaviridae: Hantavirus 	episode_done:True
+text: When did Hantavirus infections became a concern in the Americas?	labels:  disease, hantavirus cardiopulmonary syndrome, HCPS (or hantavirus pulmonary syndrome), was linked to 	episode_done:True
+text:  What was the  hantavirus cardiopulmonary syndrome, HCPS (or hantavirus pulmonary syndrome), linked to?	labels: infection by the newly-discovered Sin Nombre virus (SNV)	episode_done:True
+text: What was identified as the reservoir of SNV?	labels:  the rodent Peromyscus maniculatus (deer mouse)	episode_done:True
+text:  What did a review of ancient Chinese writings in 960 AD, reveal?	labels: descriptions closely resembling hemorrhagic fever with renal syndrome (HFRS), the syndrome caused by Old World hantaviruses	episode_done:True
+text: How was HFRS  first brought to the attention of western medicine ?	labels: with an outbreak that occurred among United Nations troops during the Korean conflict between 1951 and 1954	episode_done:True
+text: What is HTNV?	labels:  etiologic agent, Hantaan virus	episode_done:True
+text: Where was HTNV isolated from?	labels:  from the striped field mouse Apodemus agrarius,	episode_done:True
+text: Which new genus was the virus later found to represent?	labels: Hantavirus of the family Bunyaviridae	episode_done:True
+text: Which was  the first hantavirus to be isolated?	labels: The categorization of hantaviruses as belonging to the family Bunyaviridae is due in part to	episode_done:True
+text: What is the categorization of hantaviruses as belonging to the family Bunyaviridae due in part to?	labels:  the consistent presence of three RNA genomes that are circularized in vivo as a result of the presence of terminal complementary nucleotides that help fold the genome into a -hairpin‖ morphology,	episode_done:True
+text: What was the hairpin morphology first described for?	labels: Uukuniemi phlebovirus 	episode_done:True
+text: How is the the precursor form GPC processed, during virus maturation?	labels: a membrane -bound protease into Gn and Gc, a cleavage that occurs	episode_done:True
+text: When does the cleavage appear to be signaled?	labels: after the conserved peptide signal WAASA at the C-terminal of Gn 	episode_done:True
+text: Why must the two proteins Gn and Gc be co-expressed?	labels: to allow them stability so that the two can be assembled correctly in the Golg	episode_done:True
+text: Which two distinct cellular receptors the glycoproteins are the known or presumed ligands for?	labels:  the 3 integrin chain and decay accelerating factor, or DAF	episode_done:True
+text: What is the underlying premise for many of these studies?	labels:  blunt any pathological response in the host [	episode_done:True
+text: What is the premise for apathogenic forms to  blunt any pathological response in the host?	labels: would tend to induce an earlier innate response that would render it more likely that the virus would be quickly cleared or rendered less competent in its replication	episode_done:True
+text: Which proteins and mRNAs prominently induced by hantaviruses include?	labels: hantaviruses have been identified as adversely affecting	episode_done:True
+text:  What have hantaviruses been identified as adversely affect?	labels: endothelial migration over substrata 	episode_done:True
+text:  What have hantaviruses been identified in potentiating?	labels:  VEG-F-induced endothelial permeability	episode_done:True
+text: What is N-protein?	labels: a structural component of the viral nucleocapsid	episode_done:True
+text: What does the N-protein, as an RNA-binding protein, do?	labels: engages the hairpin termini of the genomic segments with high affinity	episode_done:True
+text: As an RNA-binding protein that engages the hairpin termini of the genomic segments, what does the N-protein of hantavirus do?	labels:  it limits the access of the RNA to host nucleases 	episode_done:True
+text: As an RNA-binding protein that engages the hairpin termini of the genomic segments, what does the N-protein of hantavirus do?	labels:  helps to render viral replication a closed process within the cytoplasm	episode_done:True
+text: What does the N-protein act as?	labels: a peripheral membrane protein	episode_done:True
+text:  What can  some of the other activities of N have, be linked to?	labels:  to the interference with an array of the intracellular processes of the normal cell	episode_done:True
+text:  What can  some of the other activities of N have, be linked to?	labels:  to fundamental requirements of replication	episode_done:True
+text: What is  N  also reported to interact with?	labels: with actin microfilaments, and the SUMO-1 protein	episode_done:True
+text: How do the viral RNAs become concentrated in P bodies during hantavirus infection?	labels:  through their interaction with N and DCP1	episode_done:True
+text: What have confocal microscopy and biochemical-inhibitor studies shown?	labels:  that N tracks along microtubules	episode_done:True
+text: What have confocal microscopy and biochemical-inhibitor studies shown on what N tracks?	labels: not with actin filaments 	episode_done:True
+text: What is the ultimate destination for N, for its assembly into viral particles?	labels: the Golgi	episode_done:True
+text: How does it traffic?	labels:  via the endoplasmic reticulum-Golgi intermediate complex (ERGIC), also known as vesicular-tubular cluster 	episode_done:True
+text: What is a dominant negative inhibitor?	labels:  dynamitin	episode_done:True
+text: What is dynamitin associated with?	labels: dynein-mediated transport	episode_done:True
+text: What is dynamitin associated with?	labels:  reduced N's accumulation in the Golgi	episode_done:True
+text: What does recent data indicate?	labels:  that microtubular transport is indeed utilized for the New World hantavirus SNV	episode_done:True
+text: Why have Hantavirus diseases of man been suspected of having an immunopathogenic basis?	labels: plasma viral RNA with	episode_done:True
+text: What is a critical feature of both?	labels:  a transient (~ 1-5 days) capillary leak involving the kidney and retroperitoneal space in HFRS and the lungs in HCPS	episode_done:True
+text: What is the character of he resulting leakage?	labels: is exudative in character, with chemical composition high in protein and resembling plasma.	episode_done:True
+text: Which is an especially attractive candidate as an important in vivo receptor for hantaviruses?	labels:  β3 integrin	episode_done:True
+text: What  is the likely way that hantaviruses arrive at their target tissues?	labels: through uptake by regional lymph nodes, perhaps with or within an escorting lung histiocyte	episode_done:True
+text: What does the virus seed?	labels: local endothelium	episode_done:True
+text: What happens with the viral seeding at the  local endothelium?	labels:  the first few infected cells give rise, ultimately, to a primary viremia	episode_done:True
+text: How long does the process of giving rise to primary viremia for hantavirus infections?	labels: appears to take a long time 	episode_done:True
+text: What happens by the time that secondary viremia emerges?	labels:  the agents of the more severe forms of HFRS and HCPS have begun to achieve sufficient mass	episode_done:True
+text: How is the  the expression of proinflammatory cytokines induced?	labels:  through PAMP-PRR interactions and other means	episode_done:True
+text:  For HCPS, what does that expression favor?	labels: the pulmonary bed and lymphoid organs	episode_done:True
+text:  For HCPS, what does that expression spare?	labels: the retroperitoneum and, in general, the kidney	episode_done:True
+text: What happens for HFRS?	labels:  For HCPS, that expression favors the pulmonary bed and lymphoid organs, yet, for unknown reasons, spares the retroperitoneum and, in general, the kidney. In HFRS the situation is reversed,	episode_done:True
+text: What is considered to be  a requirement for the development of systemic disease symptoms?	labels: Local elaboration of inflammatory and chemotactic mediators 	episode_done:True
+text: What do those abnormalities sometimes culminate in?	labels: shock and death	episode_done:True
+text: What leads to death in most fatal cases of HCPS?	labels:  not hypoxemia, due to the prominent pulmonary edema	episode_done:True
+text: What leads to death in most fatal cases of HCPS?	labels: intoxication of the heart by as-yet-undefined mediators that leads to the low cardiac output state and the associated shock syndrome 	episode_done:True
+text: What potential mechanism,  could be presumed to underlie the pathogenesis of HCPS?	labels:  Innate immune mechanisms.	episode_done:True
+text: What potential mechanism,  could be presumed to underlie the pathogenesis of HCPS?	labels: Direct viral effects	episode_done:True
+text: What potential mechanism,  could be presumed to underlie the pathogenesis of HCPS?	labels: Pathogenic effects caused by the activities of specific viral macromolecules.	episode_done:True
+text: What  explanation have some investigators favored   for much of the capillary leak?	labels: direct viral toxicity, acting through the inhibition of endothelial cell barrier function	episode_done:True
+text:  What animal models exist for both the asymptomatic carriage of PUUV and SNV?	labels: their native carrier rodents, the bank vole Myodes glareolus and the deer mouse P. maniculatus	episode_done:True
+text: For what can the Syrian hamster model used?	labels: ANDV or the related Maporal virus from Venezuela, for which an HCPS-mimetic disease is observed	episode_done:True
+text: What does the hamster model for HCPS caused by?	labels: by capillary leak that results in pulmonary edema and the production of a pleural effusion with exudative characteristics	episode_done:True
+text:  Typically how long do the hamsters die post-inoculation?	labels: 11 and 14-d	episode_done:True
+text: What does the microscopic examination of the lung reveal, as with human HCPS?	labels: abundant fibrin deposition, thickened alveolar septa, and viral antigen expressed abundantly in the microvascular endothelium.	episode_done:True
+text: What do ANDV-infected hamsters fitted with physiologic monitoring devices exhibit?	labels: diminished pulse pressures, tachycardia, and hypotension	episode_done:True
+text: What do diminished pulse pressures, tachycardia, and hypotension in ANDV infected hamsters appear to closely mimic?	labels: the shock that is believed to be the proximate cause of demise in patients who succumb to HCPS 	episode_done:True
+text: Compared to  humans, what do ANDV infected hamsters exhibit?	labels: exceptionally high titers of live ANDV in their tissues, with much of the viral replication occurring in hepatocytes	episode_done:True
+text: With what have three studies correlated  plasma viral RNA?	labels: with disease severity for HCPS and HFRS,	episode_done:True
+text: What are examples of delivery vectors for commercial anti-Salmonella vaccines?	labels: Ty21a for typhoid fever in humans, several Salmonella serovars against salmonellosis in chickens and other animals	episode_done:True
+text: What can be a factor in using common vectors for the delivery of vaccines?	labels: commonly employed vectors, for example Salmonella and adenovirus, often have pre-existing immune responses in the host and this has the potential to modify the subsequent immune response to a vectored antigen. 	episode_done:True
+text: Is a pre-existing immune response to commonly used delivery vector an advantage or a disadvantage?	labels: for bacterial vectors there can in fact, in some cases, be an enhancement in immunogenicity, typically humoral, while for viral vectors pre-existing immunity is a hindrance for subsequent induction of cell-mediated responses.	episode_done:True
+text: What bacterial delivery vectors have been tested in animal hosts?	labels:  attenuated bacteria, including Escherichia coli, Vibrio cholerae, lactic acid bacteria (LAB), specifically Lactococcus lactis, Mycobacterium, Listeria, Shigella and Salmonella, have been tested for the targeted delivery of heterologous antigens of bacterial, viral and parasitic origin into a variety of animal hosts	episode_done:True
+text: Which bacteial delivery vectors have gained favor for vaccines?	labels: Bacteria such as E. coli and lactic acid bacteria 	episode_done:True
+text: Why are E Coli and lactic acid are safe choices as delivery vectors for vaccines?	labels: E. coli is a commensal and lactic acid bacteria are present in most fermented food items and are therefore naturally present in the host. They are also a much safer option than traditional attenuated vaccines in children and immunecompromised people.	episode_done:True
+text: What is Listeria?	labels:  Listeria species are Gram-positive intracellular food-borne pathogens	episode_done:True
+text: What is the advantage of Listeria as a  delivery vector for vaccines?	labels: The advantages of Listeria are that it can invade a variety of cells, including antigen presenting cells (APCs). After invading the host cell, Listeria resides inside the phagosome; however, it can escape the phagosome with the help of listeriolysin O (LLO; Hly) and reside in the cytoplasm of the cells, thereby efficiently presenting antigen to both CD8 and CD4 T cells 	episode_done:True
+text: What are examples of  viral vectors for delivering vaccines?	labels: recombinant vaccines are based on both DNA viruses (such as fowlpox virus-based vaccines which target avian influenza virus and fowlpox virus, or vaccinia virusbased vectors against the rabies virus in wildlife) and RNA viruses [such as Newcastle disease virus-based vaccines to be used in poultry or yellow fever virus (YFV)-based vaccines to be used in horses against West Nile virus] 	episode_done:True
+text: Which viral vaccine delivery vector was first licensed?	labels: YFV (YF-17D strain) was the first to be licensed for use in humans, where the cDNAs encoding the envelope proteins of YFV were replaced with the corresponding genes of an attenuated Japanese encephalitis virus strain, SA14-14-2	episode_done:True
+text: What are examples of attenuated poxvirus vaccine delivery vectors?	labels: modified vaccinia virus Ankara (MVA) and New York attenuated vaccinia virus NYVAC strains	episode_done:True
+text: What is the connection between chicken and Salmonella?	labels: Chickens (Gallus gallus) are a natural animal reservoir for Salmonella, which makes them an important source of Salmonella-associated gastroenteritis in humans. 	episode_done:True
+text: Why are some poxvirus  ideally suited as vaccine delivery vectors?	labels: They are ideal candidate vectors due to their large DNA-packing capacity and their thermal and genetic stability 	episode_done:True
+text: What is the advantage of adenovirus as vaccine delivery vector?	labels: adenovirus (Ad) vector is another of the most widely evaluated vectors to date to express heterologous antigens, due to ease of production, safety profile, genetic stability, the ease of DNA genome manipulation, and the ability to stimulate both innate and adaptive immune responses and induce both T and B cell responses 	episode_done:True
+text: What are important criteria for selecting vaccine delivery vectors?	labels: a vaccine should be inexpensive, so that it can be administered to a large population at minimal cost	episode_done:True
+text: What are important criteria for selecting vaccine delivery vectors?	labels: Safety is a major concern, as even a low level of toxicity is unacceptable 	episode_done:True
+text: What are important criteria for selecting vaccine delivery vectors?	labels: long-lasting cellular and (where appropriate) humoral immune responses to the vectored antigen must be induced following administration of these vaccines, preferably with a single dose	episode_done:True
+text: What happens when a recipient of a vaccine has immune response to the delivery vector?	labels: considering a vector such as Salmonella, if a host has previously been infected there will exist robust B and T memory responses, and as such, when a vaccination is delivered, an anamnestic response to the Salmonella antigens will be induced (while the response to the vectored antigen will be a primary response)	episode_done:True
+text: What is the effect of host immune response to the delivery vector on the efficacy of vaccination?	labels: for virally vectored antigens, the existence of pre-existing immunity to the vector (particularly neutralizing antibody) will restrict delivery of the virus into cells, thereby effectively reducing the dose of the vectored antigen. Again, this might be expected to result in a reduction in the antigenicity of the vectored antigen.	episode_done:True
+text: What is the effect of host immune response to the delivery vector on the efficacy of vaccination?	labels: theoretically reduce the exposure of the heterologous antigen to the immune system, as the vector is rapidly cleared.	episode_done:True
+text: What is an example  of the effect of immunity to the  delivery vector on the efficacy of vaccination?	labels: mice that had been primed with Salmonella alone, and then boosted with Salmonella expressing tetC, induced much lower anti-tetC responses than mice that had not been primed. This argues strongly that prior immunological immunity to the vector can seriously dampen subsequent antigen-specific humoral responses.	episode_done:True
+text: What is the effect of host immune response to viral delivery vectors in the efficacy of vaccination?	labels: pre-existing immunity is a major obstacle of many viralvectored vaccines, such as Ad serotype 5 or herpes simplex virus type 1 (HSV-1), where the rate of seroprevalence to these viruses is very high [40-45 % and 70 % (or more) of the US population, respectively] 	episode_done:True
+text: What is the effect of host immune response to  the viral delivery vector on the efficacy of vaccination?	labels: Vector-specific antibodies may impede the induction of immune responses to the vaccine-encoded antigens, as they may reduce the dose and time of exposure of the target cells to the vaccinated antigens	episode_done:True
+text: What is the effect of host immune response to the delivery vector on  the efficacy of vaccination?	labels:  In a large-scale clinical trial (STEP) of an Ad serotype 5 (AdHu5)-based HIV-1 vaccine, the vaccines showed a lack of efficacy and tended to increase the risk of HIV-1 infection in vaccine recipients who had pre-existing neutralizing antibodies to AdHu5 (	episode_done:True
+text: What are methods to avoid the effect vector immunity on the efficacy of vaccination?	labels:  the use of vectors derived from nonhuman sources, using human viruses of rare serotypes (Kahl et al., 2010; Lasaro & Ertl, 2009) , heterologous prime-boost approaches (Liu et al., 2008) , homologous reimmunization (Steffensen et al., 2012) and removing key neutralizing epitopes on the surface of viral capsid proteins (Gabitzsch & Jones, 2011; Roberts et al., 2006) 	episode_done:True
+text: What are methods to  avoid the effect of vector immune response on the efficacy of vaccination?	labels: The inhibitory effect of pre-existing immunity can also be avoided by masking the Ad vector inside dendritic cells (DCs) (Steffensen et al., 2012) . In addition, mucosal vaccination or administration of higher vaccine doses can overcome pre-existing immunity problems (Alexander et al., 2012; Belyakov et al., 1999; Priddy et al., 2008; Xiang et al., 2003) . 	episode_done:True
+text: How does cell-mediated immunity to viral delivery vector, reduce the immune response to vaccine?	labels:  this is because viruses will induce neutralizing antibody on the first dose, and in subsequent doses this antibody will limit the number of transduced cells, therefore limiting the responses. This is particularly a problem with a common viral vector such as Ad, where a large proportion of the population will have immunological memory against common serotypes	episode_done:True
+text: How can vectors for which host has immunity, be used differently to increase the efficacy of vaccination?	labels:  it will be possible to utilize such vectors only by developing vaccines from alternative serotypes. It may be that a vector such as Pre-existing immunity against vaccine vectors attenuated influenza virus, with the ability to easily develop reassortants, will be useful in this context.  In addition, immunological memory in the form of opsonizing antibody certainly plays an important role in the early uptake of Salmonella by macrophages and DC. This may be beneficial, as the live bacterial vector used for delivery purposes harbours mutations in genes encoding proteins responsible for their survival in the animal host. This not only encumbers their ability to cause disease, making them safe live vectors, but also limits the number of replications. The presence of opsonizing antibodies should mean a higher level of bacterial uptake, leading to higher presentation to the immune system and therefore a better immune response.	episode_done:True
+text: How does the PED virus transmit between animals?	labels: fecal–oral contact	episode_done:True
+text: How can Bacilius subtilis be used as an oral vaccine?	labels: recombinant vaccine carrier	episode_done:True
+text: What cells are infected by the PED virus?	labels: intestine epithelial cells	episode_done:True
+text: What kind of immune responses are most effective in preventing PED virus?	labels: mucosal	episode_done:True
+text: What intestinal factors may reduce the effectiveness of orally-administered immunizations?	labels: gastric acids, pepsin, and trypsin	episode_done:True
+text: What is Bacillus subtilis?	labels: Gram-positive bacterium	episode_done:True
+text: What is the role of dendritic cells in the immune response?	labels: antigen-presenting cells	episode_done:True
+text: Where do dendritic cells exist in the body?	labels: gut-associated lymphoid tissue (GALT)	episode_done:True
+text: What are the components of the gut-associated lymphoid tissue?	labels: Peyer's patches (PPs), isolated lymphoid follicles (ILFs), mesenteric lymph nodes (MLNs), and scatter throughout the subepithelial lamina propria (LP) of the small intestine and colon	episode_done:True
+text: What type of cells form the intestinal mucosal barrier?	labels: lymphoid cells	episode_done:True
+text: What factors determine an effective mucosal immune response?	labels: serum IgG and mucosal SIgA	episode_done:True
+text: What is an effective indicator of a vaccine's ability to generate an immune response?	labels: cytokines	episode_done:True
+text: What is interleukin-1Beta?	labels: pro-inflammatory cytokines	episode_done:True
+text: When was the first case of COVID-19 identified?	labels: Wuhan City, China	episode_done:True
+text: Where did SARS-CoV-2 originate?	labels: Wuhan City, China	episode_done:True
+text: In what year did the first SARS epidemic occur?	labels:  rapid and transparent sharing of information between countries and agencies	episode_done:True
+text: When was World Health Organization (WHO) first notified about the SARS-CoV-2 epidemic in Wuhan City, China?	labels: 31 December	episode_done:True
+text: When did we discover that SARS-CoV-2, which causes COVID-19, was a novel coronavirus?	labels: 26 January 2020	episode_done:True
+text: How long did it take to identify the cause of COVID-19?	labels: 4 weeks	episode_done:True
+text: What type of test was initially developed to screen for SARS-CoV-2?	labels:  reverse transcription polymerase chain reaction	episode_done:True
+text: How big was the temporary hospital built in Wuhan City for treatment of COVID-19 patients?	labels: 1000 bed hospital	episode_done:True
+text: How long did it take China to build the temporary hospital in Wuhan for COVID-19 patients?	labels: 10 days	episode_done:True
+text: What is a key factor in managing emerging infectious disease threats?	labels: transparent sharing of information between countries and agencies	episode_done:True
+text: In what year did the MERS epidemic occur?	labels: 2012	episode_done:True
+text: How long did it take to publish the full genomic sequence of SARS-CoV-2 after it was identified?	labels: 2 weeks	episode_done:True
+text: What was the fatality rate for SARS-CoV?	labels: 10%	episode_done:True
+text: What was the fatality rate for MERS?	labels: 34%	episode_done:True
+text: What are some challenges associated with using media and social media to capture information about an emerging epidemic?	labels: the volume and diversity of the information available and the relative lack of verification mechanisms	episode_done:True
+text: What are the risks of health workers failing to wash hands?	labels: autoinfection, but also in infection of patients hospitalised for other causes when they provide care	episode_done:True
+text: Who is at risk when health workers fail to wash their hands?	labels:  the health worker, but also for their families and the communities in which they live	episode_done:True
+text: What was the R0 of SARS in absence of control measures?	labels: 3	episode_done:True
+text: What is superspreading?	labels: where a case infected significantly more contacts than the average	episode_done:True
+text: How many people may have left Wuhan before travel restrictions were imposed?	labels: 5 m people	episode_done:True
+text: How many severe cases of influenza-related illnesses are reported per year?	labels: Between 3-5 million	episode_done:True
+text: How many influenza-related deaths are reported each year?	labels: over 250 000	episode_done:True
+text: What is the mortality rate of the H5N1 strain of influenza?	labels: 53%	episode_done:True
+text: What cells are the main target of the influenza A virus in the lungs?	labels: primary human alveolar epithelial type II (ATII) cells	episode_done:True
+text: How many extracellular domains are in the CEAMCAM1 protein?	labels: four	episode_done:True
+text: Where is CEACAM1 expressed in the body?	labels: epithelial and endothelial cells 11 , as well as B cells, T cells, neutrophils, NK cells, macrophages and dendritic cells (DCs)	episode_done:True
+text: What motifs are absent in the short form of CEACAM1 protein?	labels: immunoreceptor tyrosine-based inhibitory motifs (ITIMs)	episode_done:True
+text: What are the most common isoforms of CEACAM1?	labels: CEACAM1-4L and CEACAM1-3L	episode_done:True
+text: How do CEACAM1 and CEACAM5 interact?	labels: heterophilically	episode_done:True
+text: What are the SRC-family of kinases? 	labels: signaling molecules	episode_done:True
+text: What triggers the release of pro-inflammatory cytokines/chemokines to assist in viral clearance?	labels: pattern recognition receptors (PRRs)	episode_done:True
+text: What mediates the anti-apoptosis of neutrophils?	labels: Phosphorylation of CEACAM1 ITIM motifs and activation of caspase-3	episode_done:True
+text: How do natural killer cells fight influenza viruses?	labels: by recognizing and killing infected cells	episode_done:True
+text: How do influenza viruses escape binding by the natural killer cell activating receptors?	labels: modification of influenza hemagglutinin (HA) glycosylation	episode_done:True
+text: What is Enfuvirtide?	labels: HIV fusion inhibitor	episode_done:True
+text: What is labeled in red?	labels: residues corresponding to the NHR pocket region	episode_done:True
+text: What is marked in blue?	labels: residues for the PBD	episode_done:True
+text: What is marked in green?	labels: MT-hook residues adjacent to the N terminus of PBD	episode_done:True
+text: What is labeled in pink?	labels: mutant residues in PBD of AP2 and AP3	episode_done:True
+text: How many times was the experiment repeated?	labels: twice	episode_done:True
+text: What was the main finding in the study?	labels: AP3, exhibited improved antiviral activity, drug resistance profile and pharmacological properties over T20	episode_done:True
+text: What do the results suggest?	labels: AP3 has potential for development as a new anti-HIV drug	episode_done:True
+text: What enhanced anti-HIV1 activity?	labels: adding two amino acids of Met and Thr to the N-terminus of a CHR-peptide 	episode_done:True
+text: What figure shows that AP3 exhibited higher inhibitory activities on infection by HIV-1 IIIB and HIV-1 Bal strains?	labels: Fig. 1b	episode_done:True
+text: What is the serum half-life of T20?	labels: about 2 h	episode_done:True
+text: What kind of model best describes the pharmacokinetic profiles of AP3 and AP2?	labels: non-compartment model	episode_done:True
+text: What is the in vivo elimination half-life of AP3?	labels: 6.02 h	episode_done:True
+text: Why did the T20/N36 complex not show a typical alpha helical conformation?	labels: Because T20 lacks the pocket-binding domain (PBD)	episode_done:True
+text: What mutations have been typically associated with T20-resistant HIV-1 variants?	labels: GIV motif (residues 36-45: GIVQQQNNLL) in the gp41 NHR domain 10	episode_done:True
+text: What are main steps for mitigating the COVID -19 transmission during transport of suspected and confirmed patients?	labels: firstly, early recognition of the deteriorating patient; secondly, HCW safety; thirdly, bystander safety; fourthly, contingency plans for medical emergencies during transport; fifthly, post-transport decontamination	episode_done:True
+text: How many deaths each year are caused by gastroenteritis?	labels: two to three million	episode_done:True
+text: What percentage of sporadic diarrhea are caused by norovirus?	labels: 60%	episode_done:True
+text: What is the most common cause of viral gastroenteritis in children?	labels: Rotavirus	episode_done:True
+text: Which types of adenovirus are associated with diarrhea?	labels: type 40 and 41	episode_done:True
+text: When was the first tissue culture system developed?	labels: 1907	episode_done:True
+text: What are the most common DNA-based techniques for detecting viruses?	labels: 1. Universal primer-PCR [41] ; 2. Random priming-based PCR [42] ; 3. Virus Discovery cDNA, Amplified Fragment Length Polymorphism (VIDISCA) [43] ; and 4. Sequence-Independent Single Primer Amplification (SISPA)	episode_done:True
+text: What is Universal primer-PCR used for in viral studies?	labels: detect novel variants	episode_done:True
+text: What is Koch's first postulate?	labels: The microbe occurs in every case of the disease in question and under circumstances which can account for the pathological changes and clinical course of the disease	episode_done:True
+text: What is Koch's second postulate?	labels: the microbe occurs in no other disease as a fortuitous and nonpathogenic parasite	episode_done:True
+text: What is Koch's third postulate?	labels: after being fully isolated from the body and repeatedly grown in pure culture, the microbe can induce the disease anew	episode_done:True
+text: If all 3 of Koch's postulates are met, what does this indicate?	labels: microbe is the cause of the disease	episode_done:True
+text: Is Koch's postulate applicable to enteric viruses?	labels: not applicable	episode_done:True
+text: What changes do viruses make to be unrecognizable to previously neutralizing antibodies?	labels: point mutations on immunodominant regions of surface proteins	episode_done:True
+text: What is hepatitis C?	labels: positive-sense single stranded RNA enveloped virus	episode_done:True
+text: How large is the HCV genome?	labels: 3,000 aminoacids	episode_done:True
+text: What are the non-structural proteins encoded by the HCV genome?	labels: p7, NS2, NS3, NS4A, NS4B, NS5A and NS5B	episode_done:True
+text: Why has it been difficult to develop a therapy for the Hepatitis C virus?	labels: high mutation rate	episode_done:True
+text: An antibody response to which proteins correlates with reduced HCV levels?	labels: glycoproteins E1 and E2	episode_done:True
+text: How are type A, B, and C viruses determined?	labels: antigenic differences of their nucleoprotein and matrix protein	episode_done:True
+text: Which type of influenza causes epidemics and pandemics?	labels: influenza A	episode_done:True
+text: When did lions first occupy Europe?	labels: By Mid Pleistocene (,500,000 years ago)	episode_done:True
+text: What was the purpose of this study?	labels: to assess the evolutionary history of lion	episode_done:True
+text: What has been the application of phage display technology?	labels: protein–protein interactions.	episode_done:True
+text: What makes phage display technology useful for other applications?	labels:  inherent biological, biochemical, and biophysical properties of filamentous bacteriophage, as well as the ease of its genetic manipulation	episode_done:True
+text: What are the advantages of phage as a vaccine carrier?	labels: high immunogenicity, relative antigenic simplicity and ability to activate a range of immune responses	episode_done:True
+text: What is the potential of phage for infectious and chronic diseases?	labels: prophylactic and therapeutic agent	episode_done:True
+text: What is the regularity of the virion major coat protein lattice useful for? 	labels:  enables a variety of bioconjugation and surface chemistry applications, particularly in nanomaterials	episode_done:True
+text: Why is the phage ab excellent model system for directed protein evolution?	labels: the phage’s large population sizes and fast generation times	episode_done:True
+text: What are filamentous bacteriophages genera Inovirua and Plectrovirus?	labels: non-enveloped, rod-shaped viruses of Escherichia coli whose long helical capsids encapsulate a single-stranded circular DNA genome.	episode_done:True
+text: What invention has made bacteriophage useful for research?	labels: principle of modifying the filamentous phage genome to display polypeptides as fusions to coat proteins on the virion surface 	episode_done:True
+text: What has the bacteriphage technology and the library of folded protein variants enabled?	labels: the ability to seamlessly connect genetic information with protein function for a large number of protein variants simultaneously, and has been widely and productively exploited in studies of proteinprotein interactions	episode_done:True
+text: What are the potential novel applications of the filamentous phage?	labels: (i) filamentous phage as a vaccine carrier; (ii) engineered filamentous phage as a therapeutic biologic agent in infectious and chronic diseases; (iii) filamentous phage as a scaffold for bioconjugation and surface chemistry; and (iv) filamentous phage as an engine for evolving variants of displayed proteins with novel functions. 	episode_done:True
+text: What themes are common in  the applications of filamentous phage?	labels:  unique biological, immunological, and physicochemical properties of the phage, its ability to display a variety of biomolecules in modular fashion, and its relative simplicity and ease of manipulation	episode_done:True
+text: What do applications of filamentous phage depend on?	labels: its ability to display polypeptides on the virion's surface as fusions to phage coat proteins 	episode_done:True
+text: What characteristics are determined by the display  mode?	labels:  maximum tolerated size of the fused polypeptide, its copy number on the phage, and potentially, the structure of the displayed polypeptide	episode_done:True
+text: How may the display be achieved?	labels:  by fusing DNA encoding a polypeptide of interest directly to the gene encoding a coat protein within the phage genome (type 8 display on pVIII, type 3 display on pIII, etc.)	episode_done:True
+text: What does  the term "phage display" refer to?	labels:  a recombinant filamentous phage displaying a single polypeptide sequence on its surface (or more rarely, bispecific display achieved via fusion of polypeptides to two different capsid proteins)	episode_done:True
+text: What does the term "phage displayed library" refer to?	labels: a diverse pool of recombinant filamentous phage displaying an array of polypeptide variants (e.g., antibody fragments; peptides)	episode_done:True
+text: What characteristic of filamentous phage has been demonstrated?	labels: is highly immunogenic in the absence of adjuvants (Meynell and Lawn, 1968 ) and that only the major coat protein, pVIII, and the minor coat protein, pIII, are targeted by antibodies	episode_done:True
+text: What application is a natural extension of the  ability to display recombinant exogenous sequences on its surface?	labels: as carrier to elicit antibodies against poorly immunogenic haptens or polypeptide	episode_done:True
+text: What makes it an attractive vaccine carrier?	labels: The phage particle's low cost of production, high stability and potential for high valency display of foreign antigen	episode_done:True
+text: What does the display mode determine?	labels:  the maximum tolerated size of the fused polypeptide, its copy number on the phage, and potentially, the structure of the displayed polypeptide. 	episode_done:True
+text: Why are antibody epitope based peptide vaccines are no longer an active research area?	labels: (i) in many cases, peptides incompletely or inadequately mimic epitopes on folded proteins (Irving et al., 2010 ; see below); (ii) antibodies against a single epitope may be of limited utility, especially for highly variable pathogens (Van Regenmortel, 2012); and (iii) for pathogens for which protective immune responses are generated efficiently during natural infection, peptide vaccines offer few advantages over recombinant subunit and live vector vaccines, which have become easier to produce over time.	episode_done:True
+text: What phage may be useful in allergy immunotherapy?	labels: Phage displaying peptide ligands of an anti-IgE antibody elicited antibodies that bound purified IgE molecules	episode_done:True
+text: Which are some phage based contraceptive vaccines for animals?	labels:  immunization with phage displaying follicle-stimulating hormone peptides on pVIII elicited antibodies that impaired the fertility of mice and ewes 	episode_done:True
+text: Which are some phage based contraceptive vaccines for animals?	labels: Phage displaying or chemically Rubinchik and Chow (2000) conjugated to sperm antigen peptides or peptide mimics (Samoylova et al., 2012a,b) and gonadotropin-releasing hormone (Samoylov et al., 2012) are also in development.	episode_done:True
+text: What is one reason for the lack of success of immunization phage displayed peptides with native protein?	labels:  it seems that peptide antigens elicit a set of topologically restricted antibodies that are largely unable to recognize discontinuous or complex epitopes on larger biomolecules. While the peptide may mimic the chemistry of a given epitope on a folded protein (allowing it to crossreact with a targeted antibody), being a smaller molecule, it cannot mimic the topology of that antibody's full epitope.	episode_done:True
+text: Despite shortcomings, what has the filamentous phage has been useful for?	labels: as a carrier for peptides with relatively simple secondary structures, which may be stablilized via anchoring to the coat proteins (Henry et al., 2011) . This may be especially true of peptides with poor inherent immunogenicity, which may be increased by high-valency display and phage-associated adjuvanticity	episode_done:True
+text: What is the result of all species tests of phage particles?	labels:  is immunogenic without adjuvant in all species tested to date, including mice (Willis et al., 1993) , rats (Dente et al., 1994) , rabbits (de la Cruz et al., 1988) , guinea pigs (Frenkel et al., 2000; Kim et al., 2004) , fish (Coull et al., 1996; Xia et al., 2005) , non-human primates (Chen et al., 2001) , and humans (Roehnisch et al., 2014) 	episode_done:True
+text: What are the results of filamentous phage immunizations in mice?	labels: serum antibody titers against the phage typically reach 1:10 5 -1:10 6 after 2-3 immunizations, and are maintained for at least 1 year postimmunization (Frenkel et al., 2000) . 	episode_done:True
+text: What is the primary antibody response against the phage?	labels: composed of a mixture of IgM and IgG2b isotypes in C57BL/6 mice, while secondary antibody responses are composed primarily of IgG1 and IgG2b isotypes, with a lesser contribution of IgG2c and IgG3 isotypes (Hashiguchi et al., 2010) .	episode_done:True
+text: Why is phage self-adjuvanting?	labels: Host cell wall-derived LPS enhances the virion's immunogenicity, and its removal by polymyxin B chromatography reduces antibody titers against phage coat proteins (Grabowska et al., 2000) . The phage's singlestranded DNA genome contains CpG motifs and may also have an adjuvant effect. 	episode_done:True
+text: On what does the antibody  response to phage depend on?	labels: MyD88 signaling and is modulated by stimulation of several Toll-like receptors (Hashiguchi et al., 2010) , indicating that innate immunity plays an important 	episode_done:True
+text: What do biodistribution studies of the phage after intravenous injection show?	labels:  it is cleared from the blood within hours through the reticuloendothelial system (Molenaar et al., 2002) , particularly of the liver and spleen, where it is retained for days (Zou et al., 2004) , potentially activating marginal-zone B-cell responses. 	episode_done:True
+text: What are the merits of the filamentous phage carriers?	labels:  the filamentous phage is not only a highly immunogenic carrier, but by virtue of activating a range of innate and adaptive immune responses, serves as an excellent model virus-like particle antigen.	episode_done:True
+text: What is a future potential of filamentous phage?	labels:  as elements of combination therapeutics against certain drug-resistant infections.	episode_done:True
+text: What were more potent inhibitors of Staphylococcus aureus growth than high-concentration free chloramphenicol?	labels: M13 or fd phage displaying either a targeting peptide or antibody fragment and tethered to chloramphenicol by a labile crosslinker 	episode_done:True
+text: What killed prostate cancer cells in vitro?	labels: M13 phage loaded with doxorubicin and displaying a targeting peptide on pIII	episode_done:True
+text: What was the effect of phage displaying  peptides on tumor?	labels: Using the B16-OVA tumor model, Eriksson et al. (2007) showed that phage displaying peptides and/or Fabs specific for tumor antigens delayed tumor growth and improved survival, owing in large part to activation of tumor-associated macrophages and recruitment of neutrophils to the tumor site (Eriksson et al., 2009) 	episode_done:True
+text: Why is the phage displaying  an scFv against β-amyloid fibrils  is a good diagnostic for Alzheimers and Parkinson's disease?	labels:  ability of the phage to penetrate into brain tissue (Ksendzovsky et al., 2012) 	episode_done:True
+text: What is the structure of a filamentous phage particle?	labels: is enclosed by a rod-like protein capsid, ∼1000 nm long and 5 nm wide, made up almost entirely of overlapping pVIII monomers, each of which lies ∼27 angstroms from its nearest neighbor and exposes two amine groups as well as at least three carboxyl groups (Henry et al., 2011)	episode_done:True
+text: What makes filamentous phage ideal scaffold for bioconjugation?	labels: The regularity of the phage pVIII lattice and its diversity of chemically addressable groups	episode_done:True
+text: What trials have been done to demonstrate the potential of phage in applications for nanomaterials?	labels: Lee et al. (2002) engineered M13 phage to display a ZnS-binding peptide on pIII and showed that, in the presence of ZnS nanoparticles, they selfassemble into highly ordered film biomaterials that can be aligned using magnetic fields.	episode_done:True
+text: What trials have been done to demonstrate the potential of phage in applications for nanomaterials?	labels: Taking advantage of the ability to display substrate-specific peptides at known locations on the phage filament Hess et al., 2012) , this pioneering FIGURE 3 | Chemically addressable groups of the filamentous bacteriophage major coat protein lattice. 	episode_done:True
+text: What is the filamentous phage varion is made of?	labels: made up of ∼2,500-4,000 overlapping copies of the 50-residue major coat protein, pVIII, arranged in a shingle-type lattice. Each monomer has an array of chemically addressable groups available for bioorthogonal conjugation, including two primary amine groups (shown in red), three carboxyl groups (show in blue) and two hydroxyl groups (show in green). The 12 N-terminal residues generally exposed to the immune system for antibody binding 	episode_done:True
+text: What demonstrate the potential of phage in applications for nanomaterials?	labels: construction of two-and threedimensional nanomaterials with more advanced architectures, including semiconducting nanowires (Mao et al., 2003 (Mao et al., , 2004 , nanoparticles , and nanocomposites (Oh et al., 2012; Chen et al., 2014)	episode_done:True
+text: What was investigated in this study?	labels: The capacities of nanopore sequencing for viral diagnostics	episode_done:True
+text: What was the range of genomic sequencing depths?	labels: 19.2 to 103.5X	episode_done:True
+text: Which q-score reads were eliminated from the analysis?	labels: lower than 7	episode_done:True
+text: What was the mean length of the sequenced read?	labels: 816 nt	episode_done:True
+text: Which strain was similar to other Belgian porcine kobuvirus isolates?	labels: 17V079	episode_done:True
+text: What is Clodstridium difficile?	labels: Gram positive, anaerobic bacterium	episode_done:True
+text: What is sporulation?	labels: adaptive strategy that enables bacteria to survive harsh environmental conditions for prolonged periods of time	episode_done:True
+text: What is the key regulator to sporulation?	labels: Spo0A	episode_done:True
+text: What are the main virulence factors in C. difficle?	labels: toxins A and B	episode_done:True
+text: What laboratory test can be used to monitor protein expression?	labels: Western blot	episode_done:True
+text: How is Venezuelan equine encephalitis virus transmitted?	labels: by mosquitoes	episode_done:True
+text: What are the symptoms of Venezuelan equine encephalitis virus?	labels: fever, malaise, and vomiting	episode_done:True
+text: What is the mortality rate of Venezuelan equine encephalitis virus in children?	labels: 35%	episode_done:True
+text: What is the mortality rate of Venezuelan equine encephalitis virus in adults?	labels: 10%	episode_done:True
+text: What vaccine can be used to prevent Venezuelan equine encephalitis virus?	labels: TC83	episode_done:True
+text: What can RNA sequencing be used to monitor?	labels: changes in gene expression	episode_done:True
+text: What activates the UPR pathway in the cell?	labels: protein misfolding	episode_done:True
+text: What indicators does the UPR pathway use to regulate protein folding and secretion in the cell?	labels: inositolrequiring enzyme 1 (IRE1), protein kinase RNA-like ER kinase (PERK), and activating transcription factor 6 (ATF6)	episode_done:True
+text: Where does EGR1 accumulate in the cell?	labels: nucleus	episode_done:True
+text: What is EGR1?	labels: a transcription factor	episode_done:True
+text: What is disease resilience?	labels:  the ability of a given host to tolerate an infection, and to return to a state of health	episode_done:True
+text: What family of virus does SARS reside in?	labels: coronavirus	episode_done:True
+text: What family of virus does MERS reside in?	labels: coronavirus	episode_done:True
+text: When was SARS-CoV first identified?	labels: 2003	episode_done:True
+text: How many people did SARS-CoV infect?	labels: 8000	episode_done:True
+text: What percentage of people infected with MERS-CoV died?	labels: 35-50%	episode_done:True
+text: What percentage of people infected with SARS-CoV died?	labels: 10%	episode_done:True
+text: What was the reservoir for SARS-CoV and MERS-CoV?	labels: animal reservoirs	episode_done:True
+text: What was the primary threatening clinical finding in patients infected with SARS-CoV and MERS-CoV?	labels: severe lung pathology	episode_done:True
+text: What is the relationship between SARS-CoV and acute lung injury (ALI)?	labels: Many infected patients have acute lung injury (ALI)	episode_done:True
+text: What is the relationship between SARS-CoV and acute respiratory distress syndrome (ARDS)?	labels:  In some patients there is a progression to the more severe form of ALI, acute respiratory distress syndrome (ARDS)	episode_done:True
+text: What is required for a person to survive a serious SARS-CoV infection?	labels:  a successful host must not only be able to clear the pathogen, but tolerate damage caused by the pathogen itself and also by the host's immune response	episode_done:True
+text: How does cell-entry differ between SARS-CoV and MERS-CoV?	labels: SARS-CoV uses the ACE2 receptor to gain entry to cells, while MERS-CoV uses the ectopeptidase DPP4	episode_done:True
+text: What is a major difference in clinical progression between SARS-CoV and MERS-CoV?	labels: Unlike SARS-CoV infection, which causes primarily a severe respiratory syndrome, MERS-CoV infection can also lead to kidney failure	episode_done:True
+text: How does transmission differ between SARS-CoV and MERS-CoV?	labels:  SARS-CoV also spreads more rapidly between hosts, while MERS-CoV has been more easily contained, but it is unclear if this is due to the affected patient populations and regions	episode_done:True
+text: How do SARS-CoV and MERS-CoV evade the immune system sensing it's genome?	labels: SARS-CoV and MERS-CoV are contained in double membrane vesicles	episode_done:True
+text: What role does initial viral titer play in the prognosis of SARS-CoV and MERS-CoV?	labels: In patients with high initial viral titers there is a poor prognosis	episode_done:True
+text: What is the timeline of the type I interferon (IFN) response in SARS-CoV infection?	labels: In a mouse model of SARS-CoV infection, the type I IFN response is delayed	episode_done:True
+text: How do SARS-CoV viral proteins interact with the immune response?	labels: several viral proteins suppress the type I IFN response, and other aspects of innate antiviral immunity	episode_done:True
+text: What was the role of corticosteroid use in hospitalized patients with SARS-CoV?	labels: Retrospective analysis revealed that, when given at the correct time and to the appropriate patients, corticosteroid use could decrease mortality and also length of hospital stays	episode_done:True
+text: What is the role of interferon's (IFNs) in the treatment of SARS-CoV?	labels:  there is some evidence that simultaneous treatment with IFNs could increase the potential benefits	episode_done:True
+text: What are some negative effects of decreasing immunopathology by immunomodulation?	labels: decreasing immunopathology by immunomodulation is problematic because it can lead to increased pathogen burden, and thus increase virus-induced pathology	episode_done:True
+text: What is the role of topoisomerase I in improving host resilience in viral lung infections?	labels: A recent paper demonstrates that topoisomerase I can protect against inflammation-induced death from a variety of viral infections including IAV	episode_done:True
+text: What is the role of complement 5a (C5a) in increasing host resilience to viral lung infection?	labels: Blockade of C5a complement signaling has also been suggested as a possible option in decreasing inflammation during IAV infection	episode_done:True
+text: What is the role of statins in increasing host resilience to viral lung infections?	labels: They act to stabilize the activation of aspects of the innate immune response and prevent excessive inflammation	episode_done:True
+text: Which medical comorbidities most profoundly influenced MERS-CoV outcomes?	labels: if they were obese, immunocompromised, diabetic or had cardiac disease	episode_done:True
+text: Which immune factors were associated with increased SARS-CoV morbidity and mortality?	labels: a higher neutrophil count and low T-cell counts	episode_done:True
+text: What is the prognostic role of coinfection in SARS-CoV and MERS-CoV infections?	labels: One factor that increased disease for patients infected with SARS-CoV and MERS-CoV was infection with other viruses or bacteria	episode_done:True
+text: Can host resilience be predicted?	labels: A recent study looking at malaria infections in animal models and human patients demonstrated that resilient hosts can be predicted	episode_done:True
+text: Can biomarkers be used to predict outcomes in acute respiratory distress (ARDS) patients?	labels: Clinical studies have started to correlate specific biomarkers with disease outcomes in ARDS patients	episode_done:True
+text: What work has been carried out this study?	labels: A systematic search was carried out in three major electronic databases (PubMed, Embase and Cochrane Library) to identify published studies in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Supplementary strategies through Google Search and personal communications were used. 	episode_done:True
+text: How many confirmed cases were identified in February 2020?	labels:  25,000	episode_done:True
+text: What was the case fatality rate?	labels:  2%	episode_done:True
+text: Who are the majority of cases?	labels: males with a median age of 55 years and linked to the Huanan Seafood Wholesale Market 	episode_done:True
+text: What are the symptoms at the onset?	labels: fever, cough, and myalgia or fatigue.	episode_done:True
+text: What  type of virus is 2019-nCOV?	labels: betacoronavirus	episode_done:True
+text: What clade does it belong to?	labels:  forms a clade within the subgenus sarbecovirus of the Orthocoronavirinae subfamily 	episode_done:True
+text: What other betacoronaviruses are zoonotic in origin?	labels: The severe acute respiratory syndrome coronavirus (SARS-CoV) and Middle East respiratory syndrome coronavirus (MERS-CoV)	episode_done:True
+text: How does the pathogenicity of 2019-nCOV compare with other viruses?	labels: Based on current evidence, pathogenicity for 2019-nCoV is about 3%, which is significantly lower than SARS-CoV (10%) and MERS-CoV (40%)	episode_done:True
+text: How does the transmissibility of 2019-nCOV compare with other viruses?	labels: 2019-nCoV has potentially higher transmissibility (R0: 1.4-5.5) than both SARS-CoV (R0: [2] [3] [4] [5] and MERS-CoV (R0: <1)	episode_done:True
+text: Which electronic databases were used for this study?	labels: PubMed, Embase and Cochrane Library	episode_done:True
+text: What was the purpose of the search?	labels:  to identify published studies examining the diagnosis, therapeutic drugs and vaccines for Severe Acute Respiratory Syndrome (SARS), Middle East Respiratory Syndrome (MERS) and the 2019 novel coronavirus (2019-nCoV), in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines.	episode_done:True
+text: What topics were searched for?	labels: randomized controlled trials (RCTs) and validation trials (for diagnostics test) published in English, that measured (a) the sensitivity and/or specificity of a rapid diagnostic test or a point-of-care testing kit, (b) the impact of drug therapy or (c) vaccine efficacy against either of these diseases with no date restriction applied. For the 2019-nCoV, we searched for all in vitro, animal, or human studies published in English between 1 December 2019 and 6 February 2020, on the same outcomes of interest. 	episode_done:True
+text: What studies  were excluded?	labels:  Studies that examined the mechanisms of diagnostic tests, drug therapy or vaccine efficacy against SARS, MERS and 2019-nCoV	episode_done:True
+text: What did the searches yield?	labels: A Google search for 2019-nCoV diagnostics (as of 6 February 2020; Table S2 ) yielded five webpage links from government and international bodies with official information and guidelines (WHO, Europe CDC, US CDC, US FDA), three webpage links on diagnostic protocols and scientific commentaries, and five webpage links on market news and press releases. Six protocols for diagnostics using reverse transcriptase polymerase chain reaction (RT-PCR) from six countries were published on WHO's website [9] . Google search for 2019-nCoV vaccines yielded 19 relevant articles.	episode_done:True
+text:  What is the the primary means for diagnosing the new virus strain?	labels: real time RT-PCR	episode_done:True
+text: What are roles of  the period and type of specimens?	labels: It was found that the respiratory specimens were positive for the virus while serum was negative in the early period. It has also suggested that in the early days of illness, patients have high levels of virus despite the mild symptoms.	episode_done:True
+text: What  are some of the other diagnostic methods?	labels: reverse transcription loop-mediated isothermal amplification (RT-LAMP), RT-insulated isothermal PCR (RT-iiPCR) and a one-step rRT-PCR assay based on specific TaqMan probes.	episode_done:True
+text: How does RT-LAMP compare with other methods?	labels:  RT-LAMP has similar sensitivity as real time RT-PCR. It is also highly specific and is used to detect MERS-CoV. It is comparable to the usual diagnostic tests and is rapid, simple and convenient.	episode_done:True
+text: How do RT-iiPCR and a one-step rRT-PCR compare with other methods?	labels:  have also shown similar sensitivity and high specificity for MER-CoV.	episode_done:True
+text:  Why is RT-PCR not the best method sometimes?	labels: high levels of PCR inhibition may hinder PCR sensitivity 	episode_done:True
+text: What did the comparison between the molecular test  and serological test show?	labels:  that the molecular test has better sensitivity and specificity. 	episode_done:True
+text: What enhancements to the molecular tests were looked at?	labels: Studies looked at using nested PCR to include a pre-amplification step or incorporating N gene as an additional sensitive molecular marker to improve on the sensitivity 	episode_done:True
+text: What is the threshold sensitivity of  Real time PCR?	labels: 10 genome equivalents per reaction	episode_done:True
+text: How is the reproducibility of real time PCR?	labels: has a good reproducibility with the inter-assay coefficients of variation of 1.73 to 2.72%.	episode_done:True
+text: What are potential vaccines based on?	labels: messenger RNA, DNA-based, nanoparticle, synthetic and modified virus-like particle)	episode_done:True
+text: Which  kit is currently used in China?	labels:  kit developed by the BGI have passed emergency approval procedure of the National Medical Products Administration, and are currently used in clinical and surveillance centers of China	episode_done:True
+text: Why were only four studies included?	labels: Most studies on SARS and MERS vaccines were excluded as they were performed in cell or animal models 	episode_done:True
+text: Which  four studies were included?	labels:  Phase I clinical trials on SARS or MERS vaccines	episode_done:True
+text: What is te safety of the vaccines? 	labels:  All vaccine candidates for SARS and MERS were reported to be safe, 	episode_done:True
+text: What was the performance of the vaccine candidates?	labels: well-tolerated and able to trigger the relevant and appropriate immune responses in the participants	episode_done:True
+text: How many clinical trials are registered?	labels: nine	episode_done:True
+text: What is the status of the nine trials?	labels:  five studies on hydroxychloroquine, lopinavir plus ritonavir and arbidol, mesenchymal stem cells, traditional Chinese medicine and glucocorticoid therapy usage have commenced recruitment. The remaining four studies encompass investigation of antivirals, interferon atomization, darunavir and cobicistat, arbidol, and remdesivir usage for 2019-nCoV patients	episode_done:True
+text: What are the results on seroconversion?	labels:  Seroconversion measured by S1-ELISA occurred in 86% and 94% participants after 2 and 3 doses, respectively, and was maintained in 79% participants up to study end at week 60.	episode_done:True
+text: What were the results on antibodies?	labels: Neutralising antibodies were detected in 50% participants at one or more time points during the study, but only 3% maintained neutralisation activity to end of study.	episode_done:True
+text: What were  the T-cell responses?	labels:  detected in 71% and 76% participants after 2 and 3 doses, respectively.	episode_done:True
+text: What were the differences in immune responses?	labels: no differences in immune responses between dose groups after 6 weeks and vaccine-induced humoral and cellular responses were respectively detected in 77% and 64% participants at week 60	episode_done:True
+text: What is the observed benefit of the molecules?	labels: Molecules developed by the university scientists inhibit two coronavirus enzymes and prevent its replication. The discovered drug targets are said to be more than 95% similar to enzyme targets found on the SARS virus. 	episode_done:True
+text: What is the ongoing randomized trial investigating?	labels: It investigates the usage of Lopinavir/Ritonavir and Interferon Beta 1B.	episode_done:True
+text: What are the many prospective and restrospective studies  conducted on?	labels:  usage of ribavirin with lopinavir/ritonavir/ribavirin, interferon, and convalescent plasma usage.	episode_done:True
+text: What was the result of the phase 1 trial of IgG immunoglobin?	labels: The trial conducted in the United States in 2017 demonstrated SAB-301 to be safe and well-tolerated at single doses. 	episode_done:True
+text: What role rapid diagnostics plays?	labels: enables prompt and accurate public health surveillance, prevention and control measures. Local transmission and clusters can be prevented or delayed by isolation of laboratory-confirmed cases and their close contacts quarantined and monitored at home	episode_done:True
+text: What other measures rapid diagnostics facilitates?	labels: specific public health interventions such as closure of high-risk facilities and areas associated with the confirmed cases for prompt infection control and environmental decontamination 	episode_done:True
+text: What  are ways to perform laboratory diagnostics?	labels:  (a) detecting the genetic material of the virus, (b) detecting the antibodies that neutralize the viral particles of interest, (c) detecting the viral epitopes of interest with antibodies (serological testing), or (d) culture and isolation of viable virus particles.	episode_done:True
+text: What are key limtations of genetic detection?	labels: lack of knowledge of the presence of viable virus, the potential cross-reactivity with non-specific genetic regions and the short timeframe for accurate detection during the acute infection phase.	episode_done:True
+text: What is a key limitation of serological  testing?	labels: the need to collect paired serum samples (in the acute and convalescent phases) from cases under investigation for confirmation to eliminate potential cross-reactivity from non-specific antibodies from past exposure and/or infection by other coronaviruses.	episode_done:True
+text: What is the limitation in virus testing?	labels:  the long duration and the highly specialized skills required of the technicians to process the samples. 	episode_done:True
+text: What was the result of the treatment?	labels: Significantly shorted time from the disease onset to the symptom improvement in treatment (5.10 ± 2.83 days) compared to control group (7.62 ± 2.27 days) (p < 0.05) No significant difference in blood routine improvement, pulmonary chest shadow in chest film improvement and corticosteroid usgae between the 2 groups. 	episode_done:True
+text: What  superiority did the treatment with integrative chinese and western medicine treatment have compared with using control treatment alone?	labels: in the respect of improving clinical symptoms, elevating quality of life, promoting immune function recovery, promoting absorption of pulmonary inflammation, reducing the dosage of cortisteroid and shortening the therapeutic course	episode_done:True
+text:  What was a characteristic of  SARS-CoV and MERS-CoV, specimens collected from the lower respiratory tract such as sputum and tracheal aspirates?	labels: have higher and more prolonged levels of viral RNA because of the tropism of the virus. 	episode_done:True
+text: How do severe cases compare with mild cases?	labels: viral loads are also higher for severe cases and have longer viral shedding compared to mild cases	episode_done:True
+text: What is the disadvantage of upper respiratory tract specimens?	labels: hey have potentially lower viral loads and may have higher risk of false-negatives among the mild MERS and SARS cases [102, 103] , and likely among the 2019-nCoV cases. 	episode_done:True
+text: What  are the existing practices in detecting  genetic material of viruses?	labels: (a) reverse transcription-polymerase chain reaction (RT-PCR), (b) real-time RT-PCR (rRT-PCR), (c) reverse transcription loop-mediated isothermal amplification (RT-LAMP) and (d) real-time RT-LAMP [104] . 	episode_done:True
+text: Why are Nucleic amplification tests (NAAT) usually preferred as in the case of MERS-CoV diagnosis?	labels: it has the highest sensitivity at the earliest time point in the acute phase of infection 	episode_done:True
+text: Where  was the first validated diagnostic test designed?	labels:  in Germany	episode_done:True
+text: How were the assays selected ?	labels: based on the match against 2019-nCoV upon inspection of the sequence alignment. 	episode_done:True
+text: How  were the assays used?	labels: Two assays were used for the RNA dependent RNA polymerase (RdRP) gene and E gene where E gene assay acts as the first-line screening tool and RdRp gene assay as the confirmatory testing. 	episode_done:True
+text: What were the results?	labels: All assays were highly sensitive and specific in that they did not cross-react with other coronavirus and also human clinical samples that contained respiratory viruses 	episode_done:True
+text: What did the trial on SAB-301 demonstrate?	labels:  to be safe and well-tolerated at single doses.	episode_done:True
+text: What conditions are caused by Staphylococcus aureus?	labels: mild skin infections to fatal necrotizing pneumonia	episode_done:True
+text: What percentage of healthy adults are asymptotically colonized by pneumococcus bacteria?	labels: 8-30%	episode_done:True
+text: What types of cells follow epithelial cells in the immune response to infections in the lung?	labels: alveolar macrophages	episode_done:True
+text: What enhances the expression of type I interferon?	labels: The subsequent infection with Gram-positive bacteria	episode_done:True
+text: What reduces the antimicrobial activities of alveolar macrophages?	labels: Reduced TNFα production by NK cells	episode_done:True
+text: What is Pneumolysin?	labels: a pneumococcal pore-forming toxin	episode_done:True
+text: What factors make bacterial and viral co-infections so lethal?	labels: epithelial barrier damage, exaggerated innate immune response, and cytokine storm	episode_done:True
+text: What are inovirus-associated vectors?	labels: engineered, non-lytic, filamentous bacteriophages	episode_done:True
+text: How can random peptide libraries be used in applications?	labels: the identification of peptide ligands by receptors, the mapping of substrate sites for enzymes, and the creation of antibody peptide libraries	episode_done:True
+text: Which Lactobacililus casei strain does not have the cholera toxin subunit A1 (CTA1) on the surface?	labels: pgsA-sM2/L. casei	episode_done:True
+text: What is the most effective treatment against influenza?	labels: Vaccination	episode_done:True
+text: What is the percentage decrease in influenza antibodies after 8 months after inoculation with the inactivated vaccine?	labels: 75%	episode_done:True
+text: Why is matrix protein 2 (M2) an attractive target for a universal influenza vaccine?	labels: highly conserved among influenza A virus strains	episode_done:True
+text: Why have M2-based vaccines been ineffective?	labels: low immunogenicity	episode_done:True
+text: Why are lactic acid bacteria considered an attractive delivery system for a live influenza vaccine?	labels: considered safe and exhibits an adjuvant-like effect on mucosal and systemic immunity	episode_done:True
+text: What primer pairs were used for PCR?	labels: 59-GGGGTACCTCATTATTAACA-39, and 59-ACGTCGACT-CATTATTCAAGTTCAATAATG AC-39	episode_done:True
+text: What is considered essential to boost the interaction of the influenza vaccine with the mucosal immune system?	labels: the incorporation of an adjuvant	episode_done:True
+text: Name some adjuvants that have been used with an influenza vaccine.	labels: liposomes, nanoparticles, and immunostimulating complexes (ISCOMs)	episode_done:True
+text: What was found in the lungs of the control mice in this study?	labels: severe pneumonitis	episode_done:True
+text: What did this study show?	labels: recombinant L. casei expressing CTA1-sM2 induced long-lasting immunity and conferred protection against lethal infections by influenza	episode_done:True
+text: What regulates the secretion of proinflammatory cytokines?	labels: Nod-like receptor family, pyrin domain-containing 3	episode_done:True

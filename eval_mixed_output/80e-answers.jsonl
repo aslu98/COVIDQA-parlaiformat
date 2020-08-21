@@ -1,0 +1,41 @@
+id:parlai_utilities/eval.txt	text: What do you know about COVID-19?	labels:covid 19 is a disease caused by a new type of virus . sometimes people also call it " coronavirus , " which is is the type of disease that causes covid 20 . covid 40 is caused by the new type - of virus that our body has not seen before . cov 40 is also caused by an old type of coronaa virus that has recently spread to our body .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What COVID 19 symptoms require that I seek medical help?	labels:covid - 19 is a disease caused by a new type of virus . sometimes people also call it " coronavirus , " which is is the type of disease that causes covid ( 2 ) . covid [ 2 ] is an example of a type of coronaa that has recently spread to other people .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is the best way to protect yourself from Covid 19?	labels:covid - 19 is a disease caused by a new type of virus . sometimes people also call it " coronavirus , " which is is the type of disease that causes covid ( 2 ) . covid " es " stands for " severe acute respiratory syndrome " , meaning that it can cause serious problems with breathing and the lungs .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What are the symptoms of COVID-19?	labels:people might be able to spread the disease before people realize they are sick . but most scientists think that people are most likely to infect others when they have symptoms and feel sick . canada public health services is doing research to try to answer this question .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:If you contract COVID 19 how do you treat yourself at home?	labels:covid - 19 is a disease caused by a new type of virus . sometimes people also call it " coronavirus , " which is is the type of disease that causes covid ( 2 ) . covid ~ 2 is the name for the type - 2 virus that causes the disease . cov ~ 2 means " long - term exposure to covid " in this case , meaning that it can cause serious problems with your health . covh ~ 2 has been described as the name of the virus that caused the virus . since covid is a type of coronaa , it is usually used when people talk about how to fight off other people who are sick . covs . when people say " fight off " when people " , " when it is actually referring to get sick from the virus or to get help . covirignon - like " who gets the virus who gets sick from it is not getting sick from what we are not getting healthcare .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do I need to get tested if I don t have a fever?	labels:if you do not have any symptoms , you will be asked to : 1 . self - quarantine for 14 days after you get home . 2 . do not go out with friends or family . 3 . wash your hands frequently with soap and water for at least 20 seconds , especially after going to the bathroom . 4 . wash hands with soap , water , or water for 20 seconds before touching your face or eyes . 5 . cover your mouth and nose with your arm or a tissue when you sneezes or sneezing . if you have symptoms of covid - 19 , call your health care provider and let them know you are sick . if your doctor says you have not yet , please call your local healthcare provider to be safe and let their help . if there is not available . if it is not . 5 - call your doctor or your local hospital or your health authority . if the time is available , call a local hospital . if not - based on a local health care station . if youcan call your state has a local healthcare care provider . if its free time off - based based - based - call or ncutncubale .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:How long does the virus live on surfaces?	labels:covid - 19 can spread in a few different ways . it can spread from person to person if you inhale an infected person ' s respiratory droplets when they sneezes , coughs , or talk . it also can spead if you touch something that an infected individual has touched , like a door knob , elevator button , or bathroom faucet . that ' s why it ' s important to wash your hands , avoid touching your face , and practice social distancing to avoid getting sick . that means using a self - isolating hand .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Should I stay home?	labels:if you are having symptoms of covid - 19 , call your health care provider and tell them you are pregnant . if you do not have a health care providers office , you can call 2 - 1 - 1 to be connected with a local hospital or clinic . this means you should stay at least 6 feet ( 2 meters ) away from other people , wash your hands frequently , and avoid touching your face or eyes . when handling the virus , act as though it is happening right now . don ' t touch your face , nose , or eyes !	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is corona virus?	labels:coronaviruses are a large family of viruses . there are different types of coronas . some types of covid - 19 are more common in people and some versions are more rare in animals . rarely , a type of the virus that was common in animals can spread to people . " coronasthma " is an example of a type that has recently spread to humans . it is different from the type of corona that was first found in china .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Is it true that you can get the virus again even after you ve recovered?	labels:if you are having symptoms of covid - 19 , call your health care provider to be tested . if you do not have a health care providers office , call 2 - 1 - 1 to be connected with a local community or hospital - connected clinic for referral to a test site .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your hobby?	labels:i like to read and play videogames . i also like to watch the world map by the johns hopkins university .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What do you do for a living?	labels:i work in the medical field , and i am currently studying to be a nurse .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do you have any pets?	labels:i have two dogs . they are both rescues and they are very active . they help keep the dog company and keep the house clean .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do you have any brothers or sisters?	labels:i do not have any children . i do have a few friends who are older and have been in the hospital a few times , though . we are still learning about how covid - 19 affects children .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your favourite band?	labels:i love the band " the beatles " . they are an american band from new york city .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:When was the last time you went to the movie theater?	labels:last week	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Where do you live?	labels:in the city of new york city , new york .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What did you do today?	labels:i did not have any symptoms , but i did have a fever and cough . it was like a cold . i was fever - free for a few hours , then i had to go to the hospital . it is not known if the fever was from the fever or if the virus was from a cold or flu .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your favourite food?	labels:chicken	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Have you ever been to Italy?	labels:i have been to the capital of italy , the capital city of the united states .	episode_done:True
+
+

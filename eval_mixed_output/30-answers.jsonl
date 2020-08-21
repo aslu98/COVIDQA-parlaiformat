@@ -1,0 +1,41 @@
+id:parlai_utilities/eval.txt	text: What do you know about COVID-19?	labels:the virus can spread from person to person . it can also be caused by a variety of things . it is also caused by different types of virus .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What COVID 19 symptoms require that I seek medical help?	labels:covid - 19 is a disease caused by a new type of virus . it can spread from person to person . it is also caused by an old type of disease .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is the best way to protect yourself from Covid 19?	labels:covid - 19 is a disease caused by a new type of virus . the new type is different from the old type , so it is different for everyone . the old types are more likely to spread to people who have been infected with covid ( e . g . , people with cov - 19 might not get sick from people who are infected with the new types ) . the older types are likely to get sick when they get a cold or flu .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What are the symptoms of COVID-19?	labels:covid 19 is a disease caused by a new type of virus . it can spread from person to person . it is also caused by an old type of disease that has been around for a while .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:If you contract COVID 19 how do you treat yourself at home?	labels:covid - 19 is a disease that causes a new type of virus called " covid " . it is caused by a new virus that has recently been discovered .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do I need to get tested if I don t have a fever?	labels:if you have been sick with covid - 19 , you should talk to your doctor about how you can avoid getting sick with it . if you do not have symptoms , you can still get a test for covid 19 . this test is for people who have been infected with cov - 19 and have been tested for cov . this means you should still get tested for the virus that you are infected with . this is because you should not have been exposed to covid when you were younger . this way , you are still learning about how to avoid getting covid . this includes how to protect against the virus from other virus . when you get a cold or flu , you need to talk to a doctor about the symptoms that are not known to you have had before .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:How long does the virus live on surfaces?	labels:the virus can spread from person to person . it can also spread from someone who has been sick to someone who hasn ' t . it is also known as " covid - 19 " . covid covid is a type of virus that can spread through the air . cov - 19 is a virus that spreads from person - to - person . covue is a disease that can be spread from people to people . covs - 19 can spread to people who have been sick before . covinized covid virus is a new type of cov . that is , it can spread between people who are sick and people who haven ' t been sick . coincel cov is a different type of the virus that causes covid . cova - 19 . covy is a . covanex - 19 causes cov virus that is caused by a new infancy disease that causes a new covid that causes new infecting cell that causes . cou . coc . coe . coct . coz . cod . cog - 19 has to the virus .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Should I stay home?	labels:if you are sick with covid - 19 , you should stay home and practice covid 19 . if you do not have covid , you can practice cov - 19 and practice at home . this means you should practice at least once a week . if your sick with a disease that you do have not yet known to be dangerous , you could try to practice at a hospital or at home as much as you can . this is the most important thing to do when you are at home and you are not sure if you have cov or not . if there is a disease you are having that you are worried about , call your doctor to be asked to go to a hospital . if they are able to recommend you practice at your symptoms . if it is too dangerous to do that you stay home . if not have a doctor or have covhttc - 19 or not yet .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is corona virus?	labels:coronavirus is a disease caused by a new type of virus . it is caused by an old type of disease .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Is it true that you can get the virus again even after you ve recovered?	labels:if you have been sick with covid - 19 , you should talk to your doctor about how you can avoid getting sick with it . if you do not have covid 19 , your doctor will recommend you stay home and practice social distancing . this means staying at least 6 feet ( 2 meters ) away from other people . when you get sick , please talk to a doctor about your symptoms . if your doctor says you can ' t get sick with the virus , call your local hospital to get a referral to a local hospital .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your hobby?	labels:i like to play the piano and play with my friends . i also like to watch tv .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What do you do for a living?	labels:i work in a hospital as a nurse .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do you have any pets?	labels:i have a dog . he is a little bit of a handful . he can ' t keep up with me . he ' s a bit of an inconsiderate dog .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Do you have any brothers or sisters?	labels:no , but i do have a few close friends . we are still learning about how covid - 19 affects our immune system .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your favourite band?	labels:i love the band " the beatles " . they are an american rock band .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:When was the last time you went to the movie theater?	labels:last week	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Where do you live?	labels:in the city of new york city , new york	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What did you do today?	labels:i was able to sleep through the night . i was so tired from working so much that i had to go to the hospital .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:What is your favourite food?	labels:i love to eat healthy foods . but i also love to try new foods . i love trying new foods that are different from what i ' m used to .	episode_done:True
+
+id:parlai_utilities/eval.txt	text:Have you ever been to Italy?	labels:i have not , but i would love to go to italy . it is the world ' s most visited city .	episode_done:True
+
+
