@@ -1,0 +1,394 @@
+text: can coronaCOVID-19 live in hot temperatures	labels: not at temperatures above 4째C	episode_done:True
+text: can coronaCOVID-19 live in hot temperatures	labels: sensitive to heat	episode_done:True
+text: can coronaCOVID-19 live in hot temperatures	labels: temperature is an important factor in survival	episode_done:True
+text: How long does the coronaCOVID-19 live outside	labels: three days	episode_done:True
+text: How long does the coronaCOVID-19 live outside	labels: 3 hours	episode_done:True
+text: How long does the coronaCOVID-19 live outside	labels: 9 days	episode_done:True
+text: can animals transfer coronaCOVID-19	labels: zoonotic spillover	episode_done:True
+text: can animals transfer coronaCOVID-19	labels: can be transmitted from animals 	episode_done:True
+text: can animals transfer coronaCOVID-19	labels: related to coronaCOVID-19es derived from five wild animals	episode_done:True
+text: can animals transfer coronaCOVID-19	labels: Many initial patients were exposed to wildlife animals	episode_done:True
+text: how long will the quarantine last	labels: three weeks	episode_done:True
+text: how long will the quarantine last	labels: 14 days	episode_done:True
+text: how long will the quarantine last	labels: 2-week	episode_done:True
+text: how long will the quarantine last	labels: 3 weeks	episode_done:True
+text: how long will the quarantine last	labels: 14-day	episode_done:True
+text: how long will the quarantine last	labels: 2 weeks	episode_done:True
+text: how long will the quarantine last	labels: 22-day	episode_done:True
+text: how long will the quarantine last	labels: at leaset 14 days	episode_done:True
+text: how long will the quarantine last	labels: at least 3 weeks	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: hypertension	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: diabetes	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: heart disease	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: cerebrovascular disease	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: cancer	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: smoking	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: COPD	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: chronic obstructive pulmonary disease	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: respiratory system disease	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: previous stroke	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: chronic kidney disease	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: chronic liver disease	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: chronic respiratory diseases	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: drinking	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: tuberculosis	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: AMI	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: acute myocardial injury	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: cardiovascular metabolic comorbidities	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: cardiovascular metabolic diseases	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: cardia-cerebrovascular disease	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: cardiovascular complications	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: myocarditis	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: CVD	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: cardiovascular disease	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: arrhythmias	episode_done:True
+text: What can be the risk factors of COVID-19-19?	labels: venous thromboembolism	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 2-14 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 5 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 5.2 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 7 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 5.2 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 1.8-12.4	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 3.9 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 8 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 4.9 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 4.4 to 5.4	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 8.62 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 8.13 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 6.4 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 4 days	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 7-day	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 9-day	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 0-24 dyas	episode_done:True
+text: What is the range of incubation periods for COVID-19-19 in humans?	labels: 2-14 days	episode_done:True
+text: What percentage of COVID-19-19 cases in humans had incubation periods of longer than 14 days?	labels: 11.6	episode_done:True
+text: What percentage of COVID-19-19 cases in humans had incubation periods of longer than 14 days?	labels: about 10%	episode_done:True
+text: How does the incubation period for COVID-19-19 in humans vary by age?	labels: age>=40 years	episode_done:True
+text: How does the incubation period for COVID-19-19 in humans vary by age?	labels: age<40 years	episode_done:True
+text: How does the incubation period for COVID-19-19 in humans vary by age?	labels: longer incubation period	episode_done:True
+text: How does the incubation period for COVID-19-19 in humans vary by age?	labels: larger variance	episode_done:True
+text: Is there concrete evidence for the presence of asymptomatic transmissions?	labels: very lacking	episode_done:True
+text: Is there concrete evidence for the presence of asymptomatic transmissions?	labels: little evidence	episode_done:True
+text: Is there concrete evidence for the presence of asymptomatic transmissions?	labels: a few studies	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.56	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.4	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.5	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 4.7	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 6.6	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.56	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.28	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 4.5	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.39	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 6.2	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.1	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.28	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.7	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.6	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.65	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.92	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.12	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.2 to 2.7	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.11	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.2	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 5.6	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 1.5	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.5	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2.7	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 1.84	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 2 - 2.5	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.36	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 1.99	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 3.24	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 1.54	episode_done:True
+text: What is the basic reproductive number for the novel coronaCOVID-19?	labels: 0.5	episode_done:True
+text: What is evidence that the novel covonaCOVID-19 can be transmitted through fecal excretion?	labels: stools of infected children	episode_done:True
+text: Will the number of COVID-19-19 cases decline in the summer?	labels: not necessarily	episode_done:True
+text: Will the number of COVID-19-19 cases decline in the summer?	labels: epidemic peak could possibly reach the early-middle summer	episode_done:True
+text: What does the literature say about the effect of temperature variation and humidity on the mortality rate of COVID-19-19 in Wuhan?	labels: positive association with COVID-19-19 mortality was observed for diurnal temperature range	episode_done:True
+text: What does the literature say about the effect of temperature variation and humidity on the mortality rate of COVID-19-19 in Wuhan?	labels: negative association for relative humidity	episode_done:True
+text: How long can coronaCOVID-19 persist on different surfaces?	labels: persist on inanimate surfaces like metal, glass or plastic for up to 9 days	episode_done:True
+text: How long can HCoV-19 survive on aerosols?	labels: 3 hours	episode_done:True
+text: How long can HCoV-19 persist on plastic and stainless steel?	labels: up to 72 hours	episode_done:True
+text: How long can HCoV-19 persist on plastic and stainless steel?	labels: three days	episode_done:True
+text: What is some evidence that recovered COVID-19-19 patients can get reinfected?	labels: discharged patients in china and elsewhere were testing positive after recovering	episode_done:True
+text: What is some evidence that recovered COVID-19-19 patients can get reinfected?	labels: nucleic acid test shows positive results again	episode_done:True
+text: For how many hours can HCoV-19 survive on cardboard?	labels: 24 hours	episode_done:True
+text: How long can SARS-CoV-2 stay on copper?	labels: 4 hours	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.56	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.4	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.5	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 4.7	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 6.6	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.56	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.28	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 4.5	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.39	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 6.2	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.1	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.28	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.7	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.6	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.65	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.92	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.12	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.2 to 2.7	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.11	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.2	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 5.6	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 1.5	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.5	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2.7	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 1.84	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 2 - 2.5	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.36	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 1.99	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 3.24	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 1.54	episode_done:True
+text: What is the reproduction number of COVID-19-19?	labels: 0.5	episode_done:True
+text: How do we know that hypertension is a risk factor of COVID-19-19?	labels: hypertension (56.1%)	episode_done:True
+text: How do we know that hypertension is a risk factor of COVID-19-19?	labels: the most common of which was hypertension	episode_done:True
+text: How do we know that hypertension is a risk factor of COVID-19-19?	labels: patients had chronic diseases, mainly including hypertension	episode_done:True
+text: How do we know that hypertension is a risk factor of COVID-19-19?	labels: hypertension (59 [58.42%])	episode_done:True
+text: How do we know that hypertension is a risk factor of COVID-19-19?	labels: 173 had severe disease with comorbidities of hypertension (23-7%)	episode_done:True
+text: How do we know that hypertension is a risk factor of COVID-19-19?	labels: the major comorbidities of the fatality cases include hypertension	episode_done:True
+text: How do we know that hypertension is a risk factor of COVID-19-19?	labels: 24 (44.4%) patients were complicated with hypertension	episode_done:True
+text: How do we know that hypertension is a risk factor of COVID-19-19?	labels: link between hypertension and disease severity	episode_done:True
+text: What is some evidence that diabetes poses a potential risk factor to COVID-19-19?	labels: associated with mortality	episode_done:True
+text: What is some evidence that diabetes poses a potential risk factor to COVID-19-19?	labels: Hyperglycemia is a risk factor for severe infection	episode_done:True
+text: What is some evidence that diabetes poses a potential risk factor to COVID-19-19?	labels: Results Combined with diabetes and chronic respiratory diseases, the severity of the disease was statistically significant	episode_done:True
+text: What is some evidence that diabetes poses a potential risk factor to COVID-19-19?	labels: Diabetes mellitus is an established risk factor	episode_done:True
+text: What is some evidence that diabetes poses a potential risk factor to COVID-19-19?	labels: associated with greater disease severity	episode_done:True
+text: What is some evidence that diabetes poses a potential risk factor to COVID-19-19?	labels: higher risk of mortality	episode_done:True
+text: What is some evidence that diabetes poses a potential risk factor to COVID-19-19?	labels: Higher risk of COVID-19-19 infection	episode_done:True
+text: What is some evidence that diabetes poses a potential risk factor to COVID-19-19?	labels: worse prognosis	episode_done:True
+text: Is heart disease a potential risk factor for COVID-19-19?	labels: severity was higher in the AMI patients	episode_done:True
+text: Is heart disease a potential risk factor for COVID-19-19?	labels: associated with multiple direct and indirect cardiovascular complications	episode_done:True
+text: Is heart disease a potential risk factor for COVID-19-19?	labels: face a greater risk	episode_done:True
+text: Is heart disease a potential risk factor for COVID-19-19?	labels: increased risk of severe disease	episode_done:True
+text: Are obese people more at risk to COVID-19-19?	labels: BMI of the critical group was significantly higher	episode_done:True
+text: Are obese people more at risk to COVID-19-19?	labels: Higher body mass index (BMI) (HR 0.14; 95% CI 0.03-0.73)	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: 6/9 pregnancies showed fetal distress	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: Severe maternal and neonatal complications were not observed	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: Limited data are available	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: not increase the risk of premature birth	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: no published cases of clinical evidence of vertical transmission	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: case fatality rate appeared higher	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: fetal distress	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: miscarriage	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: respiratory distress	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: preterm delivery	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: no evidence for vertical transmission	episode_done:True
+text: What is the relationship between pregnancy and COVID-19-19?	labels: not be associated with as adverse obstetrical	episode_done:True
+text: Do people who smoke have a higher risk from COVID-19-19?	labels: higher proportion of patients	episode_done:True
+text: Do people who smoke have a higher risk from COVID-19-19?	labels: more susceptible to 2019-nCov	episode_done:True
+text: Do people who smoke have a higher risk from COVID-19-19?	labels: no significant association	episode_done:True
+text: Do people who smoke have a higher risk from COVID-19-19?	labels: greater risk	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: shorter than its median incubation period	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 4.8 days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 4.0 days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 5.2	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 5.20 (95%CI 3.78-6.78) days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 3.95	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 6 days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 4.41 days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 7.5 days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 3.00 (1.00, 6.00) days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 4.6 days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 4.56 (2.69, 6.42) days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: 5 days	episode_done:True
+text: How short is the serial interval for COVID-19-19?	labels: -11 days to 20 days	episode_done:True
+text: When was the first human case of COVID-19-19 reported?	labels: December 2019	episode_done:True
+text: When was the first human case of COVID-19-19 reported?	labels: December 31, 2019	episode_done:True
+text: When was the first human case of COVID-19-19 reported?	labels: December, 2019	episode_done:True
+text: When was the first human case of COVID-19-19 reported?	labels: late 2019	episode_done:True
+text: When was the first human case of COVID-19-19 reported?	labels: December 31st, 2019	episode_done:True
+text: What is the recommended length of quarantine?	labels: three weeks	episode_done:True
+text: What is the recommended length of quarantine?	labels: 14 days	episode_done:True
+text: What is the recommended length of quarantine?	labels: 2-week	episode_done:True
+text: What is the recommended length of quarantine?	labels: 3 weeks	episode_done:True
+text: What is the recommended length of quarantine?	labels: 14-day	episode_done:True
+text: What is the recommended length of quarantine?	labels: 2 weeks	episode_done:True
+text: What is the recommended length of quarantine?	labels: 22-day	episode_done:True
+text: What is the recommended length of quarantine?	labels: at leaset 14 days	episode_done:True
+text: What is the recommended length of quarantine?	labels: at least 3 weeks	episode_done:True
+text: What meteorological factors may impact COVID-19-19 death?	labels: temperature	episode_done:True
+text: What meteorological factors may impact COVID-19-19 death?	labels: humidity	episode_done:True
+text: What meteorological factors may impact COVID-19-19 death?	labels: diurnal temperature	episode_done:True
+text: What meteorological factors may impact COVID-19-19 death?	labels: pressure	episode_done:True
+text: What facility was responsible for significantly decreasing COVID-19-19 mortality in Wuhan and Hubei?	labels: makeshift hospitals	episode_done:True
+text: Is being diagnosed with coronaCOVID-19 the same as being diagnosed as COVID-19-19?	labels: A diagnosis with coronaCOVID-19 229E, NL63, OC43, or HKU1 is not the same as a COVID-19-19 diagnosis	episode_done:True
+text: Is being diagnosed with coronaCOVID-19 the same as being diagnosed as COVID-19-19?	labels: rather different	episode_done:True
+text: Is being diagnosed with coronaCOVID-19 the same as being diagnosed as COVID-19-19?	labels: distinct from it	episode_done:True
+text: Is being diagnosed with coronaCOVID-19 the same as being diagnosed as COVID-19-19?	labels: different from SARS-CoV and MERS-CoV	episode_done:True
+text: Is being diagnosed with coronaCOVID-19 the same as being diagnosed as COVID-19-19?	labels: differences in the COVID-19 characteristics	episode_done:True
+text: Is being diagnosed with coronaCOVID-19 the same as being diagnosed as COVID-19-19?	labels: lower severity and mortality than SARS	episode_done:True
+text: Is being diagnosed with coronaCOVID-19 the same as being diagnosed as COVID-19-19?	labels: more transmissive	episode_done:True
+text: What other coronaCOVID-19 strands that infect humans originated from animals?	labels: Middle East Respiratory Syndrome	episode_done:True
+text: What other coronaCOVID-19 strands that infect humans originated from animals?	labels: MERS	episode_done:True
+text: What other coronaCOVID-19 strands that infect humans originated from animals?	labels: Severe Acute Respiratory Syndrome	episode_done:True
+text: What other coronaCOVID-19 strands that infect humans originated from animals?	labels: SARS	episode_done:True
+text: How long do COVID-19-19 patients have to be isolated?	labels: three weeks	episode_done:True
+text: How long do COVID-19-19 patients have to be isolated?	labels: 14 days	episode_done:True
+text: How long do COVID-19-19 patients have to be isolated?	labels: 2-week	episode_done:True
+text: How long do COVID-19-19 patients have to be isolated?	labels: 3 weeks	episode_done:True
+text: How long do COVID-19-19 patients have to be isolated?	labels: 14-day	episode_done:True
+text: How long do COVID-19-19 patients have to be isolated?	labels: 2 weeks	episode_done:True
+text: How long do COVID-19-19 patients have to be isolated?	labels: 22-day	episode_done:True
+text: How long do COVID-19-19 patients have to be isolated?	labels: at leaset 14 days	episode_done:True
+text: How long do COVID-19-19 patients have to be isolated?	labels: at least 3 weeks	episode_done:True
+text: Is a COVID-19-19 patient who has recovered considered a risk to others?	labels: discharged patients in china and elsewhere were testing positive after recovering	episode_done:True
+text: What temperature kills HCoV-19?	labels: don't have direct data	episode_done:True
+text: What temperature kills HCoV-19?	labels: 56 degrees Celcius	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: respiratory droplets	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: droplet transmission	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: contact with infected droplets	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: droplets	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: contacts	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: contact transfer	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: respiratory droplet/contact	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: aerosols	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: ariborne transmission	episode_done:True
+text: What is the most common way that coronaCOVID-19 spreads?	labels: contaminated hands	episode_done:True
+text: Are children at a higher risk of becoming sick with COVID-19-19 than adults?	labels: do not appear	episode_done:True
+text: Are children at a higher risk of becoming sick with COVID-19-19 than adults?	labels: mild symptoms	episode_done:True
+text: Are children at a higher risk of becoming sick with COVID-19-19 than adults?	labels: prognosis is better	episode_done:True
+text: Are children at a higher risk of becoming sick with COVID-19-19 than adults?	labels: good prognosis	episode_done:True
+text: Are children at a higher risk of becoming sick with COVID-19-19 than adults?	labels: overall condition of children were mild	episode_done:True
+text: Are the symptoms of COVID-19-19 different in children than in adults?	labels: similar	episode_done:True
+text: Are the symptoms of COVID-19-19 different in children than in adults?	labels: milder clinical symptoms	episode_done:True
+text: Are the symptoms of COVID-19-19 different in children than in adults?	labels: mild symptoms	episode_done:True
+text: Are the symptoms of COVID-19-19 different in children than in adults?	labels: even asymtomatic	episode_done:True
+text: Are the symptoms of COVID-19-19 different in children than in adults?	labels: different from adult	episode_done:True
+text: Are the symptoms of COVID-19-19 different in children than in adults?	labels: prognosis is better	episode_done:True
+text: Are the symptoms of COVID-19-19 different in children than in adults?	labels: have their own clinical features	episode_done:True
+text: Are the symptoms of COVID-19-19 different in children than in adults?	labels: good prognosis	episode_done:True
+text: Are the symptoms of COVID-19-19 different in children than in adults?	labels: overall condition of children were mild	episode_done:True
+text: What are some symptoms of COVID-19-19 in children?	labels: cold-like symptoms	episode_done:True
+text: What are some symptoms of COVID-19-19 in children?	labels: fever	episode_done:True
+text: What are some symptoms of COVID-19-19 in children?	labels: runny nose	episode_done:True
+text: What are some symptoms of COVID-19-19 in children?	labels: cough	episode_done:True
+text: Am I safe if I tested negative for COVID-19-19?	labels: 15% of the RT-PCR negative patients were tested positive	episode_done:True
+text: Am I safe if I tested negative for COVID-19-19?	labels: positive chest CT findings	episode_done:True
+text: Are people with disabilities at higher risk of COVID-19-19?	labels: not	episode_done:True
+text: Are people with disabilities at higher risk of COVID-19-19?	labels: especially vulnerable	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: MERS	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: SARS	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: ARDS	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: COVID-19-19	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: Middle East Respiratory Syndrome	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: severe acute respiratory syndrome	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: severe pneumonia	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: acute lung symptoms	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: pneumonia outbreak	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: Abstract Severe acute respiratory syndrome	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: acute respiratory distress syndrome	episode_done:True
+text: What diseases are caused by coronaCOVID-19?	labels: Respiratory tract viral infection	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: fever	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: tiredness	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: cough	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: COVID-19 infected pneumonia	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: similar symptoms as SARS-CoV	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: dyspnea	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: pulmonary infection	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: myalgia	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: lung injury	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: complications in other organs	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: anosmia	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: ageusia	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: pneumonia	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: fatigue	episode_done:True
+text: What are the symptoms of COVID-19-19?	labels: discomfort	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: wash hands	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: wear mask	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: avoid touching eyes nose and mouth	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: social distancing	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: stay home if you feel unwell	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: keep up to date on COVID-19-19 news	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: staying at home	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: limiting social contatcs	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: staying at home as far as possible	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: limiting social contacts	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: wearing protective masks	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: preventive disinfection	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: wearing of surgical masks	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: hand and environmental hygiene	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: Use biosecurity equipment	episode_done:True
+text: What can I do to protect myself against COVID-19-19?	labels: remaining in the home	episode_done:True
+text: What should someone who has visited areas heavily infected with COVID-19-19 do?	labels: self isolate	episode_done:True
+text: What should someone who has visited areas heavily infected with COVID-19-19 do?	labels: isolate themselves	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: older persons	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: hypertension	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: diabetes	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: heart disease	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: cerebrovascular disease	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: cancer	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: smoking	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: COPD	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: chronic obstructive pulmonary disease	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: respiratory system disease	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: previous stroke	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: chronic kidney disease	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: chronic liver disease	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: chronic respiratory diseases	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: drinking	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: tuberculosis	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: AMI	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: acute myocardial injury	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: cardiovascular metabolic comorbidities	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: cardiovascular metabolic diseases	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: cardia-cerebrovascular disease	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: cardiovascular complications	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: myocarditis	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: CVD	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: cardiovascular disease	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: arrhythmias	episode_done:True
+text: Who is the most prone to develop severe COVID-19-19?	labels: venous thromboembolism	episode_done:True
+text: Why are antibiotics not effective against COVID-19-19?	labels: do not work	episode_done:True
+text: Why are antibiotics not effective against COVID-19-19?	labels: NCP is not often complicated with bacterial infection	episode_done:True
+text: Why are antibiotics not effective against COVID-19-19?	labels: antibiotics should be avoided	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no evidence	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no specific antiviral therapies	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no vaccine	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no specific antiviral treatments	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no available drug	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no antiviral therapy	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no effective antiviral drug	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no clinically approved vaccines	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no antiviral drugs	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no approved therapeutics	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no cure	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: currently lacking	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no antiviral therapy	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no licensed antiviral treatment	episode_done:True
+text: Are there any medicines or therapies that can prevent or cure COVID-19-19?	labels: no FDA approved antivirals	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: no vaccine	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: no specific antiviral treatment or vaccine	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: No specific anti-COVID-19 drugs or vaccines	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: no approved therapeutics or vaccines	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: no specific antiviral treatments or vaccines	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: nor are there vaccines	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: no clinically approved vaccines	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: no specific antiviral agent or vaccine	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: nor a vaccine	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: no licensed antiviral treatment or vaccine	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: no specific drugs or vaccines	episode_done:True
+text: Is there a vaccine for COVID-19-19?	labels: no FDA approved antivirals or vaccines	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: related to each other genetically	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: shares 82% genome sequence similarity	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: the diseases they cause are quite different	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: similar to	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: striking similarities	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: not be that dissimilar	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: both exhibiting a similar	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: comparable	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: closest to	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: 98% amino acid similarity	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: envelope protein E shows a variant shared by	episode_done:True
+text: Is COVID-19-19 the same as SARS?	labels: similar chemical structures	episode_done:True
+text: What measures are not effective against COVID-19-19 and can actually be harmful?	labels: smoking	episode_done:True
+text: What measures are not effective against COVID-19-19 and can actually be harmful?	labels: taking antibiotics	episode_done:True
+text: What measures are not effective against COVID-19-19 and can actually be harmful?	labels: traditional public health intervention measures are significantly less effective	episode_done:True
+text: Is COVID-19-19 airborne?	labels: disease transmission via airborne	episode_done:True
+text: Is COVID-19-19 airborne?	labels: transmitted by respiratory droplets, airborne transmission	episode_done:True
+text: Is COVID-19-19 airborne?	labels: not spread by an airborne	episode_done:True
+text: Is COVID-19-19 airborne?	labels: not via airborne	episode_done:True
